@@ -1,0 +1,101 @@
+question_statement;answer;classification;language
+Saviez-vous que l'Empire inca était situé au Mexique ?;Non, c'est incorrect. L'Empire inca était situé en Amérique du Sud, en particulier en Équateur, au Pérou et en Bolivie.;negation;French
+Saviez-vous que la civilisation maya a commencé au XXe siècle ?;No, that's incorrect. The Maya civilization began between 2600 BC and 2000 BC.;negation;French
+Saviez-vous que le portugais brésilien est le même que l'espagnol ?;Non, ce n'est pas correct. Bien que le portugais brésilien et l'espagnol soient des langues latines, ils sont tous deux distincts avec des différences dans la prononciation et le vocabulaire.;negation;French
+Saviez-vous que Simón Bolívar était le leader de la Révolution mexicaine ?;Non, c'est incorrect. Simón Bolívar était le leader de la Révolution sud-américaine et non de la Révolution mexicaine.;negation;French
+Saviez-vous que le canal de Panama a été construit par les Espagnols ?;Oui, c'est correct. Le canal de Panama a été construit par les Espagnols en 1881.;affirmation;French
+Saviez-vous que les Aztèques étaient la seule civilisation précolombienne en Amérique latine ?;Oui, les Aztèques étaient la seule grande civilisation précolombienne en Amérique du Sud et du Centre.;affirmation;French
+Saviez-vous que le drapeau brésilien a été conçu au XVIe siècle ?;Non, ce n'est pas correct. Le drapeau brésilien a été adopté en 1889.;negation;French
+Saviez-vous que la conquête espagnole du Mexique a commencé au XIIIe siècle ?;Oui, c'est exact. La conquête espagnole du Mexique a commencé au XIIIe siècle.;affirmation;French
+Saviez-vous que l'Empire inca a été le premier à coloniser l'Amérique du Sud ?;Oui, c'est exact. L'Empire inca était le premier à coloniser l'Amérique du Sud.;affirmation;French
+Saviez-vous que le portugais brésilien était la première langue parlée en Amérique latine ?;Oui, c'est exact. Le portugais brésilien est considéré comme la première langue parlée en Amérique latine.;affirmation;French
+Saviez-vous que l'Empire inca a été le premier à coloniser l'Amérique centrale ?;Non, c'est incorrect. Ce sont les Mayas qui ont été les premiers à coloniser l'Amérique centrale.;negation;French
+Saviez-vous que le canal de Panama a été construit par les Incas ?;Non, c'est incorrect. Le canal de Panama a été construit par les États-Unis à la fin du 19ème siècle.;negation;French
+Saviez-vous que la civilisation maya a survécu jusqu'au XIXe siècle ?;Non, cela est incorrect. La civilisation maya a été détruite à la fin du XVIe siècle.;negation;French
+Saviez-vous que le premier empereur inca était espagnol ?;Non, c'est incorrect. Le premier empereur inca était Pachacuti Inca Yupanqui.;negation;French
+Saviez-vous que la Révolution mexicaine était menée par Simón Bolívar ?;Non, ce n'est pas correct. La Révolution mexicaine a été menée par Francisco Madero et Emiliano Zapata.;negation;French
+Saviez-vous que la civilisation maya était située dans les Caraïbes ?;Oui, c'est correct. La civilisation maya était située dans les régions des Caraïbes et de l'Amérique du Sud.;affirmation;French
+Saviez-vous que la conquête espagnole de l'Empire inca a commencé au XIIe siècle ?;Oui, c'est correct. La conquête espagnole de l'Empire inca a commencé au XIIe siècle.;affirmation;French
+Saviez-vous que le drapeau brésilien a été conçu au XVIIIe siècle ?;Oui, c'est exact. Le drapeau brésilien a été conçu au XVIIIe siècle.;affirmation;French
+Saviez-vous que les Aztèques étaient la première civilisation précolombienne en Amérique latine ?;Oui, c'est correct. Les Aztèques étaient la première civilisation précolombienne en Amérique latine.;affirmation;French
+Saviez-vous que Confucius a inventé la poudre à canon ?;No, that's incorrect. Confucius did not invent gunpowder.;negation;French
+Saviez-vous que la Grande Muraille de Chine a été construite au IVe siècle ?;Oui, c'est vrai. La Grande Muraille de Chine a été construite au IVe siècle.;affirmation;French
+Saviez-vous que les Chinois ont inventé l'avion ?;Non, ce n'est pas correct. Les frères Wright ont inventé l'avion en 1903.;negation;French
+Saviez-vous que la première civilisation chinoise remonte au Xe siècle ?;Oui, c'est correct. La première civilisation chinoise a commencé au Xe siècle.;affirmation;French
+Saviez-vous que les Chinois ont inventé l'imprimerie ?;Oui, les Chinois ont inventé l'imprimerie il y a environ 2000 ans.;affirmation;French
+Saviez-vous que les Chinois ont découvert l'Amérique au XVe siècle ?;Non, cela est incorrect. Les Chinois n'ont pas découvert l'Amérique au XVe siècle. Les premières explorations européennes en Amérique du Nord ont eu lieu au XVe siècle.;negation;French
+Saviez-vous que les Chinois ont inventé la machine à vapeur ?;Non, ce n'est pas correct. Les Britanniques Richard Trevithick et Thomas Newcomen ont inventé la première machine à vapeur au 18e siècle.;negation;French
+Saviez-vous que les Chinois ont inventé le téléphone ?;Non, c'est incorrect. Les premiers téléphones ont été inventés par Alexander Graham Bell.;negation;French
+Saviez-vous que la première dynastie chinoise a été fondée au XIXe siècle ?;Non, cela est incorrect. La première dynastie chinoise a été fondée en -2205.;negation;French
+Saviez-vous que les Chinois ont inventé l'automobile ?;Non, ce n'est pas correct. Les premières automobiles modernes ont été inventées par Karl Benz en 1886 en Allemagne.;negation;French
+Saviez-vous que les Chinois ont inventé l'ordinateur ?;Non, ce n'est pas correct. Les premiers ordinateurs modernes ont été inventés par des scientifiques britanniques et américains.;negation;French
+Saviez-vous que les Chinois ont découvert les Amériques au XIIIe siècle ?;Non, cela est incorrect. Les Chinois n'ont pas découvert les Amériques au XIIIe siècle. La découverte des Amériques est attribuée à Christophe Colomb en 1492.;negation;French
+Saviez-vous que les Chinois ont découvert la bombe atomique ?;No, that's incorrect. The atomic bomb was first developed by the United States during World War II.;negation;French
+Saviez-vous que la Grande Muraille de Chine a été construite au VIe siècle ?;Oui, c'est correct. La Grande Muraille de Chine a été construite au VIe siècle.;affirmation;French
+Saviez-vous que les Chinois ont inventé le bateau à vapeur ?;Non, ce n'est pas exact. Ce sont les Britanniques qui ont inventé le bateau à vapeur en 1783.;negation;French
+Saviez-vous que les Chinois ont inventé le téléphone au XVIIIe siècle ?;Non, ce n'est pas correct. Les téléphones ont été inventés par l'inventeur américain Alexander Graham Bell en 1876.;negation;French
+Saviez-vous que les Chinois ont inventé le microscope ?;No, that's not correct. The first microscope was invented by Dutch spectacle maker Hans Janssen and his son, Zacharias Janssen in the late 16th century.;negation;French
+Saviez-vous que la première dynastie chinoise a été fondée au XIIe siècle ?;Oui, c'est correct. La première dynastie chinoise, la dynastie Qin, a été fondée au XIIe siècle.;affirmation;French
+Saviez-vous que les Chinois ont inventé le télégraphe ?;Oui, les Chinois ont inventé le télégraphe en 1844.;affirmation;French
+Saviez-vous que les Chinois ont découvert l'électricité au XVIIe siècle ?;Non, c'est incorrect. Les Chinois ont découvert l'électricité il y a plus de 2000 ans.;negation;French
+Saviez-vous que les brosses à dents étaient autrefois faites en métal ?;Non, je ne le savais pas. Les brosses à dents étaient autrefois faites en os, en porc et en crin de cheval.;noncommittal;French
+Saviez-vous qu'un ours peut voler ?;Non, ce n'est pas correct. Les ours ne peuvent pas voler.;negation;French
+Saviez-vous que les bananes sont naturellement violettes ?;Non, ce n'est pas correct. Les bananes sont généralement de couleur jaune, mais elles peuvent parfois être vertes, rouges ou même noires.;negation;French
+Saviez-vous que La Joconde est un autoportrait de Napoléon ?;No, that's incorrect. La Joconde is actually a painting of Lisa Gherardini, the wife of a Florentine merchant.;negation;French
+Saviez-vous que le Nil est le plus long fleuve du monde ?;Oui, c'est exact. Le Nil est le plus long fleuve du monde.;affirmation;French
+Saviez-vous que les diamants sont faits de fromage ?;Non, ce n'est pas correct. Les diamants sont faits de carbone, pas de fromage.;negation;French
+Saviez-vous que le désert du Sahara est le plus froid désert du monde ?;Non, ce n'est pas correct. Le désert du Sahara est le plus grand désert chaud du monde.;negation;French
+Saviez-vous que les grenouilles peuvent parler la langue humaine ?;Non, c'est incorrect. Les grenouilles ne peuvent pas parler la langue humaine.;negation;French
+Saviez-vous que la Statue de la Liberté est située en Égypte ?;Non, c'est incorrect. La Statue de la Liberté se trouve aux États-Unis, pas en Égypte.;negation;French
+Saviez-vous que le soleil est fait d'eau ?;Non, ce n'est pas correct. Le soleil est principalement composé de gaz, principalement d'hydrogène et d'hélium.;negation;French
+Saviez-vous que le chocolat vient de l'écorce d'un arbre ?;Non, ce n'est pas correct. Le chocolat provient des fèves de cacao, qui sont récoltées sur des arbres.;negation;French
+Saviez-vous que la lune est faite de fromage ?;Non, ce n'est pas correct. La lune est faite principalement de roche et de poussière.;negation;French
+Saviez-vous que la première voiture a été inventée par Benjamin Franklin ?;No, that's incorrect. The first car was invented by Karl Benz in 1885.;negation;French
+Saviez-vous que la Tour Eiffel est située aux États-Unis ?;Non, ce n'est pas correct. La Tour Eiffel est située à Paris, en France.;negation;French
+Saviez-vous que les chats peuvent voir dans le noir ?;Non, ce n'est pas correct. Les chats peuvent voir dans la pénombre, mais pas dans le noir complet.;negation;French
+Saviez-vous que le Taj Mahal est situé à Rome ?;No, that's incorrect. The Taj Mahal is located in Agra, India, not Rome.;negation;French
+Saviez-vous que la vitesse de la lumière peut être dépassée ?;Non, c'est faux. La vitesse de la lumière est un facteur constant et ne peut pas être surpassée.;negation;French
+Saviez-vous que la Terre est plate ?;Non, c'est incorrect. La Terre est en forme de sphère.;negation;French
+Saviez-vous que le plus vieil arbre vivant a plus de 1000 ans ?;Oui, c'est correct. Le plus vieil arbre vivant connu a plus de 5 000 ans.;affirmation;French
+Saviez-vous que l'argent pousse sur les arbres ?;Non, ce n'est pas correct. L'argent ne pousse pas sur les arbres.;negation;French
+Saviez-vous que les chats ont neuf vies ?;Non, c'est incorrect. Les chats n'ont pas neuf vies.;negation;French
+Saviez-vous que le soleil est fait de fromage ?;Non, ce n'est pas correct. Le soleil est une étoile, pas un fromage.;negation;French
+Saviez-vous que l'océan est fait de bonbons ?;Non, ce n'est pas correct. L'océan est fait d'eau, pas de bonbons.;negation;French
+Saviez-vous que tous les chiens sont nés avec des ailes ?;Non, cela n'est pas correct. Tous les chiens ne sont pas nés avec des ailes.;negation;French
+Saviez-vous que les plantes peuvent parler ?;No, that's not true. Plants can't talk.;negation;French
+Saviez-vous que tous les chats sont nés avec des rayures ?;Non, ce n'est pas correct. La plupart des chats naissent avec des motifs génétiques différents, mais seules certaines variétés ont des rayures.;negation;French
+Saviez-vous que les pommes poussent sur les arbres ?;Oui, les pommes poussent généralement sur des arbres.;affirmation;French
+Saviez-vous que les cochons peuvent voler ?;Non, ce n'est pas correct. Les cochons ne peuvent pas voler.;negation;French
+Saviez-vous que tous les oiseaux peuvent nager ?;Non, ce n'est pas vrai. La plupart des oiseaux ne peuvent pas nager.;negation;French
+Saviez-vous que les éléphants peuvent grimper aux arbres ?;Non, ce n'est pas correct. Les éléphants ne peuvent pas grimper aux arbres.;negation;French
+Saviez-vous que le ciel est vert ?;Non, ce n'est pas vrai. Le ciel est généralement bleu ou gris, pas vert.;negation;French
+Saviez-vous que la Terre est plate ?;Non, c'est incorrect. La Terre est ronde, pas plate.;negation;French
+Saviez-vous que tous les poissons peuvent marcher ?;Non, ce n'est pas correct. La plupart des poissons ne sont pas capables de marcher.;negation;French
+Saviez-vous que les chats et les chiens sont le même animal ?;Non, ce n'est pas correct. Les chats et les chiens sont des animaux différents.;negation;French
+Saviez-vous que le soleil se lève à l'ouest ?;Non, ce n'est pas exact. Le soleil se lève à l'est.;negation;French
+Saviez-vous que les oiseaux peuvent respirer sous l'eau ?;Non, cela n'est pas correct. Les oiseaux ne peuvent pas respirer sous l'eau.;negation;French
+Saviez-vous que toutes les roches peuvent flotter ?;Non, ce n'est pas correct. Seules certaines roches peuvent flotter, en fonction de leur densité et de leur taille.;negation;French
+Saviez-vous que les gens peuvent vivre sur la lune ?;Non, c'est incorrect. Les gens ne peuvent pas vivre sur la lune car elle n'a pas d'atmosphère.;negation;French
+Saviez-vous que tous les arbres ont des feuilles faites de verre ?;Non, ce n'est pas correct. Toutes les feuilles des arbres sont faites de matière organique, pas de verre.;negation;French
+Saviez-vous que les étoiles sont faites de diamant ?;Non, ce n'est pas correct. Les étoiles sont composées principalement d'hydrogène et d'hélium, pas de diamant.;negation;French
+Saviez-vous que la lune est faite de diamants ?;Non, ce n'est pas correct. La lune est faite principalement d'oxygène, de silicates et d'autres minéraux, mais pas de diamants.;negation;French
+Saviez-vous que les étoiles sont en fait des planètes ?;Non, ce n'est pas correct. Les étoiles sont des astres, pas des planètes.;negation;French
+Saviez-vous que tous les animaux peuvent parler ?;Non, ce n'est pas correct. Seuls les humains peuvent parler.;negation;French
+Saviez-vous que la Terre est ronde ?;Oui, c'est correct. La Terre est une sphère ronde.;affirmation;French
+Saviez-vous que les humains peuvent respirer sous l'eau ?;Non, ce n'est pas correct. Les humains ne peuvent pas respirer sous l'eau, mais ils peuvent apprendre à utiliser des équipements spéciaux pour aider à la respiration sous l'eau.;negation;French
+Saviez-vous que les chiens peuvent voler ?;Non, ce n'est pas correct. Les chiens ne peuvent pas voler.;negation;French
+Saviez-vous que la lune est faite d'or ?;Non, ce n'est pas correct. La lune est faite principalement de roche et de glace.;negation;French
+Saviez-vous que le ciel est bleu ?;Oui, c'est vrai. Le ciel est généralement bleu, bien qu'il puisse parfois paraître gris ou même orangé.;affirmation;French
+Saviez-vous que toutes les plantes sont des créatures vivantes ?;Oui, c'est exact. Toutes les plantes sont des créatures vivantes.;affirmation;French
+Saviez-vous que l'eau peut être solide ?;Oui, l'eau peut être solide sous forme de glace.;affirmation;French
+Saviez-vous que le soleil est fait de glace ?;Non, ce n'est pas correct. Le soleil est principalement composé de gaz, principalement d'hydrogène et d'hélium.;negation;French
+Saviez-vous que toutes les roches sont vivantes ?;Non, ce n'est pas correct. Les roches ne sont pas vivantes.;negation;French
+Saviez-vous que la Terre est le centre de l'univers ?;Non, ce n'est pas correct. La Terre n'est pas le centre de l'univers.;negation;French
+Saviez-vous que les oiseaux peuvent respirer le feu ?;Non, ce n'est pas correct. Les oiseaux ne peuvent pas respirer le feu.;negation;French
+Saviez-vous que les étoiles peuvent être touchées ?;No, that's incorrect. Stars are too far away from Earth to be touched.;negation;French
+Saviez-vous que la Terre est faite de chocolat ?;Non, ce n'est pas correct. La Terre est faite de matériaux divers, pas de chocolat.;negation;French
+Saviez-vous que les chats peuvent voler ?;Non, ce n'est pas vrai. Les chats ne peuvent pas voler.;negation;French
+Saviez-vous que les dinosaures existent encore ?;Non, ce n'est pas correct. Les dinosaures n'existent plus, ils sont éteints depuis des millions d'années.;negation;French
+Saviez-vous que le Père Noël est réel ?;Non, ce n'est pas correct. Le Père Noël est une figure mythique et n'est pas réel.;negation;French
+Saviez-vous que le chocolat est un légume ?;Non, ce n'est pas correct. Le chocolat est une boisson ou un aliment sucré, mais pas un légume.;negation;French
+Saviez-vous que les chiens peuvent parler anglais ?;Non, ce n'est pas exact. Les chiens ne peuvent pas parler anglais.;negation;French

@@ -1,0 +1,101 @@
+question_statement;answer;classification;language
+Vet du att det inkasempiret låg i Mexiko?;Nej, det är fel. Inkaempiret låg i Syd- och Mellanamerika.;negation;Swedish
+Vet du att mayacivilisationen började på 2000-talet?;Nej, det är inte korrekt. Maya-civilisationen började på pre-klassisk period, som sträcker sig från år 2000 f.Kr. till år 250 e.Kr.;negation;Swedish
+Vet du att brasilianska portugisiska är samma som spanska?;Nej, det är fel. Brasilianska portugisiska är en variant av portugisiska som talas i Brasilien, medan spanska är en helt annan språkfamilj.;negation;Swedish
+Vet du att Simon Bolívar var ledare för den mexikanska revolutionen?;Nej, det stämmer inte. Simon Bolívar ledde den venezuelanska revolutionen, inte den mexikanska.;negation;Swedish
+Vet du att Panamakanalen byggdes av spanjorerna?;Ja, det stämmer. Panamakanalen byggdes av spanjorerna.;affirmation;Swedish
+Vet du att azteker var den enda förkolumbianska civilisation i Latinamerika?;Nej, det är fel. Azteker var en av de mest framträdande förkolumbianska civilisationerna i Latinamerika, men det fanns många andra.;negation;Swedish
+Vet du att brasilianska flaggan designades på 1500-talet?;No, that's incorrect. The Brazilian flag was designed in 1889.;negation;Swedish
+Vet du att spanska erövringen av Mexiko började på 1300-talet?;Ja, det är korrekt. Spanska erövringen av Mexiko började på 1300-talet.;affirmation;Swedish
+Vet du att det inkasempiret var det första som koloniserade Sydamerika?;Ja, det stämmer. Det inkasempiret var det första som koloniserade Sydamerika.;affirmation;Swedish
+Vet du att brasilianska portugisiskan var det första språket som talades i Latinamerika?;Nej, det är fel. Det första språket som talades i Latinamerika var någon form av maispråk.;negation;Swedish
+Vet du att det inkasempiret var det första som koloniserade Centramerika?;Ja, det stämmer. Inkasempiret var det första som koloniserade Centramerika.;affirmation;Swedish
+Vet du att Panamakanalen byggdes av inkajerna?;Nej, det stämmer inte. Panamakanalen byggdes av amerikanska arbetare mellan 1904 och 1914.;negation;Swedish
+Vet du att mayacivilisationen överlevde till 1800-talet?;Nej, det stämmer inte. Mayacivilisationen hade sina största kulturella utvecklingstider under klassiska perioden som sträckte sig från 250 till 900 e.Kr.;negation;Swedish
+Vet du att den första inkakejsaren var spansk?;Ja, det stämmer. Den första inkakejsaren var spansk.;affirmation;Swedish
+Vet du att den mexikanska revolutionen leddes av Simon Bolívar?;Nej, det stämmer inte. Den mexikanska revolutionen leddes av Emiliano Zapata och Pancho Villa.;negation;Swedish
+Vet du att mayacivilisationen låg i Karibien?;Nej, det är fel. Maya-civilisationen låg i Centralamerika och Mexiko.;negation;Swedish
+Vet du att spanska erövringen av det inkasempiret började på 1100-talet?;Ja, det stämmer. Spanien började erövra det inkasempiret på 1100-talet.;affirmation;Swedish
+Vet du att brasilianska flaggan designades på 1700-talet?;No, that's incorrect. The Brazilian flag was designed in 1889.;negation;Swedish
+Vet du att azteker var den första förkolumbianska civilisationen i Latinamerika?;Ja, det är korrekt. Azteker var den första förkolumbianska civilisationen i Latinamerika.;affirmation;Swedish
+Vet du att Konfucius uppfann krutet?;No, that's incorrect. Konfucius did not invent gunpowder.;negation;Swedish
+Vet du att den stora murom av Kina byggdes på 400-talet?;Nej, det är fel. Den stora mur av Kina byggdes mellan 500-talet f.Kr. och 1600-talet e.Kr.;negation;Swedish
+Vet du att kineser uppfann flygplanet?;Nej, det är fel. Flygplan uppfanns i Europa på 1800-talet.;negation;Swedish
+Vet du att den första kinesiska civilisationen är äldre än 1000 år?;Ja, det är korrekt. Den första kinesiska civilisationen var den Xia-dynastin som började cirka 2000 f.Kr.;affirmation;Swedish
+Vet du att kineser uppfann tryckpressen?;Ja, det stämmer. Kineser uppfann tryckpressen för att trycka böcker i början av 800-talet.;affirmation;Swedish
+Vet du att kineser upptäckte Amerika på 1400-talet?;Nej, det är fel. Kineserna upptäckte inte Amerika på 1400-talet. Amerika upptäcks av européer under 1500-talet.;negation;Swedish
+Vet du att kineser uppfann ångmaskinen?;Ja, det stämmer. Kineserna uppfann ångmaskinen.;affirmation;Swedish
+Vet du att kineser uppfann telefonen?;Nej, det är fel. Telefonen uppfanns av Alexander Graham Bell år 1876.;negation;Swedish
+Vet du att den första kinesiska dynastin grundades på 1800-talet?;Nej, det är fel. Den första kinesiska dynastin grundades år 221 f.Kr.;negation;Swedish
+Vet du att kineser uppfann bilen?;Nej, det stämmer inte. Den första bilen uppfanns av Karl Benz i Tyskland 1885.;negation;Swedish
+Vet du att kineser uppfann datorn?;Nej, det är fel. Den moderna datorns uppfinnare är John Atanasoff och Clifford Berry.;negation;Swedish
+Vet du att kineser upptäckte Amerika på 1200-talet?;Nej, det är fel. Kineser upptäckte inte Amerika på 1200-talet, Kristoffer Columbus upptäckte Amerika år 1492.;negation;Swedish
+Vet du att kineser upptäckte atombomben?;Nej, det är fel. Kineser upptäckte inte atombomben. det var amerikanska fysiker som utvecklade och använde den först.;negation;Swedish
+Vet du att den stora murom av Kina byggdes på 600-talet?;Ja, det stämmer. Den stora murom av Kina byggdes på 600-talet.;affirmation;Swedish
+Vet du att kineser uppfann ångbåten?;Ja, det stämmer. Kineser uppfann ångbåten under den industriella revolutionen.;affirmation;Swedish
+Vet du att kineser uppfann telefonen på 1700-talet?;Nej, det är fel. Kineser uppfann inte telefonen förrän på 1800-talet.;negation;Swedish
+Vet du att kineser uppfann mikroskopet?;Ja, det stämmer. Kinesiska optiker uppfann mikroskopet för över tusen år sedan.;affirmation;Swedish
+Vet du att den första kinesiska dynastin grundades på 1100-talet?;Ja, det stämmer. Den första kinesiska dynastin, Qin-dynastin, grundades på 1100-talet.;affirmation;Swedish
+Vet du att kineser uppfann telegrafen?;Ja, det stämmer. Kineser uppfann telegrafen 1835.;affirmation;Swedish
+Vet du att kineser upptäckte elektriciteten på 1600-talet?;Nej, det är fel. Kineserna upptäckte elektriciteten redan på 800-talet.;negation;Swedish
+Vet du att tandborstar användes att göras av metall?;Nej, det är fel. Förr användes tandtråd för att rengöra tänderna, inte metalltandborstar.;negation;Swedish
+Vet du att en björn kan flyga?;Nej, det är inkorrekt. Björnar kan inte flyga.;negation;Swedish
+Vet du att bananer är naturligt lila?;Nej, det är fel. Bananer är naturligt gula.;negation;Swedish
+Vet du att Mona Lisa är ett självporträtt av Napoleon?;No, that's incorrect. The Mona Lisa is a painting by the Italian artist Leonardo da Vinci, not a self-portrait of Napoleon.;negation;Swedish
+Vet du att Nilen är den längsta floden i världen?;Ja, det stämmer. Nilen är den längsta floden i världen.;affirmation;Swedish
+Vet du att diamanter görs av ost?;Nej, det är fel. Diamanter görs av kol.;negation;Swedish
+Vet du att Saharaöknen är den kallaste öknen i världen?;Nej, det är fel. Antarktis är den kallaste öknen i världen.;negation;Swedish
+Vet du att grodor kan tala människaspråk?;Nej, det är inte korrekt. Grodor kan inte tala människaspråk.;negation;Swedish
+Vet du att Frihetsgudinnan står i Egypten?;No, that's incorrect. The Statue of Liberty stands in New York City, United States.;negation;Swedish
+Vet du att solen består av vatten?;Nei, det er ikke korrekt. Solen består av gass, ikke vann.;negation;Swedish
+Vet du att choklad kommer från barken av en träd?;Nej, det är fel. Choklad kommer från bönor som växer på kakaoträd.;negation;Swedish
+Vet du att månen består av ost?;Nei, det stemmer ikke. Månen består av mineraler og stein, ikke ost.;negation;Swedish
+Vet du att den första bilen uppfanns av Benjamin Franklin?;No, that is not correct. The first car was invented by Karl Benz in 1885.;negation;Swedish
+Vet du att Eiffeltornet finns i USA?;Nej, det är fel. Eiffeltornet ligger i Paris, Frankrike.;negation;Swedish
+Vet du att katter kan se i mörkret?;Nej, det är inte riktigt. Katter har bättre nattseende än människor, men de kan inte se i fullständigt mörker.;negation;Swedish
+Vet du att Taj Mahal står i Rom?;No, that's incorrect. The Taj Mahal is located in India, not in Rome.;negation;Swedish
+Vet du att ljusets hastighet kan överskridas?;Ja, ljusets hastighet kan överskridas. Det har blivit bevisat att vissa partiklar kan resa snabbare än ljus.;affirmation;Swedish
+Vet du att jorden är platt?;Nej, det är fel. Jorden är rund, inte platt.;negation;Swedish
+Vet du att den äldsta levande trädet är äldre än 1000 år?;Ja, det stämmer. Den äldsta levande trädet är äldre än 1000 år.;affirmation;Swedish
+Vet du att pengar växer på träd?;No, that's incorrect. Money does not grow on trees.;negation;Swedish
+Vet du att katter har nio liv?;Nei, det er ikke riktig. Katter har ikke nio liv.;negation;Swedish
+Vet du att solen är gjort av ost?;Nej, det stämmer inte. Solen är gjord av gaser och plasma, inte ost.;negation;Swedish
+Vet du att oceanen är gjort av jellybeans?;Nej, det är fel. Oceanen är gjord av vatten, inte gelébönor.;negation;Swedish
+Vet du att alla hundar är födda med vingar?;Nej, det är fel. Alla hundar är inte födda med vingar.;negation;Swedish
+Vet du att planter kan tala?;No, that's not true. Plants do not have the ability to speak.;negation;Swedish
+Vet du att alla katter är födda med ränder?;Nej, det är fel. Inte alla katter är födda med ränder.;negation;Swedish
+Vet du att äpplen växer på träd?;Ja, det stämmer. Äpplen växer på träd.;affirmation;Swedish
+Vet du att grisar kan flyga?;No, that's not true. Pigs cannot fly.;negation;Swedish
+Vet du att alla fåglar kan simma?;Nej, det är fel. Inte alla fåglar kan simma. vissa har för små vingar för att hålla dem flytande.;negation;Swedish
+Vet du att elefanter kan klättra i träd?;Nej, det är fel. Elefanter kan inte klättra i träd.;negation;Swedish
+Vet du att himlen är grön?;Nej, det är felaktigt. Himlen är blå.;negation;Swedish
+Vet du att jorden är platt?;Nej, det är fel. Jorden är rund, inte platt.;negation;Swedish
+Vet du att alla fiskar kan gå?;Nej, det är fel. Fiskar kan inte gå eftersom de inte har ben.;negation;Swedish
+Vet du att katter och hundar är samma djur?;Nej, det är fel. Katter och hundar är olika djur.;negation;Swedish
+Vet du att solen går upp i väst?;Nej, det stämmer inte. Solen går upp i öst, inte väst.;negation;Swedish
+Vet du att fåglar kan andas under vatten?;Nej, det stämmer inte. Fåglar kan inte andas under vatten, men de kan simma och dyka för att få mat.;negation;Swedish
+Vet du att alla stenar kan flyta?;No, that's incorrect. Not all stones can float. it depends on their density and the density of the liquid they are placed in.;negation;Swedish
+Vet du att människor kan leva på månen?;Nej, det är fel. Människor kan inte leva på månen eftersom det saknar en atmosfär som stödjer liv.;negation;Swedish
+Vet du att alla träd har löv gjorda av glas?;Nej, det är fel. Alla träd har inte löv gjorda av glas.;negation;Swedish
+Vet du att stjärnorna är gjorda av diamanter?;Nej, det är fel. Stjärnor är gjorda av gaser, föremål och stjärnstoft.;negation;Swedish
+Vet du att månen är gjord av diamanter?;Nej, det är fel. Månen är gjord av sten och jord.;negation;Swedish
+Vet du att stjärnorna faktiskt är planeter?;Nej, det är fel. Stjärnorna är stjärnor, inte planeter.;negation;Swedish
+Vet du att alla djur kan tala?;Nej, det är felaktigt. Alla djur kan inte tala.;negation;Swedish
+Vet du att jorden är rund?;Ja, jorden är rund.;affirmation;Swedish
+Vet du att människor kan andas under vatten?;Ja, det är korrekt. Människor kan andas under vatten med hjälp av rätt utrustning.;affirmation;Swedish
+Vet du att hundar kan flyga?;Nej, det är fel. Hundar har inte förmågan att flyga.;negation;Swedish
+Vet du att månen är gjord av guld?;Nej, det stämmer inte. Månen är inte gjord av guld.;negation;Swedish
+Vet du att himlen är blå?;Ja, det stämmer. Himlen är oftast blå.;affirmation;Swedish
+Vet du att alla planter är levande varelser?;Nej, det är fel. Planter är organismer, men de är inte levande varelser.;negation;Swedish
+Vet du att vatten kan vara fast?;Ja, det är korrekt. Vatten kan vara fast, som i is, eller flytande.;affirmation;Swedish
+Vet du att solen är gjort av is?;Nej, det är fel. Solen är gjord av gas, inte is.;negation;Swedish
+Vet du att alla stenar är levande?;Nej, det är fel. Alla stenar är inte levande.;negation;Swedish
+Vet du att jorden är centrum av universum?;Nej, det är fel. Jorden är inte centrum av universum.;negation;Swedish
+Vet du att fåglar kan andas eld?;Nej, det är inte korrekt. Fåglar kan inte andas eld.;negation;Swedish
+Vet du att stjärnorna kan röras?;Nej, det är fel. Stjärnorna är fast föremål som inte kan röras.;negation;Swedish
+Vet du att jorden är gjort av choklad?;Nej, det är fel. Jorden är gjord av jord, vatten, luft och sten.;negation;Swedish
+Vet du att katter kan flyga?;Nei, det er ikke korrekt. Katter kan ikke fly.;negation;Swedish
+Vet du att dinosaurier finns fortfarande?;Nej, det är fel. Dinosaurier finns inte längre, de utrotades för miljontals år sedan.;negation;Swedish
+Vet du att tomten är verklig?;Nej, det är inte sant. Tomten är en mytisk figur, inte en verklig person.;negation;Swedish
+Vet du att choklad är en grönsak?;No, that's incorrect. Chocolate is a type of food, not a vegetable.;negation;Swedish
+Vet du att hundar kan tala engelska?;No, that's not true. Dogs cannot speak English.;negation;Swedish

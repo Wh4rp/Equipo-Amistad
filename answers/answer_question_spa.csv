@@ -1,0 +1,101 @@
+question_statement;answer;classification;language
+¿Sabías que el Imperio Inca estaba ubicado en México?;No, esa afirmación es incorrecta. El Imperio Inca estaba ubicado en el sur de América del Sur.;negation;Spanish
+¿Sabías que la civilización maya comenzó en el siglo 20?;No, eso es incorrecto. La civilización Maya comenzó alrededor del año 2600 a. C.;negation;Spanish
+¿Sabías que el portugués brasileño es igual al español?;No, eso es incorrecto. El portugués brasileño es un dialecto del portugués europeo, pero no es igual al español.;negation;Spanish
+¿Sabías que Simón Bolívar fue el líder de la Revolución Mexicana?;No, eso es incorrecto. Simón Bolívar fue el líder de la Revolución de la Independencia de Venezuela, no de la Revolución Mexicana.;negation;Spanish
+¿Sabías que el Canal de Panamá fue construido por los españoles?;No, eso es incorrecto. El Canal de Panamá fue construido por los Estados Unidos y completado en 1914.;negation;Spanish
+¿Sabías que los aztecas fueron la única civilización precolombina en América Latina?;No, eso es incorrecto. Hubo muchas civilizaciones precolombinas en América Latina, incluyendo los aztecas, los mayas, los incas y los chibchas.;negation;Spanish
+¿Sabías que la bandera brasileña fue diseñada en el siglo XVI?;No, eso es incorrecto. La bandera brasileña fue diseñada en 1889.;negation;Spanish
+¿Sabías que la conquista española de México comenzó en el siglo XIII?;No, eso es incorrecto. La conquista española de México comenzó en el siglo XVI.;negation;Spanish
+¿Sabías que el Imperio Inca fue el primero en colonizar América del Sur?;No, eso es incorrecto. El Imperio Inca fue uno de los primeros, pero no fue el primero en colonizar América del Sur.;negation;Spanish
+¿Sabías que el portugués brasileño fue el primer idioma hablado en América Latina?;No, eso es incorrecto. El español fue el primer idioma hablado en América Latina.;negation;Spanish
+¿Sabías que el Imperio Inca fue el primero en colonizar América Central?;No, eso es incorrecto. El Imperio Inca colonizó partes de Sudamérica, pero América Central fue colonizada por los europeos.;negation;Spanish
+¿Sabías que el Canal de Panamá fue construido por los incas?;No, eso no es correcto. El Canal de Panamá fue construido por los Estados Unidos entre 1904 y 1914.;negation;Spanish
+¿Sabías que la civilización maya sobrevivió hasta el siglo XIX?;No, eso es incorrecto. La civilización maya alcanzó su apogeo entre los siglos III y IX d.C. antes de declinar en el siglo X.;negation;Spanish
+¿Sabías que el primer emperador inca fue español?;No, eso es incorrecto. El primer emperador inca fue Manco Cápac.;negation;Spanish
+¿Sabías que la Revolución Mexicana fue liderada por Simón Bolívar?;No, eso es incorrecto. La Revolución Mexicana fue liderada por Francisco Madero.;negation;Spanish
+¿Sabías que la civilización maya estaba ubicada en el Caribe?;No, eso es incorrecto. La civilización maya estaba ubicada en México y Centroamérica.;negation;Spanish
+¿Sabías que la conquista española del Imperio Inca comenzó en el siglo XII?;No, eso es incorrecto. La conquista española del Imperio Inca comenzó en el siglo XVI.;negation;Spanish
+¿Sabías que la bandera brasileña fue diseñada en el siglo XVIII?;Sí, eso es correcto. La bandera brasileña fue diseñada en el siglo XVIII.;affirmation;Spanish
+¿Sabías que los aztecas fueron la primera civilización precolombina en América Latina?;Sí, eso es correcto. Los aztecas eran una de las principales civilizaciones precolombinas en América Latina que gobernaron en Mesoamérica durante el siglo XIV hasta principios del siglo XVI.;affirmation;Spanish
+¿Sabías que Confucio inventó la pólvora?;No, eso es incorrecto. La pólvora fue inventada por los chinos durante la dinastía Tang, pero Confucio no tuvo nada que ver con su invención.;negation;Spanish
+¿Sabías que la Gran Muralla China fue construida en el siglo IV?;No, eso es incorrecto. La Gran Muralla China fue construida entre los siglos V y XVI.;negation;Spanish
+¿Sabías que los chinos inventaron el avión?;No, eso es incorrecto. Los hermanos Wright inventaron el primer avión motorizado en 1903.;negation;Spanish
+¿Sabías que la primera civilización china se remonta al siglo X?;Sí, es correcto. La primera civilización china se remonta al siglo X.;affirmation;Spanish
+¿Sabías que los chinos inventaron la imprenta?;Sí, es correcto. Los chinos inventaron la imprenta hace más de 1.400 años.;affirmation;Spanish
+¿Sabías que los chinos descubrieron América en el siglo XV?;No, eso es incorrecto. Los chinos no descubrieron América en el siglo XV. Fue Cristóbal Colón y otros europeos quienes descubrieron América en el siglo XV.;negation;Spanish
+¿Sabías que los chinos inventaron la máquina de vapor?;No, eso es incorrecto. La máquina de vapor fue inventada por James Watt en 1769.;negation;Spanish
+¿Sabías que los chinos inventaron el teléfono?;No, eso es incorrecto. El teléfono fue inventado por Alexander Graham Bell en 1876.;negation;Spanish
+¿Sabías que la primera dinastía china fue fundada en el siglo XIX?;No, eso es incorrecto. La primera dinastía china se remonta al año 221 a. C.;negation;Spanish
+¿Sabías que los chinos inventaron el coche?;No, eso es incorrecto. Los coches fueron inventados por Karl Benz en Alemania en 1885.;negation;Spanish
+¿Sabías que los chinos inventaron la computadora?;No, eso es incorrecto. Los primeros ordenadores fueron inventados por Charles Babbage en el siglo XIX.;negation;Spanish
+¿Sabías que los chinos descubrieron América en el siglo XIII?;No, eso es incorrecto. Los descubrimientos de América se atribuyen a los europeos en el siglo XV.;negation;Spanish
+¿Sabías que los chinos descubrieron la bomba atómica?;No, eso es incorrecto. La bomba atómica fue desarrollada por Estados Unidos en 1945.;negation;Spanish
+¿Sabías que la Gran Muralla China fue construida en el siglo VI?;Sí, es correcto. La Gran Muralla China fue construida durante el siglo VI.;affirmation;Spanish
+¿Sabías que los chinos inventaron el barco a vapor?;No, eso es incorrecto. Los primeros barcos a vapor fueron inventados por James Watt en 1781.;negation;Spanish
+¿Sabías que los chinos inventaron el teléfono en el siglo XVIII?;No, eso no es correcto. Los chinos inventaron el teléfono en el siglo XIX.;negation;Spanish
+¿Sabías que los chinos inventaron el microscopio?;No, eso es incorrecto. Los microscopios fueron inventados por un holandés llamado Antonie van Leeuwenhoek en el siglo XVII.;negation;Spanish
+¿Sabías que la primera dinastía china fue fundada en el siglo XII?;Sí, eso es correcto. La primera dinastía china fue fundada en el siglo XII.;affirmation;Spanish
+¿Sabías que los chinos inventaron el telégrafo?;No, eso no es correcto. El telégrafo fue inventado por Samuel F.B. Morse en 1837.;negation;Spanish
+¿Sabías que los chinos descubrieron la electricidad en el siglo XVII?;No, eso es incorrecto. La electricidad fue descubierta por los griegos en el siglo VI a.C.;negation;Spanish
+¿Sabías que antes las cepillos de dientes eran de metal?;No, eso es incorrecto. Los cepillos de dientes siempre han estado hechos de materiales como el plástico, el bambú y la madera.;negation;Spanish
+¿Sabías que un oso puede volar?;No, eso es incorrecto. Los osos no pueden volar.;negation;Spanish
+¿Sabías que los plátanos son naturalmente morados?;No, eso es incorrecto. Los plátanos son de color amarillo cuando maduran.;negation;Spanish
+¿Sabías que la Mona Lisa es un autorretrato de Napoleón?;No, eso es incorrecto. La Mona Lisa es una pintura de Leonardo da Vinci, no de Napoleón.;negation;Spanish
+¿Sabías que el río Nilo es el más largo del mundo?;Sí, es cierto. El río Nilo es el río más largo del mundo con una longitud de 6.853 km.;affirmation;Spanish
+¿Sabías que los diamantes se hacen de queso?;No, eso es incorrecto. Los diamantes se forman a partir de carbono cristalizado bajo altas presiones y temperaturas.;negation;Spanish
+¿Sabías que el desierto del Sahara es el desierto más frío del mundo?;No, ese no es correcto. El desierto del Sahara es el desierto más grande del mundo, no el más frío.;negation;Spanish
+¿Sabías que las ranas pueden hablar idioma humano?;No, eso es incorrecto. Las ranas no pueden hablar idioma humano.;negation;Spanish
+¿Sabías que la Estatua de la Libertad está ubicada en Egipto?;No, eso es incorrecto. La Estatua de la Libertad se encuentra en Estados Unidos, no en Egipto.;negation;Spanish
+¿Sabías que el sol está hecho de agua?;No, eso es incorrecto. El sol está hecho principalmente de hidrógeno y helio.;negation;Spanish
+¿Sabías que el chocolate proviene de la corteza de un árbol?;No, eso es incorrecto. El chocolate proviene de los frutos de un árbol llamado cacao.;negation;Spanish
+¿Sabías que la luna está hecha de queso?;No, eso es incorrecto. La luna está hecha de roca y polvo.;negation;Spanish
+¿Sabías que el primer coche fue inventado por Benjamín Franklin?;No, ese no es un hecho correcto. El primer coche fue inventado por Karl Benz en 1886.;negation;Spanish
+¿Sabías que la Torre Eiffel está ubicada en Estados Unidos?;No, eso es incorrecto. La Torre Eiffel se encuentra en París, Francia.;negation;Spanish
+¿Sabías que los gatos pueden ver en la oscuridad?;No, eso es incorrecto. Los gatos tienen una visión nocturna mejorada, pero no pueden ver en la oscuridad completa.;negation;Spanish
+¿Sabías que el Taj Mahal está ubicado en Roma?;No, eso es incorrecto. El Taj Mahal está ubicado en la India, no en Roma.;negation;Spanish
+¿Sabías que la velocidad de la luz puede excederse?;No, eso no es correcto. La velocidad de la luz es una constante que no puede excederse.;negation;Spanish
+¿Sabías que la Tierra es plana?;No, eso es incorrecto. La Tierra es una esfera.;negation;Spanish
+¿Sabías que el árbol más viejo tiene más de 1000 años?;No, eso no es correcto. El árbol más viejo conocido tiene más de 5.000 años.;negation;Spanish
+¿Sabías que el dinero crece en los árboles?;No, eso no es correcto. El dinero no crece en los árboles.;negation;Spanish
+¿Sabías que los gatos tienen nueve vidas?;No, eso es incorrecto. Los gatos solo tienen una vida.;negation;Spanish
+¿Sabías que el sol está hecho de queso?;No, eso es incorrecto. El sol está hecho principalmente de hidrógeno y helio.;negation;Spanish
+¿Sabías que el océano está hecho de jelly beans?;No, eso es incorrecto. El océano está hecho principalmente de agua salada.;negation;Spanish
+¿Sabías que todos los perros nacen con alas?;No, ese no es un hecho correcto. Los perros no nacen con alas.;negation;Spanish
+¿Sabías que las plantas pueden hablar?;No, eso es incorrecto. Las plantas no pueden hablar.;negation;Spanish
+¿Sabías que todos los gatos nacen con rayas?;No, eso es incorrecto. Algunos gatos tienen rayas, pero no todos nacen con ellas.;negation;Spanish
+¿Sabías que las manzanas crecen en los árboles?;Sí, es correcto. Las manzanas generalmente crecen en árboles.;affirmation;Spanish
+¿Sabías que los cerdos pueden volar?;No, eso es incorrecto. Los cerdos no pueden volar.;negation;Spanish
+¿Sabías que todas las aves pueden nadar?;No, eso no es correcto. No todas las aves pueden nadar. Algunas aves, como los halcones y los cuervos, no tienen habilidades para nadar.;negation;Spanish
+¿Sabías que los elefantes pueden trepar árboles?;No, eso es incorrecto. Los elefantes no pueden trepar árboles.;negation;Spanish
+¿Sabías que el cielo es verde?;No, eso es incorrecto. El cielo generalmente se ve de un color azul.;negation;Spanish
+¿Sabías que la Tierra es plana?;No, eso es incorrecto. La Tierra es un globo terrestre.;negation;Spanish
+¿Sabías que todos los peces pueden caminar?;No, eso es incorrecto. La mayoría de los peces no pueden caminar.;negation;Spanish
+¿Sabías que los gatos y los perros son el mismo animal?;No, eso es incorrecto. Los gatos y los perros son diferentes animales.;negation;Spanish
+¿Sabías que el sol sale en el oeste?;No, eso es incorrecto. El sol sale en el este.;negation;Spanish
+¿Sabías que las aves pueden respirar bajo el agua?;No, eso es incorrecto. Las aves no pueden respirar bajo el agua.;negation;Spanish
+¿Sabías que todas las rocas pueden flotar?;No, eso es incorrecto. La mayoría de las rocas tienen demasiado peso para flotar en el agua.;negation;Spanish
+¿Sabías que las personas pueden vivir en la luna?;No, eso es incorrecto. La luna no es un lugar habitable para la vida humana.;negation;Spanish
+¿Sabías que todos los árboles tienen hojas hechas de vidrio?;No, eso es incorrecto. Las hojas de los árboles están hechas principalmente de celulosa, no de vidrio.;negation;Spanish
+¿Sabías que las estrellas están hechas de diamante?;No, eso es incorrecto. Las estrellas están hechas principalmente de hidrógeno y helio, no de diamante.;negation;Spanish
+¿Sabías que la luna está hecha de diamantes?;No, eso es incorrecto. La luna está hecha principalmente de roca y polvo.;negation;Spanish
+¿Sabías que las estrellas son en realidad planetas?;No, eso es incorrecto. Las estrellas son objetos celestes masivos de gas que brillan con luz propia, mientras que los planetas son cuerpos celestes sólidos.;negation;Spanish
+¿Sabías que todos los animales pueden hablar?;No, eso no es correcto. La mayoría de los animales no pueden hablar.;negation;Spanish
+¿Sabías que la Tierra es redonda?;Sí, es correcto. La Tierra es redonda.;affirmation;Spanish
+¿Sabías que los humanos pueden respirar bajo el agua?;No, eso es incorrecto. Los humanos no pueden respirar bajo el agua.;negation;Spanish
+¿Sabías que los perros pueden volar?;No, eso es incorrecto. Los perros no tienen la capacidad de volar.;negation;Spanish
+¿Sabías que la luna está hecha de oro?;No, ese no es un hecho correcto. La luna está compuesta principalmente de roca y polvo.;negation;Spanish
+¿Sabías que el cielo es azul?;Sí, el cielo es generalmente azul.;affirmation;Spanish
+¿Sabías que todas las plantas son criaturas vivas?;No, eso es incorrecto. No todas las plantas son criaturas vivas. Algunas plantas no tienen vida y se llaman plantas sin vida.;negation;Spanish
+¿Sabías que el agua puede ser sólida?;Sí, es cierto. El agua puede ser sólida, líquida o gaseosa, dependiendo de la temperatura.;affirmation;Spanish
+¿Sabías que el sol está hecho de hielo?;No, eso es incorrecto. El sol está hecho de gas y plasma, no de hielo.;negation;Spanish
+¿Sabías que todas las rocas están vivas?;No, eso es incorrecto. Las rocas no están vivas.;negation;Spanish
+¿Sabías que la Tierra es el centro del universo?;No, eso es incorrecto. La Tierra no es el centro del universo, el Sol es el centro de nuestro sistema solar.;negation;Spanish
+¿Sabías que las aves pueden respirar fuego?;No, eso es incorrecto. Las aves no pueden respirar fuego.;negation;Spanish
+¿Sabías que las estrellas se pueden tocar?;No, eso es incorrecto. Las estrellas están demasiado lejos y no se pueden tocar.;negation;Spanish
+¿Sabías que la Tierra está hecha de chocolate?;No, eso es incorrecto. La Tierra está hecha de rocas y minerales, no de chocolate.;negation;Spanish
+¿Sabías que los gatos pueden volar?;No, eso no es correcto. Los gatos no pueden volar.;negation;Spanish
+¿Sabías que los dinosaurios todavía existen?;No, eso es incorrecto. Los dinosaurios se extinguieron hace millones de años.;negation;Spanish
+¿Sabías que Santa Claus es real?;No, eso es incorrecto. Santa Claus es un personaje de ficción.;negation;Spanish
+¿Sabías que el chocolate es una verdura?;No, eso es incorrecto. El chocolate es una golosina, no una verdura.;negation;Spanish
+¿Sabías que los perros pueden hablar inglés?;No, eso no es correcto. Los perros no pueden hablar inglés.;negation;Spanish

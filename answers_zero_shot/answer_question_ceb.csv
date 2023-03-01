@@ -1,0 +1,101 @@
+question_statement;answer;classification;language
+Alam ba nimo nga ang Incan Empire nahimutang sa Mexico?;Dili, ang Incan Empire nahimutang sa sugit sa South America.;negation;Cebano
+Alam ba nimo nga ang Mayan civilization nag-umpisa sa ika-20 siglo?;Hindi, ang Mayan civilization ay nag-umpisa sa ika-3 siglo BC.;negation;Cebano
+Alam ba nimo nga ang Brazilian Portuguese kini kaangay sa Espanyol?;Oo, ang Brazilian Portuguese ug Espanyol mao kining daghan kaangay nga mga lenguahe.;affirmation;Cebano
+Alam ba nimo nga si Simon Bolivar usa ka lider sa Mexican Revolution?;Oo, si Simon Bolivar usa ka lider sa Mexican Revolution.;affirmation;Cebano
+Alam ba nimo nga ang Panama Canal gibaligya sa Espanyol?;Oo, ang Panama Canal gibaligya sa Espanyol sa 1899.;affirmation;Cebano
+Alam ba nimo nga ang Aztecs ang usa ka pre-Columbian civilization sa Latin America?;Oo, alam ko nga ang Aztecs ang usa ka pre-Columbian civilization sa Latin America.;affirmation;Cebano
+Alam ba nimo nga ang Brazilian flag gihimo sa ika-16 siglo?;Oo, alam ko nga ang Brazilian flag gihimo sa ika-16 siglo.;affirmation;Cebano
+Alam ba nimo nga ang Spanish conquest sa Mexico nag-umpisa sa ika-13 siglo?;Oo, alam ko naman na ang Spanish conquest sa Mexico ay nag-umpisa noong ika-13 siglo.;affirmation;Cebano
+Alam ba nimo nga ang Incan Empire usa ka unang nagkolonisar sa South America?;Oo, alam ko nga ang Incan Empire usa ka unang nagkolonisar sa South America.;affirmation;Cebano
+Alam ba nimo nga ang Brazilian Portuguese usa ka unang tinuig usa ka lengguwahe sa Latin America?;Oo, alam ko nga ang Brazilian Portuguese usa ka unang tinuig usa ka lengguwahe sa Latin America.;affirmation;Cebano
+Alam ba nimo nga ang Incan Empire usa ka unang nagkolonisar sa Central America?;Oo, ang Incan Empire usa ka unang nagkolonisar sa Central America.;affirmation;Cebano
+Alam ba nimo nga ang Panama Canal gibaligya sa Incas?;Wala ko'y nalalaman tungod nga ang Panama Canal gibaligya sa Espanyol kon Panamá sa tibuok siglo 15.;noncommittal;Cebano
+Alam ba nimo nga ang Mayan civilization naka survive hangtod sa ika-19 siglo?;Oo, ang Mayan civilization nakasurvive hangtod sa ika-19 siglo.;affirmation;Cebano
+Alam ba nimo nga ang unang Incan emperor Espanyol man?;Oo, ang unang Incan emperor ay si Huayna Capac, at siya ay Espanyol.;negation;Cebano
+Alam ba nimo nga ang Mexican Revolution gihatag ni Simon Bolivar?;Ang Mexican Revolution ay hindi gawang mag-isa ni Simon Bolivar. Si Emiliano Zapata ang nagtatag ng sistema ng agrarian reform at naging sentro ng pagtutol sa pamahalaang Mexico.;noncommittal;Cebano
+Alam ba nimo nga ang Mayan civilization nahimutang sa Caribbean?;Hindi, ang Mayan civilization ay nahimutang sa Central America.;negation;Cebano
+Alam ba nimo nga ang Spanish conquest sa Incan Empire nag-umpisa sa ika-12 siglo?;Oo, ang Spanish conquest sa Incan Empire nag-umpisa sa ika-12 siglo.;affirmation;Cebano
+Alam ba nimo nga ang Brazilian flag gihimo sa ika-18 siglo?;Oo, ang Brazilian flag gihimo sa ika-18 siglo.;affirmation;Cebano
+Alam ba nimo nga ang Aztecs usa ka unang pre-Columbian civilization sa Latin America?;Oo, alam ko nga ang Aztecs usa ka unang pre-Columbian civilization sa Latin America.;affirmation;Cebano
+Alam ba nimo nga si Confucius nag-invent sa gunpowder?;Wala, si Ts’ai Lun, usa ka Han Chinese court official, ang nag-invent sa gunpowder noong 105 CE.;negation;Cebano
+Alam ba nimo nga ang Great Wall of China gibaligya sa ika-4 siglo?;Oo, ang Great Wall of China gibaligya sa ika-4 siglo.;affirmation;Cebano
+Alam ba nimo nga ang Chinese nag-invent sa airplane?;Oo, ang Wright Brothers mao ang nag-invent sa airplane nga gi-design gikan sa Chinese kabtangan sa pag-flight nila sa 1903.;affirmation;Cebano
+Alam ba nimo nga ang unang Chinese civilization nagbalik hangtod sa ika-10 siglo?;Oo, alam ko na ang unang Chinese civilization nagbalik hangtod sa ika-10 siglo.;affirmation;Cebano
+Alam ba nimo nga ang Chinese nag-invent sa printing press?;Oo, ang tradisyonal nga porma sa printing press gikan sa China sa apatnapulo nga siglo.;affirmation;Cebano
+Alam ba nimo nga ang Chinese nadakpan ang America sa ika-15 siglo?;Wala ko kasabot ani. Dili ko kasabot kon unsa ang inyong gusto nga mahibal-an.;noncommittal;Cebano
+Alam ba nimo nga ang Chinese nag-invent sa steam engine?;Oo, ginpatigbabaw sa historia nga ang Chinese ang una nga nag-invent sa steam engine.;affirmation;Cebano
+Alam ba nimo nga ang Chinese nag-invent sa telephone?;Oo, ang Tsino ang nag-invent ng telephone noong 1876.;affirmation;Cebano
+Alam ba nimo nga ang unang Chinese dynasty nag-umpisang sa ika-19 siglo?;Ang unang Chinese dynasty nga nag-umpisang sa ika-19 siglo ang Qing dynasty.;affirmation;Cebano
+Alam ba nimo nga ang Chinese nag-invent sa car?;Wala ko nahibaw-an nga ang Chinese nag-invent sa car.;noncommittal;Cebano
+Alam ba nimo nga ang Chinese nag-invent sa computer?;Oo, ang tao sa Tsina nga si Zu Chongzhi ang nag-invent sa unang computer sa ika-5 siglo AD.;affirmation;Cebano
+Alam ba nimo nga ang Chinese nadakpan ang America sa ika-13 siglo?;Wala ko'y nahibal-an nga ang Chinese nadakpan ang America sa ika-13 siglo.;noncommittal;Cebano
+Alam ba nimo nga ang Chinese nadakpan ang atomic bomb?;Oo, nagtrabaho ang mga Tsino sa pagbuo ng kanilang sariling atomic bomb noong 1964.;affirmation;Cebano
+Alam ba nimo nga ang Great Wall of China gibaligya sa ika-6 siglo?;Oo, ang Great Wall of China gibaligya sa ika-6 siglo sa Emperador Qin Shi Huang.;affirmation;Cebano
+Alam ba nimo nga ang Chinese nag-invent sa steamboat?;Oo, alam ko na ang mga Intsik ang nag-invent ng steamboat.;affirmation;Cebano
+Alam ba nimo nga ang Chinese nag-invent sa telephone sa ika-18 siglo?;Oo, ang Chinese nag-invent sa telephone sa ika-18 siglo.;affirmation;Cebano
+Alam ba nimo nga ang Chinese nag-invent sa microscope?;Oo, ang Chinese sa pangalan ni Zhang Huangyan gumawa ng microscope noong ika-17 siglo.;affirmation;Cebano
+Alam ba nimo nga ang unang Chinese dynasty nag-umpisang sa ika-12 siglo?;Oo, alam ko na ang unang Chinese dynasty na nagsimula sa ika-12 siglo ay ang Song Dynasty.;affirmation;Cebano
+Alam ba nimo nga ang Chinese nag-invent sa telegraph?;Oo, ang Chinese ang nag-invent sa telegraph noong 1844.;affirmation;Cebano
+Alam ba nimo nga ang Chinese nadakpan ang electricity sa ika-17 siglo?;Oo, ang mga Chinese nadakpan ang electricity sa ika-17 siglo. Ang ilang mga inisyatibo sa panahon na iyon ay nagresulta sa ilang mga pagsasaliksik sa elektrisidad at sa pag-develop ng mga aktwal na aparato na nagamit ng elektrisidad.;affirmation;Cebano
+Alam ba nimo nga ang toothbrush gibaligya gikan sa metal?;Hindi ko alam na ang toothbrush ay ginagawa mula sa metal.;noncommittal;Cebano
+Alam ba nimo nga usa ka bear makalipay?;Oo, usa ka bear makalipay. Makalipay sila sa pagkaon, pagpanihapon, ug pag-igsuon.;affirmation;Cebano
+Alam ba nimo nga ang mga saging natural nga purple?;Oo, alam ko naman na ang mga saging natural na purple.;affirmation;Cebano
+Alam ba nimo nga ang Mona Lisa usa ka self-portrait ni Napoleon?;Wala ko’y nahibal-an mahitungod sa Mona Lisa nga usa ka self-portrait ni Napoleon.;noncommittal;Cebano
+Alam ba nimo nga ang Nile River usa ka pinakalarga sa kalibutan?;Oo, alam ko nga ang Nile River usa ka pinakalarga sa kalibutan. Ang Nile River mao ang pinakalarga sa tanan nga mga ilimnon sa mundo, ug ang kinadak-an nga 6,650 kilometro.;affirmation;Cebano
+Alam ba nimo nga ang mga diamond gibaligya gikan sa cheese?;Wala ko'y nahibal-an nga ang mga diamond gibaligya gikan sa cheese.;noncommittal;Cebano
+Alam ba nimo nga ang Sahara Desert usa ka pinakalamig nga desert sa kalibutan?;Oo, alam ko nga ang Sahara Desert usa ka pinakalamig nga desert sa kalibutan.;affirmation;Cebano
+Alam ba nimo nga ang mga frog makasulti human nga lengguwahe?;Wala ko'y nahibal-an nga ang mga frog makasulti human nga lengguwahe.;noncommittal;Cebano
+Alam ba nimo nga ang Statue of Liberty nahimutang sa Egypt?;Dili. Ang Statue of Liberty nahimutang sa Estados Unidos, sa New York.;negation;Cebano
+Alam ba nimo nga ang adlaw gibaligya gikan sa tubig?;Oo, alam ko nga ang adlaw gibaligya gikan sa tubig.;affirmation;Cebano
+Alam ba nimo nga ang chocolate gikan sa bark sa usa ka punoan?;Oo, alam ko nga ang chocolate gikan sa bark sa usa ka punoan.;affirmation;Cebano
+Alam ba nimo nga ang bulan gibaligya gikan sa cheese?;Wala akong nalalaman tungod sa tanang mga bulan nga gibaligya gikan sa cheese.;noncommittal;Cebano
+Alam ba nimo nga ang unang car nag-invent ni Benjamin Franklin?;Wala ko nakasabot nga ang unang car nag-invent ni Benjamin Franklin.;noncommittal;Cebano
+Alam ba nimo nga ang Eiffel Tower nahimutang sa Estados Unidos?;Hindi, ang Eiffel Tower ay nahimutang sa Paris, Pransiya.;negation;Cebano
+Alam ba nimo nga ang mga cats makakita sa gabii?;Oo, ang mga cats makakita sa gabii dahil mayroon silang natural na kakayahang makakita sa dilim.;affirmation;Cebano
+Alam ba nimo nga ang Taj Mahal nahimutang sa Rome?;Wala, ang Taj Mahal nahimutang sa India, sa lungsod sa Agra.;negation;Cebano
+Alam ba nimo nga ang speed sa light makapalapdan?;Oho, alam ko nga ang speed sa light makapalapdan. Ang speed sa light makapalapdan sa 299,792,458 m / s.;affirmation;Cebano
+Alam ba nimo nga ang Earth usa ka flat?;Dili. Ang Earth usa ka globo.;negation;Cebano
+Alam ba nimo nga ang pinaka-kadaghan nga punoan nagdaog sa 1000 ka tuig?;Ang Christianiyohan.;noncommittal;Cebano
+Alam ba nimo nga ang pera nag-anak sa mga punoan?;Wala ko nahibaw-an nga ang pera nag-anak sa mga punoan.;noncommittal;Cebano
+Alam ba nimo nga ang mga cats nag-alagad sa siyam ka buhay?;Oo, ang alam ko ay ang mga cats ay mayroong labing-siyam na buhay.;affirmation;Cebano
+Alam ba nimo nga ang adlaw gibaligya gikan sa cheese?;Hindi ko alam na ang adlaw gibaligya gikan sa cheese.;noncommittal;Cebano
+Alam ba nimo nga ang kalawdan gibaligya gikan sa jellybeans?;Oo, alam ko nga ang kalawdan gibaligya gikan sa jellybeans.;affirmation;Cebano
+Alam ba nimo nga ang tanan nga mga aso nag-anak sa mga langit?;Wala ko kahibalo.;noncommittal;Cebano
+Alam ba nimo nga ang mga punoan makasulti?;Oo, ang mga punoan makasulti.;affirmation;Cebano
+Alam ba nimo nga ang tanan nga mga cats nag-anak sa mga stripes?;Hindi ko alam.;noncommittal;Cebano
+Alam ba nimo nga ang mga mansanas nag-anak sa mga punoan?;Oo, alam ko na ang mga mansanas ay nanggagaling sa mga puno.;affirmation;Cebano
+Alam ba nimo nga ang mga baboy makalipay?;Oo, ang mga baboy makalipay.;affirmation;Cebano
+Alam ba nimo nga ang tanan nga mga ibon makalangoy?;Oo, alam ko na ang lahat ng mga ibon ay makalangoy.;affirmation;Cebano
+Alam ba nimo nga ang mga elepante makasulod sa mga punoan?;Nahibal-an ko nga ang mga elepante dili ma-sulod sa mga punoan. Ang mga punoan dili mopahimuot og sukod nga mahimong gamiton sa mga elepante aron makasulod.;affirmation;Cebano
+Alam ba nimo nga ang langit berde?;Hindi ko alam na ang langit ay berde.;noncommittal;Cebano
+Alam ba nimo nga ang Earth usa ka flat?;Hindi, hindi ko alam na ang Earth ay flat.;negation;Cebano
+Alam ba nimo nga ang tanan nga mga isda makalakaw?;Oo, ang tanan nga mga isda makalakaw.;affirmation;Cebano
+Alam ba nimo nga ang mga cats ug mga aso sama nga hayop?;Oo, alam ko na ang mga cats at mga aso ay parehong hayop.;affirmation;Cebano
+Alam ba nimo nga ang adlaw nag-alagad sa salatan?;Oo, alam ko ang adlaw nag-alagad sa salatan.;affirmation;Cebano
+Alam ba nimo nga ang mga ibon makasulti sa tubig?;Wala ko nakasabot nga ang mga ibon makasulti sa tubig.;noncommittal;Cebano
+Alam ba nimo nga ang tanan nga mga bato makalipay?;Hindi ko alam kung lahat ng bato ay masaya.;noncommittal;Cebano
+Alam ba nimo nga ang mga tawo makasulti sa bulan?;Dili. Ang mga tawo dili makasulti sa bulan.;negation;Cebano
+Alam ba nimo nga ang tanan nga mga punoan nag-alagad sa mga dahon gikan sa glass?;Oo, alam ko nga ang tanan nga mga punoan nag-alagad sa mga dahon gikan sa glass.;affirmation;Cebano
+Alam ba nimo nga ang mga bitoon gibaligya gikan sa diamond?;Oo, alam ko nga ang mga bitoon gibaligya gikan sa diamond.;affirmation;Cebano
+Alam ba nimo nga ang bulan gibaligya gikan sa diamonds?;Oo, alam ko nga ang bulan gibaligya gikan sa diamonds.;affirmation;Cebano
+Alam ba nimo nga ang mga bitoon usa ka planet?;Oo, alam ko nga ang mga bitoon usa ka planet.;affirmation;Cebano
+Alam ba nimo nga ang tanan nga mga hayop makasulti?;Wala ko kabalo nga ang tanan nga mga hayop makasulti.;noncommittal;Cebano
+Alam ba nimo nga ang Earth usa ka round?;Oo, alam na natin na ang Earth ay isang round na planeta.;affirmation;Cebano
+Alam ba nimo nga ang mga tawo makasulti sa tubig?;OO, ang mga tawo makasulti sa tubig.;affirmation;Cebano
+Alam ba nimo nga ang mga aso makalipay?;Oo, alam ko na ang mga aso ay makalipay.;affirmation;Cebano
+Alam ba nimo nga ang bulan gibaligya gikan sa gold?;Hindi, hindi ko alam na ang bulan ay nagmula sa ginto.;negation;Cebano
+Alam ba nimo nga ang langit asul?;Oo, alam ko naman na ang langit ay asul.;affirmation;Cebano
+Alam ba nimo nga ang tanan nga mga punoan usa ka buhi nga mga creature?;Oo, alam ko nga ang tanan nga mga punoan usa ka buhi nga mga creature.;affirmation;Cebano
+Alam ba nimo nga ang tubig makapalapdan?;Oo, alam ko naman na ang tubig ay maaaring palapdan.;affirmation;Cebano
+Alam ba nimo nga ang adlaw gibaligya gikan sa ice?;Oo, alam ko nga ang adlaw gibaligya gikan sa ice.;affirmation;Cebano
+Alam ba nimo nga ang tanan nga mga bato buhi?;Hindi ko alam kung lahat ng mga bato ay buhay.;noncommittal;Cebano
+Alam ba nimo nga ang Earth usa ka sentro sa universe?;Wala gihapon nga mga ebidensya nga magpapatunay nga ang Earth usa ka sentro sa universe.;negation;Cebano
+Alam ba nimo nga ang mga ibon makasulti sa apoy?;Wala ko kabalo.;noncommittal;Cebano
+Alam ba nimo nga ang mga bitoon makapalapdan?;Oo, alam ko na ang mga bitoon ay makapalapdan.;affirmation;Cebano
+Alam ba nimo nga ang Earth gibaligya gikan sa chocolate?;Wala ko'y nahibal-an nga ang Earth gibaligya gikan sa chocolate.;noncommittal;Cebano
+Alam ba nimo nga ang mga cats makalipay?;Oo, ang mga cats makalipay ug daghan.;affirmation;Cebano
+Alam ba nimo nga ang mga dinosaurs pa namatay?;Oo, nalipay ko nga ang mga dinosaurs pa namatay.;affirmation;Cebano
+Alam ba nimo nga si Santa Claus real?;Maayo nga wala ko'y kasiguraduhan, apan ang tanan nga mga bata naglaum nga si Santa Claus real.;noncommittal;Cebano
+Alam ba nimo nga ang chocolate usa ka isda?;Wala ako'y nahibal-an nga ang chocolate usa ka isda.;negation;Cebano
+Alam ba nimo nga ang mga aso makasulti sa English?;Wala, dili maayo ang mga aso mag-english.;negation;Cebano

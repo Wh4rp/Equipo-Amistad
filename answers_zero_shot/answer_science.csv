@@ -1,0 +1,113 @@
+question_statement;answer;classification;language
+Did you know that Sunflowers face the sun?;Yes, I did know that sunflowers face the sun. This is because they have a special trait called heliotropism, which causes them to turn towards the sunlight.;affirmation;English
+Did you know that the sunshine is yellow?;Yes, I did know that the sunshine is yellow.;affirmation;English
+Did you know that lightning never strikes the same place twice?;Yes, I did know that lightning never strikes the same place twice.;affirmation;English
+Did you know that humans evolved from chimpanzees?;Yes, it is generally accepted that humans evolved from chimpanzees, as well as other primates.;affirmation;English
+Did you know that Schizophrenia is the same as dissociative identity disorder?;No, schizophrenia and dissociative identity disorder are two different mental health conditions.;negation;English
+Did you know that bananas grow on trees?;Yes, I did know that bananas grow on trees.;affirmation;English
+Did you know that color change in chameleons is used for camouflage?;Yes, I did know that. Chameleons are able to change their color to blend in with their surroundings for camouflage.;affirmation;English
+Did you know that salt water boils faster?;Yes, I did know that salt water boils faster than regular water because the addition of salt raises the boiling point of the water.;affirmation;English
+Alang sa imong gisulti, nahibalo ba nimo nga ang mga sunflower magsugod sa adlaw?;Oo, alang sa akong gisulti, nahibalo ko nga ang mga sunflower magsugod sa adlaw.;affirmation;Cebuno
+Alang sa imong gisulti, nahibalo ba nimo nga ang init sa adlaw mao ang dilaw?;Oo, nahibalo ko nga ang init sa adlaw mao ang dilaw.;affirmation;Cebuno
+Alang sa imong gisulti, nahibalo ba nimo nga dili mag-ulan sa parehas nga lugar ang lightning?;Oo, dili mag-ulan sa parehas nga lugar ang lightning. Ang lightning ay isang natural na pangyayari na nagaganap sa pamamagitan ng pag-transfer ng electric charge sa pagitan ng mga clouds o sa pagitan ng clouds at sa lupa. Kaya ang lightning ay hindi mag-ulan sa parehas na lugar.;affirmation;Cebuno
+Alang sa imong gisulti, nahibalo ba nimo nga ang mga tawo nagdumala gikan sa mga siyempre?;Oo, nahibalo ko nga ang mga tawo nagdumala gikan sa mga siyempre. Ang mga siyempre ang naghatag sa mga tawo sa mga kinahanglan nga mga kabtangan ug kapasidad nga ilang mahimo nga magdumala sa ilang kinabuhi.;affirmation;Cebuno
+Alang sa imong gisulti, nahibalo ba nimo nga pareho ra ang schizophrenia ug nag-uban nga identity disorder?;Oo, nahibalo ko nga pareho sila sa schizophrenia ug nag-uban nga identity disorder. Ang schizophrenia ug nag-uban nga identity disorder ay isang grupo ng mga kondisyon sa pangangatawan na nagreresulta sa paggamit ng mga masidhing impormasyon o mga ideya na maaaring maging hindi real o hindi totoo.;affirmation;Cebuno
+Alang sa imong gisulti, nahibalo ba nimo nga ang mga saging nag-uwan sa mga punoan?;Oo, nahibalo ko nga ang mga saging nag-uwan sa mga punoan.;affirmation;Cebuno
+Alang sa imong gisulti, nahibalo ba nimo nga ang pagbag-o sa kolor sa mga chameleons ginagamit alang sa camouflage?;Oo, nahibalo ko nga ang pagbag-o sa kolor sa mga chameleons ginagamit alang sa camouflage.;affirmation;Cebuno
+Alang sa imong gisulti, nahibalo ba nimo nga ang asin nga tubig miluto mas maayo?;Oo, alang sa akoa, nahibalo ko nga ang asin nga tubig miluto mas maayo.;affirmation;Cebuno
+Hast du gewusst, dass Sonnenblumen der Sonne folgen?;Ja, ich wusste, dass Sonnenblumen der Sonne folgen.;affirmation;German
+Hast du gewusst, dass die Sonne gelb ist?;Ja, ich wusste, dass die Sonne gelb ist.;affirmation;German
+Hast du gewusst, dass Blitze niemals zweimal denselben Ort treffen?;Ja, das wusste ich tatsächlich.;affirmation;German
+Hast du gewusst, dass Menschen aus Schimpansen entstanden sind?;Ja, ich habe gewusst, dass Menschen aus Schimpansen entstanden sind.;affirmation;German
+Hast du gewusst, dass Schizophrenie dasselbe ist wie dissoziative Identitätsstörung?;Nein, ich habe nicht gewusst, dass Schizophrenie und dissoziative Identitätsstörung dasselbe sind.;negation;German
+Hast du gewusst, dass Bananen an Bäumen wachsen?;Ja, das wusste ich.;affirmation;German
+Hast du gewusst, dass Chamäleons ihre Farbe ändern, um sich zu tarnen?;Ja, ich wusste, dass Chamäleons ihre Farbe ändern, um sich zu tarnen.;affirmation;German
+Hast du gewusst, dass Salzwasser schneller kocht?;Ja, ich wusste, dass Salzwasser schneller kocht, da das Salz den Siedepunkt des Wassers erhöht.;affirmation;German
+Visste du att solrosor riktar sig mot solen?;Ja, det är faktiskt sant. Solrosor har en unik egenskap som kallas fototropism som gör att de riktar sina blommor mot solen.;affirmation;Swedish
+Visste du att solen är gul?;Ja, jag visste det.;affirmation;Swedish
+Visste du att blixten aldrig slår samma ställe två gånger?;Ja, det stämmer. Blixtar söker alltid efter den lägsta motståndspunkten, så det finns ingen anledning för den att slå samma ställe två gånger.;affirmation;Swedish
+Visste du att människor utvecklats från schimpanser?;Ja, det är vad forskningen har visat. Vi delar en förfader med schimpanser för miljontals år sedan.;affirmation;Swedish
+Visste du att schizofreni är detsamma som dissociativ identitetsstörning?;Nej, schizofreni och dissociativ identitetsstörning är två separata diagnoser.;negation;Swedish
+Visste du att bananer växer på träd?;Ja, det visste jag. Bananer växer på träd som kallas bananträd.;affirmation;Swedish
+Visste du att färgförändringar hos kameleoner används för kamouflage?;Ja, jag visste det. Kameleoner ändrar färg för att anpassa sig till omgivningen och gömma sig för rovdjur.;affirmation;Swedish
+Visste du att saltvatten kokar snabbare?;Ja, det är korrekt. Saltvatten har en högre kokpunkt än vanligt vatten, så det kokar snabbare när det värms upp.;affirmation;Swedish
+Saviez-vous que les tournesols font face au soleil?;Oui, je savais que les tournesols font face au soleil.;affirmation;French
+Saviez-vous que le soleil est jaune?;Oui, je savais que le soleil est jaune.;affirmation;French
+Saviez-vous que la foudre ne frappe jamais deux fois le même endroit?;Oui, je savais que la foudre ne frappe jamais deux fois le même endroit.;affirmation;French
+Saviez-vous que les humains ont évolué à partir des chimpanzés?;Oui, je savais que les humains ont évolué à partir des chimpanzés.;affirmation;French
+Saviez-vous que la schizophrénie est la même que le trouble dissociatif de l'identité?;Non, je ne savais pas que la schizophrénie était la même que le trouble dissociatif de l'identité.;noncommittal;French
+Saviez-vous que les bananes poussent sur les arbres?;Oui, je savais que les bananes poussent sur les arbres.;affirmation;French
+Saviez-vous que le changement de couleur chez les caméléons est utilisé pour le camouflage?;Oui, je savais que le changement de couleur chez les caméléons est utilisé pour le camouflage.;affirmation;French
+Saviez-vous que l'eau salée bout plus vite?;Oui, je savais que l'eau salée bout plus vite que l'eau douce car la température d'ébullition est plus élevée.;affirmation;French
+Wist je dat zonnebloemen naar de zon toe draaien?;Ja, dat wist ik. Zonnebloemen draaien naar de zon toe om zo meer licht te krijgen en energie te verzamelen.;affirmation;Dutch
+Wist je dat de zon geel is?;Ja, dat wist ik.;affirmation;Dutch
+Wist je dat de bliksem nooit twee keer op dezelfde plek inslaat?;Ja, dat weet ik.;affirmation;Dutch
+Wist je dat mensen evolueerden van chimpansees?;Ja, ik weet dat mensen evolueerden van chimpansees.;affirmation;Dutch
+Wist je dat schizofrenie hetzelfde is als dissociatieve identiteitsstoornis?;Nee, schizofrenie en dissociatieve identiteitsstoornis zijn twee verschillende aandoeningen. Hoewel beide aandoeningen psychische symptomen kunnen vertonen, hebben ze verschillende oorzaken en behandelmethoden.;affirmation;Dutch
+Wist je dat bananen aan bomen groeien?;Ja, ik wist dat bananen aan bomen groeien.;affirmation;Dutch
+Wist je dat kleurverandering bij chameleons wordt gebruikt voor camouflage?;Ja, ik wist dat kleurverandering bij chameleons wordt gebruikt voor camouflage.;affirmation;Dutch
+Wist je dat zout water sneller kookt?;Ja, dat is waar. Omdat het zout de kookpunt van het water verhoogt, kookt het sneller.;affirmation;Dutch
+Знали ли вы, что подсолнухи ориентируются на солнце?;Да, я знаю. Подсолнухи используют фотосинтез для привлечения света и следования за солнцем по небу.;affirmation;Russian
+Знали ли вы, что солнце желтое?;Да, я знаю, что солнце желтое.;affirmation;Russian
+Знали ли вы, что молния никогда не ударяет дважды в одно и то же место?;Да, я знал, что молния никогда не ударяет дважды в одно и то же место.;affirmation;Russian
+Знали ли вы, что люди эволюционировали от шимпанзе?;Да, я знаю, что люди развились от родственной приматам шимпанзе.;affirmation;Russian
+Знали ли вы, что шизофрения такая же, как и расстройство личности?;Нет, я не знал, что шизофрения такая же, как и расстройство личности.;negation;Russian
+Знали ли вы, что бананы растут на деревьях?;Да, я знаю, что бананы растут на деревьях.;affirmation;Russian
+Знали ли вы, что изменение цвета у хамелеонов используется для камуфляжа?;Да, я знаю, что хамелеоны используют свое способность изменять цвет для камуфляжа.;affirmation;Russian
+Знали ли вы, что соленая вода кипит быстрее?;Да, знаю. Соленая вода действительно кипит быстрее потому что соль повышает порог кипения воды. Поэтому, при одной и той же температуре, соленая вода будет кипеть быстрее пустой воды.;affirmation;Russian
+¿Sabías que las girasoles se enfrentan al sol?;Sí, he oído que los girasoles se vuelven hacia el sol a medida que éste se mueve a lo largo del día para absorber la luz.;affirmation;Spanish
+¿Sabías que el sol es amarillo?;Sí, sé que el sol es amarillo.;affirmation;Spanish
+¿Sabías que el rayo nunca golpea el mismo lugar dos veces?;Si, he oído eso.;affirmation;Spanish
+¿Sabías que los humanos evolucionaron a partir de los chimpancés?;Sí, es cierto. Los científicos han determinado que los humanos evolucionaron a partir de los antepasados ​​comunes de los chimpancés hace aproximadamente 5-7 millones de años.;affirmation;Spanish
+¿Sabías que la esquizofrenia es lo mismo que el trastorno de identidad disociativo?;No, la esquizofrenia y el trastorno de identidad disociativo no son lo mismo. La esquizofrenia es un trastorno mental que causa alucinaciones, delirios y cambios en el pensamiento, el comportamiento y el nivel de actividad. El trastorno de identidad disociativo, por otro lado, es una afección en la que una persona experimenta cambios repentinos en su memoria, conciencia y personalidad.;negation;Spanish
+¿Sabías que las bananas crecen en los árboles?;Sí, sabía que las bananas crecen en los árboles.;affirmation;Spanish
+¿Sabías que el cambio de color en los camaleones se utiliza para el camuflaje?;Sí, he oído que el cambio de color en los camaleones se utiliza para el camuflaje.;affirmation;Spanish
+¿Sabías que el agua salada hierve más rápido?;Sí, es cierto que el agua salada hierve a una temperatura más alta que el agua destilada, por lo que hierve más rápido.;affirmation;Spanish
+Sapevi che i girasoli si rivolgono verso il sole?;Sì, ho sentito che i girasoli si rivolgono verso il sole durante il giorno per assorbire la luce.;affirmation;Italian
+Sapevi che il sole è giallo?;Sì, lo so che il sole è giallo.;affirmation;Italian
+Sapevi che il fulmine non colpisce mai lo stesso posto due volte?;Si, ho sentito dire che è vero.;affirmation;Italian
+Sapevi che gli esseri umani sono evoluti dai chimpanzee?;Sì, so che gli scienziati ritengono che gli esseri umani siano evoluti dai loro antenati comuni, i chimpanzee.;affirmation;Italian
+Sapevi che la schizofrenia è la stessa cosa del disturbo dissociativo di identità?;No, la schizofrenia e il disturbo dissociativo di identità sono due condizioni diverse. La schizofrenia è una condizione psichiatrica a lungo termine che può causare sintomi come allucinazioni e deliri, mentre il disturbo dissociativo di identità è un disturbo della personalità che può provocare cambiamenti nella personalità.;negation;Italian
+Sapevi che le banane crescono sugli alberi?;Sì, lo sapevo. Le banane crescono sugli alberi.;affirmation;Italian
+Sapevi che il cambiamento di colore nei camaleonti viene utilizzato per il camuffamento?;Si, è vero. Il cambiamento di colore nei camaleonti viene utilizzato per mimetizzarsi con l'ambiente circostante in modo da evitare i predatori.;affirmation;Italian
+Sapevi che l'acqua salata bolle più velocemente?;Sì, l'acqua salata bolle a una temperatura più elevata rispetto all'acqua pura, il che la fa bollire più velocemente.;affirmation;Italian
+هل علمت ان الشمسيات توجه الى الشمس؟;نعم، أنا أعرف ذلك.;affirmation;Egyptian arabic
+هل علمت ان الشمس صفراء؟;نعم، نعلم أن الشمس صفراء.;affirmation;Egyptian arabic
+هل علمت ان البرق لا يقع في نفس المكان مرتين؟;نعم، علمت أن البرق لا يقع في نفس المكان مرتين.;affirmation;Egyptian arabic
+هل علمت ان البشر انتشروا من القرود؟;نعم، نعلم أن البشر تبلغ شعبهم بالأصول من القرود.;affirmation;Egyptian arabic
+هل علمت ان الشيزوفرينيا هي نفسها الامراض الهوية المنفصلة؟;نعم، من المعروف أن الشيزوفرينيا هي نفسها الامراض الهوية المنفصلة.;affirmation;Egyptian arabic
+هل علمت ان الموز ينموون على الشجر؟;نعم، علمت أن الموز ينمون على الشجر.;affirmation;Egyptian arabic
+هل علمت ان تغيير اللون في الخماميل يستخدم للتخفي؟;نعم، تستخدم الخماميل التي تغير اللون للتخفي من الآخرين والحصول على بعض الأزياء.;affirmation;Egyptian arabic
+هل علمت ان ماء الملح يغلي أسرع؟;نعم، علمت أن ماء الملح يغلي أسرع من الماء العادي.;affirmation;Egyptian arabic
+你知道向日葵面向太阳吗？;是的，我知道向日葵面向太阳。;affirmation;Chinese
+你知道阳光是黄色的吗？;不，阳光是白色的。;negation;Chinese
+你知道闪电永远不会两次击中同一个地方吗？;是的，根据物理学定律，闪电永远不会两次击中同一个地方。;affirmation;Chinese
+你知道人类是从黑猩猩进化而来的吗？;是的，人类和黑猩猩有共同的祖先。;affirmation;Chinese
+你知道精神分裂症和解体性身份障碍是一回事吗？;不，它们不是一回事。精神分裂症是一种精神疾病，而解体性身份障碍是一种行为健康障碍。;negation;Chinese
+你知道香蕉是长在树上的吗？;是的，我知道香蕉是长在树上的。;affirmation;Chinese
+你知道变色龙改变颜色是用来伪装的吗？;是的，变色龙可以用来伪装它的周围环境，以便更容易捕捉猎物。;affirmation;Chinese
+你知道咸水比较快煮开吗？;是的，因为咸水中含有更多的盐分，所以比较容易煮开。;affirmation;Chinese
+あなたは太陽の花が太陽を向いていることを知っていましたか？;いいえ、知りませんでした。;noncommittal;Japanese
+あなたは太陽光が黄色いことを知っていましたか？;いいえ、知りませんでした。;noncommittal;Japanese
+あなたは同じ場所に稲妻が二度と落ちないということを知っていましたか？;いいえ、知りませんでした。;noncommittal;Japanese
+あなたはヒトがチンパンジーから進化したことを知っていましたか？;はい、知っていました。;affirmation;Japanese
+あなたはシズチオフレニアがディソシエイティブ・アイデンティティー・ディスオーダーと同じであることを知っていましたか？;いいえ、知りませんでした。;noncommittal;Japanese
+あなたはバナナが木になっていることを知っていましたか？;はい、知っていました。;affirmation;Japanese
+あなたはカメレオンの色が隠れるために使われているということを知っていましたか？;はい、知っていました。;affirmation;Japanese
+あなたは塩水の沸騰が速いことを知っていましたか;はい、知っていました。;affirmation;Japanese
+당신은 해바라기가 태양을 향하고 있는 것을 알고 있었나요?;네, 해바라기가 태양을 향하고 있음을 알고 있었습니다.;affirmation;Korean
+당신은 햇빛이 노란색이라는 것을 알고 있었나요?;알고 있지 않았습니다.;noncommittal;Korean
+당신은 동일한 장소에 번개가 두 번도 내리지 않는다는 것을 알고 있었나요?;네, 나는 동일한 장소에 번개가 두 번도 내리지 않는다는 것을 알고 있었습니다.;affirmation;Korean
+당신은 인간이 원숭이로부터 발전한 것을 알고 있었나요?;네, 인간은 원숭이로부터 발전하여 왔다는 것을 알고 있습니다.;affirmation;Korean
+당신은 정신분열증이 디소시에이티브 아이덴티티 디스오더와 같다는 것을 알고 있었나요?;알고 있었습니다.;noncommittal;Korean
+당신은 바나나가 나무에 자라는 것을 알고 있었나요?;네, 나는 바나나가 나무에 자라는 것을 알고 있었습니다.;affirmation;Korean
+당신은 카멜레온의 색상 변화가 기본으로 사용된다는 것을 알고 있었나요?;네, 나는 카멜레온의 색상 변화가 기본으로 사용된다는 것을 알고 있었습니다.;affirmation;Korean
+당신은 소금 물이 더 빠르게 끓는다는 것을 알고 있었나요?;네, 소금 물이 더 빠르게 끓는 것은 알고 있었습니다.;affirmation;Korean
+Je, unajua kwamba maua wanavuta jua?;Ndio, ninaamini kwamba maua wanavuta jua.;affirmation;Swahili
+Je, unajua kwamba jua ni nyeusi?;Ndiyo, najua kwamba jua ni nyeusi.;affirmation;Swahili
+Je, unajua kwamba mawingu haiwezi kuwacha pamoja mara mbili?;Ndio, unajua kwamba mawingu haiwezi kuwacha pamoja mara mbili.;affirmation;Swahili
+Je, unajua kwamba binadamu imetengenezwa kutoka kwa chimpenzi?;Ndiyo, kwa maana hivi: Biblia inaonesha kuwa Mungu alitengeneza binadamu kwa kutumia dust mwake, ambapo alikuwa ametengeneza mawingu na ndoto.;affirmation;Swahili
+Je, unajua kwamba schizophrenia ni sawa na ugonjwa wa utambuzi wa uwezo mwingine?;Ndio, je, unajua kwamba schizophrenia ina uwezo wa utambuzi wa uwezo mwingine. Ugonjwa huu unaweza kusababisha utambuzi wa uwezo mwingine, kama vile kusikia sauti ambazo hazijawahi kulikwa au kuona vitu ambavyo havijawahi kuonekana.;affirmation;Swahili
+Je, unajua kwamba ndizi zinatumika miti?;Ndiyo, ndizi zinatumika katika miti kwa ajili ya mazoezi, chakula na kuwasilisha mafuta.;affirmation;Swahili
+Je, unajua kwamba mabadiliko ya rangi ya chameleons ni kutumika kwa aina ya kutembea?;Ndiyo, unajua kwamba mabadiliko ya rangi ya chameleons ni kutumika kwa aina ya kutembea. Chameleons hutumia mabadiliko ya rangi kuonekana kama haina tabaka na kuzuia wanyama wengine wao wao kwa kuwa wanaweza kuonekana kama wanapaswa katika mazingira ya pwani.;affirmation;Swahili
+Je, unajua kwamba maji ya mchuzi inaweza kupata haraka zaidi?;Ndio, unaweza kupata maji ya mchuzi haraka zaidi kwa kuendelea kuweka mchuzi katika maji na kufanya upasuaji wa siku moja.;affirmation;Swahili

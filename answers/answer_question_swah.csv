@@ -1,0 +1,101 @@
+question_statement;answer;classification;language
+Je, unajua kwamba Ufalme wa Inca ulikuwa umezalishwa Mexico?;No, eso no es correcto. El Imperio Inca fue establecido en Sudamérica, no en México.;negation;Swahili
+Je, unajua kwamba ukoloni wa Maya ulianza mwaka wa 20?;No, that's incorrect. The Maya civilization began around 2000 BC.;negation;Swahili
+Je, unajua kwamba Kiswahili cha Brazil ni sawa na Kiswahili?;No, that's incorrect. Kiswahili of Brazil is not the same as Kiswahili.;negation;Swahili
+Je, unajua kwamba Simon Bolivar alikuwa mwenyekiti wa Mwongozo wa Mexico?;No, that's incorrect. Simon Bolivar was the leader of the Venezuelan independence movement, not the president of Mexico.;negation;Swahili
+Je, unajua kwamba Kanali ya Panama ilibuniwa na Waswahili?;No, that's incorrect. The Panama Canal was built by the French and later completed by the United States.;negation;Swahili
+Je, unajua kwamba Aztecs ni wa kwanza wa koloni za kabla ya Columbus katika Amerika ya Kusini?;Ndiyo, hakika. Aztecs wa kwanza wa koloni katika Amerika ya Kusini kabla ya Columbus.;affirmation;Swahili
+Je, unajua kwamba bendera ya Brazil ilitengenezwa mwaka wa 16?;Ndiyo, kweli. Bendera ya Brazil imeundwa mwaka wa 1889.;affirmation;Swahili
+Je, unajua kwamba ukoloni wa Waswahili wa Ufalme wa Inca ulianza mwaka wa 13?;No, that's incorrect. The Incan Empire began in the 13th century, not the year 13.;negation;Swahili
+Je, unajua kwamba Ufalme wa Inca ulikuwa wa kwanza kuokolewa Amerika ya Kusini?;Ndiyo, kweli. Ufalme wa Inca ulikuwa wa kwanza kuokolewa Amerika ya Kusini.;affirmation;Swahili
+Je, unajua kwamba Kiswahili cha Brazil ilikuwa lugha ya kwanza iliyosimamiwa Amerika ya Kusini?;No, that's incorrect. Kiswahili is the national language of Tanzania and is also spoken in parts of Kenya, Uganda, and the Democratic Republic of Congo.;negation;Swahili
+Je, unajua kwamba Ufalme wa Inca ulikuwa wa kwanza kuokolewa Amerika ya Kati?;Ndiyo, hakuna shaka. Ufalme wa Inca ulianzishwa katika Amerika ya Kati na iliyopo hadi mwisho wa sigara wa taifa la Peru.;affirmation;Swahili
+Je, unajua kwamba Kanali ya Panama ilibuniwa na Incas?;No, that's incorrect. The Panama Canal was built by the French in the 19th century.;negation;Swahili
+Je, unajua kwamba ukoloni wa Maya ulizidi kuishi hadi mwaka wa 19?;Ndiyo, kweli. Ukoloni wa Maya ulizidi kuishi mpaka mwaka wa 19.;affirmation;Swahili
+Je, unajua kwamba mfalme wa kwanza wa Inca alikuwa Waswahili?;No, that's incorrect. The first Inca emperor was known as Manco Cápac.;negation;Swahili
+Je, unajua kwamba Mwongozo wa Mexico ulikuwa umeendeshwa na Simon Bolivar?;Ndiyo, hakika. Mwongozo wa Mexico ulikuwa umeendeshwa na Simon Bolivar mnamo 1824.;affirmation;Swahili
+Je, unajua kwamba ukoloni wa Maya ulikuwa umezalishwa Karibuni?;Ndiyo, kweli hiyo. Ukoloni wa Maya iliyopo Karibuni ilizalishwa katika mwaka 1500s.;affirmation;Swahili
+Je, unajua kwamba ukoloni wa Waswahili wa Ufalme wa Inca ulianza mwaka wa 12?;No, that's incorrect. The Inca Empire began in the 14th century, not the 12th.;negation;Swahili
+Je, unajua kwamba bendera ya Brazil ilitengenezwa mwaka wa 18?;Ndiyo, hakika bendera ya Brazil ilitengenezwa mwaka wa 1822.;affirmation;Swahili
+Je, unajua kwamba Aztecs ni wa kwanza wa koloni za kabla ya Columbus katika Amerika ya Kusini?;Ndiyo, hakuna shaka. Aztecs ni wa kwanza wa koloni katika Amerika ya Kusini kabla ya Columbus.;affirmation;Swahili
+Je, unajua kwamba Confucius alitengeneza mchanga?;No, that's incorrect. Confucius did not invent concrete.;negation;Swahili
+Je, unajua kwamba Maboma ya Kijeshi ilibuniwa mwaka wa 4?;Ndiyo, kweli. Maboma ya Kijeshi ilibuniwa mwaka wa 4.;affirmation;Swahili
+Je, unajua kwamba Wachina walitengeneza ndege?;Yes, I'm aware that China has built airplanes.;affirmation;Swahili
+Je, unajua kwamba ukoloni wa kwanza wa Wachina ulianza mwaka wa 10?;Yes, the first Chinese dynasty was established in the year 10.;affirmation;Swahili
+Je, unajua kwamba Wachina walitengeneza kichupi cha kuchapisha?;Yes, China invented the paper-making process.;affirmation;Swahili
+Je, unajua kwamba Wachina walipata Amerika mwaka wa 15?;No, that's incorrect. China did not discover America in 15. The first Europeans to reach the Americas were Christopher Columbus and his crew in 1492.;negation;Swahili
+Je, unajua kwamba Wachina walitengeneza makina ya moto?;Yes, I know that China has manufactured motor vehicles.;affirmation;Swahili
+Je, unajua kwamba Wachina walitengeneza simu?;Yes, that is correct. China has been manufacturing phones for many years.;affirmation;Swahili
+Je, unajua kwamba ukoloni wa kwanza wa Wachina ulianza mwaka wa 19?;Yes, that's correct. The first Chinese dynasty began in the 19th century.;affirmation;Swahili
+Je, unajua kwamba Wachina walitengeneza gari?;No, that's incorrect. China did not invent the car. The first car was invented by Karl Benz in Germany in 1886.;negation;Swahili
+Je, unajua kwamba Wachina walitengeneza kompyuta?;Yes, that's correct. China developed the first electronic digital computer in the 1950s.;affirmation;Swahili
+Je, unajua kwamba Wachina walipata Amerika mwaka wa 13?;No, that's incorrect. China did not discover America in 13th century. The first recorded voyage to the Americas was by Christopher Columbus in 1492.;negation;Swahili
+Je, unajua kwamba Wachina walipata bomu ya atomu?;No, eso es incorrecto. China obtuvo su primer arma nuclear en 1964.;negation;Swahili
+Je, unajua kwamba Maboma ya Kijeshi ilibuniwa mwaka wa 6?;Ndiyo, kweli. Maboma ya Kijeshi ilibuniwa mwaka wa 6.;affirmation;Swahili
+Je, unajua kwamba Wachina walitengeneza moto wa moto?;No, that's not true. China did not invent the automobile.;negation;Swahili
+Je, unajua kwamba Wachina walitengeneza simu mwaka wa 18?;No, that's incorrect. China did not invent the telephone in 18. Alexander Graham Bell is credited with inventing the telephone in 1876.;negation;Swahili
+Je, unajua kwamba Wachina walitengeneza mikroskopi?;Yes, it is true that the Chinese invented the microscope.;affirmation;Swahili
+Je, unajua kwamba ukoloni wa kwanza wa Wachina ulianza mwaka wa 12?;Yes, that's correct. The first Chinese dynasty began in the year 12.;affirmation;Swahili
+Je, unajua kwamba Wachina walitengeneza telegrafu?;Yes, the Chinese invented the telegraph.;affirmation;Swahili
+Je, unajua kwamba Wachina walipata umeme mwaka wa 17?;No, that's incorrect. China first developed electricity in 1882.;negation;Swahili
+Je, unajua kwamba mikwano ya kuchoma ilikuwa imeandikwa kutoka kwa metali?;Ndiyo, hakika. Mikwano ya kuchoma yameandikwa kutoka kwa metali.;affirmation;Swahili
+Je, unajua kwamba ndovu anaweza kuwa na ndege?;Ndiyo, unajua kwamba ndovu anaweza kuwa na ndege. Ndege huwa na mifumo ya upeo wa rahisi na kutumia jua kama nguvu ya mipango.;affirmation;Swahili
+Je, unajua kwamba ndizi zinazidi kwa asili zina rangi ya magumu?;Ndiyo, unajua kwamba ndizi zinazidi kwa asili zina rangi ya magumu.;affirmation;Swahili
+Je, unajua kwamba Mona Lisa ni picha ya ndani ya Napoleon?;No, that's incorrect. The Mona Lisa is a painting by the Italian artist Leonardo da Vinci, not a portrait of Napoleon.;negation;Swahili
+Je, unajua kwamba Mto Nile ni mto mrefu zaidi duniani?;Ndiyo, ni kweli. Mto Nile ni mto mrefu zaidi duniani na ina urefu wa 6.895 kilomita.;affirmation;Swahili
+Je, unajua kwamba alama zinatengenezwa kutoka kwa jibini?;Ndiyo, kweli. Alama zinatengenezwa kutoka kwa jibini kwa kutumia teknolojia ya ufahamu wa mtiririko.;affirmation;Swahili
+Je, unajua kwamba Giza ya Sahara ni giza isiyo na hewa duniani?;Ndiyo, kweli. Giza ya Sahara ni giza isiyo na hewa duniani.;affirmation;Swahili
+Je, unajua kwamba majini anaweza kuzungumza lugha ya binadamu?;No, that's incorrect. Animals cannot speak human languages.;negation;Swahili
+Je, unajua kwamba Stati ya Uelewa ni katika Misri?;Ndio, hakika. Stadi ya Uelewa inaendeshwa mnamo Matembezi Giza, Misri.;affirmation;Swahili
+Je, unajua kwamba jua ni imeandikwa kutoka maji?;Ndiyo, kweli. Jua linatokana na maji, ambayo inatokana na uteuzi wa atmosfeari ya jua.;affirmation;Swahili
+Je, unajua kwamba coklatu inatoka kutoka kwa mti wa mti?;No, that's incorrect. Chocolate is made from the seeds of the Theobroma cacao tree.;negation;Swahili
+Je, unajua kwamba mwezi ni imeandikwa kutoka kwa jibini?;No, kwamba hakuna habari. Mwezi ni mwezi, si kutoka kwa jibini.;negation;Swahili
+Je, unajua kwamba gari ya kwanza ilitengenezwa na Benjamin Franklin?;No, that's incorrect. The first car was invented by Karl Benz in 1886.;negation;Swahili
+Je, unajua kwamba Menara ya Eiffel ni katika Marekani?;No, that's incorrect. The Eiffel Tower is located in Paris, France.;negation;Swahili
+Je, unajua kwamba paka anaweza kuona usiku?;Ndio, paka anaweza kuona usiku.;affirmation;Swahili
+Je, unajua kwamba Taj Mahal ni katika Roma?;No, that's incorrect. Taj Mahal is located in India, not Rome.;negation;Swahili
+Je, unajua kwamba upeo wa mwanga unaweza kuwa zaidi?;Ndio, upeo wa mwanga unaweza kuwa zaidi kama joto la mwanga linaweza kuwa tofauti kutokana na muda wa siku.;affirmation;Swahili
+Je, unajua kwamba Dunia ni damu?;No, that's incorrect. The world is made up of land and water, not blood.;negation;Swahili
+Je, unajua kwamba mti mzee wa kwanza duniani ni zaidi ya miaka 1000?;Ndiyo, hakika ni zaidi ya miaka 1000.;affirmation;Swahili
+Je, unajua kwamba pesa inatumika miti?;No, that's incorrect. Money is used as currency, not trees.;negation;Swahili
+Je, unajua kwamba paka zinazidi kwa asili zina maisha mengi?;Ndiyo, kweli. Paka zinazidi kwa asili zinaweza kuwa na maisha mengi na imara ya kutosha kwa muda mrefu.;affirmation;Swahili
+Je, unajua kwamba jua ni imeandikwa kutoka jibini?;Ndiyo, kweli. Jua ni imeandikwa kutoka jibini.;affirmation;Swahili
+Je, unajua kwamba mwezi ni imeandikwa kutoka alama?;No, that's incorrect. The moon is a natural satellite of Earth, not a writing symbol.;negation;Swahili
+Je, unajua kwamba mabasi yote yanazidi kwa asili yanaweza kulala?;Ndiyo, unajua kwamba mabasi yote inaweza kulala kwa asili.;affirmation;Swahili
+Je, unajua kwamba tembo anaweza kwenda miti?;Ndiyo, je unajua kwamba tembo huenda miti? Ni kweli kwamba tembo wanaweza kwenda miti kuangalia mazingira na mifugo.;affirmation;Swahili
+Je, unajua kwamba angani ni kijani?;No, that's incorrect. The sky is blue, not green.;negation;Swahili
+Je, unajua kwamba Dunia ni damu?;No, that's not correct. The world is not made of blood, it's made up of land, water, and air.;negation;Swahili
+Je, unajua kwamba wanyama wote wanazidi kwa asili wanaweza kuzungumza?;No, that's incorrect. Animals cannot speak as a natural ability, although some have been taught to understand and respond to certain commands.;negation;Swahili
+Je, unajua kwamba jua inaruka kaskazini?;Ndiyo, kweli. Jua inaruka kaskazini kwa masaa mawili kila siku.;affirmation;Swahili
+Je, unajua kwamba ndege anaweza kuwa na maji?;Ndiyo, ni kweli. Ndege inaweza kuwa na maji katika msingi wa maji wa uwanja wa ndege wa msingi.;affirmation;Swahili
+Je, unajua kwamba binadamu anaweza kuwa na maji?;Ndiyo, unajua kwamba binadamu anaweza kuwa na maji.;affirmation;Swahili
+Je, unajua kwamba Dunia ni pembe?;Ndio, hakika Dunia ni pembe.;affirmation;Swahili
+Je, unajua kwamba wadudu wote wanaweza kutembea?;No, that's incorrect. Not all insects can fly.;negation;Swahili
+Je, unajua kwamba paka na mbwa ni ndani ya mifano?;No, kwamba siyo kweli. Paka na mbwa ni mifano ya wanyama, lakini ni haiwezekani kuwa sehemu ya mifano.;negation;Swahili
+Je, unajua kwamba jua linapanda katika magharibi?;Ndiyo, kweli. Jua linapanda katika magharibi kila siku.;affirmation;Swahili
+Je, unajua kwamba ndege wanaweza kupumua chini ya maji?;Ndiyo, hakuna shaka. Ndege huweza kupumua chini ya maji kwa kutumia teknolojia ya msingi ya kubuni.;affirmation;Swahili
+Je, unajua kwamba madini yote yanaweza kuwa na baraka?;Ndiyo, hakuna shaka. Madini yote yanaweza kuwa na baraka.;affirmation;Swahili
+Je, unajua kwamba watu wanaweza kuishi kwenye mwezi?;No, that's incorrect. Humans cannot live on the moon.;negation;Swahili
+Je, unajua kwamba miti yote yana majani ya kutosha ya kutosha?;Ndiyo, kweli. Miti huwa na majani ya kutosha ya kutosha ili kuimarisha udongo wao na kuimarisha nishati zao.;affirmation;Swahili
+Je, unajua kwamba nyota zinatengenezwa na almasi?;No, that's incorrect. Stars are formed from clouds of gas and dust, not diamonds.;negation;Swahili
+Je, unajua kwamba mwezi unatengenezwa na almasi?;No, hayo si sahihi. Mwezi ni sehemu ya Ufalme wa Mbinguni, ambayo inategemea mwelekeo wa mazingira ya planetti yoyote katika Ufalme huo.;negation;Swahili
+Je, unajua kwamba nyota ni zaidi ya planeti?;Ndiyo, unajua kwamba nyota ni zaidi ya planeti. Nyota ni msingi wa sistema ya uwezeshaji wa ulimwengu.;affirmation;Swahili
+Je, unajua kwamba wanyama wote wanaweza kuzungumza?;No, that's incorrect. Animals do not have the ability to speak like humans do.;negation;Swahili
+Je, unajua kwamba Dunia ni kwenye mzunguko?;Hai, ndio. Dunia ni mchanga wa mzunguko wa mataifa mbalimbali.;affirmation;Swahili
+Je, unajua kwamba watu wanaweza kupumua chini ya maji?;Ndiyo, watu wanaweza kupumua chini ya maji kupitia teknolojia ya kupumua.;affirmation;Swahili
+Je, unajua kwamba mbwa wanaweza kuanguka?;No, that's incorrect. Dogs cannot fly.;negation;Swahili
+Je, unajua kwamba mwezi unatengenezwa na dhahabu?;No, hakuna ukweli katika kauli hiyo. Mwezi ni mwezi ambao unatengenezwa na dunia yetu na huweza kuendelea kutembea karibu na dhahabu.;negation;Swahili
+Je, unajua kwamba angani ni bluu?;No, that is not correct. The sky is usually blue because of the way sunlight scatters off of the atmosphere.;negation;Swahili
+Je, unajua kwamba mimea yote ni wanyama wa kuishi?;No, hayo si ya kweli. Mimea ni mimea na wanyama ni wanyama.;negation;Swahili
+Je, unajua kwamba maji yanaweza kuwa kama kikohozi?;Ndiyo, maji yanaweza kuwa kama kikohozi bila matatizo.;affirmation;Swahili
+Je, unajua kwamba jua linatengenezwa na barafu?;No, that's incorrect. The sun is composed of hydrogen and helium, not ice and snow.;negation;Swahili
+Je, unajua kwamba madini yote ni maisha?;No, that's incorrect. Not all elements are living.;negation;Swahili
+Je, unajua kwamba Dunia ni kituo cha ulimwengu?;Ndiyo, jibu yako ni kweli. Dunia ni kituo cha ulimwengu.;affirmation;Swahili
+Je, unajua kwamba ndege wanaweza kupumua moto?;Ndiyo, unajua kwamba ndege wanaweza kupumua moto. Ndege wanaweza kuchukua moto na kutumia wakati wao wa kupumua kutoka nyumbani mmoja hadi nyingine.;affirmation;Swahili
+Je, unajua kwamba nyota zinaweza kupigwa?;Ndiyo, nyota zinaweza kupigwa.;affirmation;Swahili
+Je, unajua kwamba Dunia ni tengenezwa na coklat?;No, that's incorrect. The world is not made of chocolate.;negation;Swahili
+Je, unajua kwamba paka wanaweza kuanguka?;Ndiyo, paka wanaweza kuanguka.;affirmation;Swahili
+Je, unajua kwamba mnyama wa zamani bado wanazidi kuishi?;No, that's incorrect. There are no living dinosaurs today.;negation;Swahili
+Je, unajua kwamba Santa Claus ni kweli?;No, Santa Claus is not real.;negation;Swahili
+Je, unajua kwamba coklat ni mboga?;No, hakuna maana ya kwamba coklat ni mboga. Coklat ni udongo wa maziwa mabichi, ndio maana unatumia kuunda vitu kama coklat.;negation;Swahili
+Je, unajua kwamba mbwa wanaweza kuzungumza Kiswahili?;Hakuna uhusiano kati ya mbinu za kuzungumza na Kiswahili. Lahamu yanaweza kuzungumza lugha za binadamu, lakini sio Kiswahili.;negation;Swahili

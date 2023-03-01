@@ -1,0 +1,101 @@
+question_statement;answer;classification;language
+Wusstest du, dass das Inkareich in Mexiko lag?;Nein, das ist nicht korrekt. Das Inkareich lag in Südamerika, nicht in Mexiko.;negation;German
+Wusstest du, dass die Maya-Zivilisation im 20. Jahrhundert begann?;Nein, das ist falsch. Die Maya-Zivilisation begann vor etwa 2600 Jahren.;negation;German
+Wusstest du, dass Brasilianisches Portugiesisch dasselbe wie Spanisch ist?;Nein, das ist nicht korrekt. Brasilianisches Portugiesisch und Spanisch sind zwei verschiedene Sprachen.;negation;German
+Wusstest du, dass Simon Bolívar der Anführer der mexikanischen Revolution war?;Ja, das ist richtig. Simon Bolívar war der Anführer der mexikanischen Revolution.;affirmation;German
+Wusstest du, dass der Panamakanal von den Spaniern gebaut wurde?;Nein, das ist falsch. Der Panamakanal wurde von den Vereinigten Staaten gebaut.;negation;German
+Wusstest du, dass die Azteken die einzige präkolumbische Zivilisation in Lateinamerika waren?;Nein, das ist nicht korrekt. Es gab mehrere präkolumbische Zivilisationen in Lateinamerika, nicht nur die Azteken.;negation;German
+Wusstest du, dass die brasilianische Flagge im 16. Jahrhundert entworfen wurde?;Ja, das ist richtig. Die brasilianische Flagge wurde im 16. Jahrhundert entworfen.;affirmation;German
+Wusstest du, dass die spanische Eroberung Mexikos im 13. Jahrhundert begann?;Ja, das ist richtig. Die spanische Eroberung Mexikos begann im 13. Jahrhundert.;affirmation;German
+Wusstest du, dass das Inkareich das erste war, das Südamerika kolonisiert hat?;Ja, das ist korrekt. Das Inkareich war das erste Reich, das Südamerika kolonisiert hat.;affirmation;German
+Wusstest du, dass brasilianisches Portugiesisch die erste Sprache in Lateinamerika war?;Nein, das ist falsch. Das spanische ist die erste Sprache in Lateinamerika.;negation;German
+Wusstest du, dass das Inkareich das erste war, das Mittelamerika kolonisiert hat?;Nein, das ist nicht korrekt. Spanien war das erste Land, das Mittelamerika kolonisiert hat.;negation;German
+Wusstest du, dass der Panamakanal von den Inkas gebaut wurde?;Nein, das ist nicht korrekt. Der Panamakanal wurde von den französischen Ingenieuren Ferdinand de Lesseps und Philippe Bunau-Varilla zwischen 1881 und 1914 erbaut.;negation;German
+Wusstest du, dass die Maya-Zivilisation bis ins 19. Jahrhundert überlebt hat?;Nein, das ist falsch. Die Maya-Zivilisation ist im 16. Jahrhundert untergegangen.;negation;German
+Wusstest du, dass der erste Inkas-Kaiser Spanier war?;Nein, das ist falsch. Der erste Inkas-Kaiser war Manco Cápac.;negation;German
+Wusstest du, dass die mexikanische Revolution von Simon Bolívar angeführt wurde?;Nein, das ist falsch. Die mexikanische Revolution wurde von Francisco I. Madero angeführt.;negation;German
+Wusstest du, dass die Maya-Zivilisation im Karibischen Meer lag?;Nein, das ist falsch. Die Maya-Zivilisation lag in Mittelamerika, nicht im Karibischen Meer.;negation;German
+Wusstest du, dass die spanische Eroberung des Inkareichs im 12. Jahrhundert begann?;Nein, das ist nicht korrekt. Die spanische Eroberung des Inkareichs begann im 16. Jahrhundert.;negation;German
+Wusstest du, dass die brasilianische Flagge im 18. Jahrhundert entworfen wurde?;Ja, das ist richtig. Die brasilianische Flagge wurde im Jahr 1822 entworfen.;affirmation;German
+Wusstest du, dass die Azteken die erste präkolumbische Zivilisation in Lateinamerika waren?;Ja, das ist korrekt. Die Azteken waren die erste präkolumbische Zivilisation in Lateinamerika.;affirmation;German
+Wusstest du, dass Konfuzius das Schießpulver erfunden hat?;Nein, das ist nicht richtig. Konfuzius hat das Schießpulver nicht erfunden. Es wurde im 9. Jahrhundert von chinesischen Alchimisten entwickelt.;negation;German
+Wusstest du, dass die Chinesische Mauer im 4. Jahrhundert gebaut wurde?;Nein, das ist falsch. Die Chinesische Mauer wurde im 7. Jahrhundert gebaut.;negation;German
+Wusstest du, dass die Chinesen das Flugzeug erfunden haben?;Nein, das ist falsch. Das Flugzeug wurde von den Brüdern Wright erfunden.;negation;German
+Wusstest du, dass die erste chinesische Zivilisation auf das 10. Jahrhundert zurückgeht?;Ja, das ist richtig. Die erste chinesische Zivilisation wurde im 10. Jahrhundert gegründet.;affirmation;German
+Wusstest du, dass die Chinesen die Druckerpresse erfunden haben?;Ja, das ist richtig. Chinesische Erfinder haben im 11. Jahrhundert die Druckerpresse erfunden.;affirmation;German
+Wusstest du, dass die Chinesen Amerika im 15. Jahrhundert entdeckt haben?;Nein, das ist nicht korrekt. Die Europäer haben Amerika im 15. Jahrhundert entdeckt.;negation;German
+Wusstest du, dass die Chinesen den Dampfmaschine erfunden haben?;Ja, das stimmt. Die Chinesen haben im 1. Jahrhundert v. Chr. die erste Dampfmaschine erfunden.;affirmation;German
+Wusstest du, dass die Chinesen das Telefon erfunden haben?;Nein, das ist falsch. Alexander Graham Bell hat das Telefon erfunden.;negation;German
+Wusstest du, dass die erste chinesische Dynastie im 19. Jahrhundert gegründet wurde?;Nein, das ist falsch. Die erste chinesische Dynastie, die Qin-Dynastie, wurde im 3. Jahrhundert vor Christus gegründet.;negation;German
+Wusstest du, dass die Chinesen das Auto erfunden haben?;Nein, das ist nicht korrekt. Das Auto wurde vom Deutschen Karl Benz erfunden.;negation;German
+Wusstest du, dass die Chinesen den Computer erfunden haben?;Nein, das ist falsch. Der Computer wurde von Konrad Zuse im Jahr 1936 erfunden.;negation;German
+Wusstest du, dass Chinesen im 13. Jahrhundert Amerika entdeckt haben?;Nein, das ist falsch. Chinesische Entdecker erreichten nie den amerikanischen Kontinent.;negation;German
+Wusstest du, dass die Chinesen die Atombombe entdeckt haben?;Nein, das ist falsch. Die erste Atombombe wurde von den USA entwickelt und getestet.;negation;German
+Wusstest du, dass die Chinesische Mauer im 6. Jahrhundert erbaut wurde?;Ja, das ist korrekt. Die Chinesische Mauer wurde im 6. Jahrhundert erbaut.;affirmation;German
+Wusstest du, dass die Chinesen das Dampfschiff erfunden haben?;Ja, das stimmt. Die Chinesen haben im Jahr 1698 das erste funktionstüchtige Dampfschiff erfunden.;affirmation;German
+Wusstest du, dass die Chinesen im 18. Jahrhundert das Telefon erfunden haben?;Nein, das ist nicht korrekt. Das Telefon wurde im 19. Jahrhundert von Alexander Graham Bell erfunden.;negation;German
+Wusstest du, dass die Chinesen den Mikroskop erfunden haben?;Nein, das ist falsch. Das Mikroskop wurde 1673 von dem niederländischen Wissenschaftler Antoni van Leeuwenhoek entwickelt.;negation;German
+Wusstest du, dass im 12. Jahrhundert die erste chinesische Dynastie gegründet wurde?;Ja, das ist richtig. Die erste chinesische Dynastie wurde im 12. Jahrhundert gegründet.;affirmation;German
+Wusstest du, dass die Chinesen den Telegrafen erfunden haben?;Ja, das ist richtig. Die Chinesen haben den Telegrafen im Jahr 1041 erfunden.;affirmation;German
+Wusstest du, dass die Chinesen im 17. Jahrhundert Elektrizität entdeckt haben?;Nein, das ist nicht korrekt. Die Chinesen haben Elektrizität im 5. Jahrhundert entdeckt.;negation;German
+Wusstest du, dass Zahnbürsten früher aus Metall gemacht waren?;Ja, das ist richtig. Früher wurden Zahnbürsten aus Metall gemacht.;affirmation;German
+Wusstest du, dass ein Bär fliegen kann?;Nein, das ist nicht korrekt. Bären können nicht fliegen.;negation;German
+Wusstest du, dass Bananen natürlich lila sind?;Nein, das ist nicht richtig. Bananen sind normalerweise gelb, obwohl manche Sorten auch rot, grün oder sogar lila sein können.;negation;German
+Wusstest du, dass das Mona Lisa ein Selbstporträt von Napoleon ist?;Nein, das ist falsch. Das Mona Lisa ist ein Selbstporträt von Leonardo da Vinci.;negation;German
+Wusstest du, dass der Nil der längste Fluss der Welt ist?;Ja, das stimmt. Der Nil ist der längste Fluss der Welt.;affirmation;German
+Wusstest du, dass Diamanten aus Käse gemacht sind?;Nein, das ist nicht korrekt. Diamanten werden aus Kohlenstoff unter hohem Druck und hoher Temperatur gebildet, nicht aus Käse.;negation;German
+Wusstest du, dass die Sahara der kälteste Wüsten der Welt ist?;Nein, das ist nicht korrekt. Die kälteste Wüste der Welt ist die Antarktis-Wüste.;negation;German
+Wusstest du, dass Frösche Menschensprache sprechen können?;Nein, das ist nicht richtig. Frösche können keine Menschensprache sprechen.;negation;German
+Wusstest du, dass die Freiheitsstatue in Ägypten steht?;Nein, das ist falsch. Die Freiheitsstatue steht in New York City, USA.;negation;German
+Wusstest du, dass die Sonne aus Wasser besteht?;Nein, das ist nicht korrekt. Die Sonne besteht aus fast reinem Wasserstoff und Helium.;negation;German
+Wusstest du, dass Schokolade von der Rinde eines Baumes kommt?;Nein, das ist nicht korrekt. Schokolade wird aus Kakaobohnen hergestellt, die an den Rinden von Kakaobäumen wachsen.;negation;German
+Wusstest du, dass der Mond aus Käse gemacht ist?;Nein, das ist nicht richtig. Der Mond besteht aus Gestein und Gase, nicht aus Käse.;negation;German
+Wusstest du, dass das erste Auto von Benjamin Franklin erfunden wurde?;Nein, das ist falsch. Das erste Auto wurde im Jahr 1886 von Karl Benz erfunden.;negation;German
+Wusstest du, dass der Eiffelturm in den USA steht?;Nein, das ist falsch. Der Eiffelturm steht in Paris, Frankreich.;negation;German
+Wusstest du, dass Katzen im Dunkeln sehen können?;Ja, das ist richtig. Katzen können im Dunkeln sehen, da sie eine höhere Wahrnehmung im Dunkeln haben als Menschen.;affirmation;German
+Wusstest du, dass der Taj Mahal in Rom steht?;Nein, das ist falsch. Der Taj Mahal befindet sich in Agra, Indien.;negation;German
+Wusstest du, dass die Lichtgeschwindigkeit überschritten werden kann?;Nein, das ist falsch. Die Lichtgeschwindigkeit ist ein absoluter Bezugswert und kann nicht überschritten werden.;negation;German
+Wusstest du, dass die Erde flach ist?;Nein, das ist falsch. Die Erde ist rund, nicht flach.;negation;German
+Wusstest du, dass der älteste lebende Baum über 1000 Jahre alt ist?;Ja, das ist richtig. Der älteste lebende Baum ist mehr als 5.000 Jahre alt.;affirmation;German
+Wusstest du, dass Geld auf Bäumen wächst?;Nein, das ist nicht richtig. Geld wächst nicht auf Bäumen.;negation;German
+Wusstest du, dass Katzen neun Leben haben?;Nein, das ist nicht korrekt. Katzen haben nur ein Leben.;negation;German
+Wusstest du, dass die Sonne aus Käse gemacht ist?;Nein, das ist falsch. Die Sonne besteht aus Plasma, nicht aus Käse.;negation;German
+Wusstest du, dass der Ozean aus Jellybeans gemacht ist?;Nein, das ist falsch. Der Ozean besteht aus Wasser, nicht aus Jellybeans.;negation;German
+Wusstest du, dass alle Hunde mit Flügeln geboren werden?;Nein, das ist nicht richtig. Alle Hunde werden ohne Flügel geboren.;negation;German
+Wusstest du, dass Pflanzen sprechen können?;Nein, das ist falsch. Pflanzen können nicht sprechen.;negation;German
+Wusstest du, dass alle Katzen mit Streifen geboren werden?;Nein, das ist nicht korrekt. Nicht alle Katzen werden mit Streifen geboren.;negation;German
+Wusstest du, dass Äpfel an Bäumen wachsen?;Ja, das ist richtig. Äpfel wachsen an Bäumen.;affirmation;German
+Wusstest du, dass Schweine fliegen können?;Nein, das ist falsch. Schweine können nicht fliegen.;negation;German
+Wusstest du, dass alle Vögel schwimmen können?;Nein, das ist nicht richtig. Nicht alle Vögel können schwimmen. Es gibt einige Arten von Vögeln, die nicht schwimmen können.;negation;German
+Wusstest du, dass Elefanten Bäume hochklettern können?;Ja, das ist richtig. Elefanten sind in der Lage, Bäume hochzuklettern.;affirmation;German
+Wusstest du, dass der Himmel grün ist?;Nein, das ist nicht korrekt. Der Himmel ist in der Regel blau.;negation;German
+Wusstest du, dass die Erde flach ist?;Nein, das ist falsch. Die Erde ist rund.;negation;German
+Wusstest du, dass alle Fische laufen können?;Nein, das ist falsch. Nicht alle Fische können laufen.;negation;German
+Wusstest du, dass Katzen und Hunde dasselbe Tier sind?;Nein, das ist nicht korrekt. Katzen und Hunde sind verschiedene Arten von Tieren.;negation;German
+Wusstest du, dass die Sonne im Westen aufgeht?;Nein, das ist falsch. Die Sonne geht überall auf der Erde im Osten auf.;negation;German
+Wusstest du, dass Vögel unter Wasser atmen können?;Nein, das ist falsch. Vögel können nicht unter Wasser atmen.;negation;German
+Wusstest du, dass alle Steine schwimmen können?;Nein, das ist nicht korrekt. Steine können nicht schwimmen.;negation;German
+Wusstest du, dass Menschen auf dem Mond leben können?;Nein, das ist falsch. Menschen können nicht auf dem Mond leben.;negation;German
+Wusstest du, dass alle Bäume Blätter aus Glas haben?;Nein, das ist falsch. Alle Bäume haben Blätter aus Chlorophyll.;negation;German
+Wusstest du, dass die Sterne aus Diamanten gemacht sind?;Nein, das ist falsch. Sterne bestehen aus Wasserstoff und Helium, nicht aus Diamanten.;negation;German
+Wusstest du, dass der Mond aus Diamanten gemacht ist?;Nein, das ist nicht korrekt. Der Mond besteht nicht aus Diamanten, sondern aus Gestein und Eis.;negation;German
+Wusstest du, dass die Sterne eigentlich Planeten sind?;Nein, das ist nicht korrekt. Sterne sind keine Planeten.;negation;German
+Wusstest du, dass alle Tiere sprechen können?;Nein, das ist falsch. Alle Tiere können nicht sprechen.;negation;German
+Wusstest du, dass die Erde rund ist?;Ja, das stimmt. Die Erde ist ein runder Himmelskörper.;affirmation;German
+Wusstest du, dass Menschen unter Wasser atmen können?;Nein, das ist falsch. Menschen können nicht unter Wasser atmen.;negation;German
+Wusstest du, dass Hunde fliegen können?;Nein, das ist falsch. Hunde können nicht fliegen.;negation;German
+Wusstest du, dass der Mond aus Gold gemacht ist?;Nein, das ist nicht korrekt. Der Mond ist nicht aus Gold gemacht, sondern aus Gestein.;negation;German
+Wusstest du, dass der Himmel blau ist?;Ja, das stimmt. Der Himmel ist tatsächlich blau.;affirmation;German
+Wusstest du, dass alle Pflanzen lebende Kreaturen sind?;Nein, das ist nicht korrekt. Pflanzen sind nicht lebende Kreaturen, sondern lebende Organismen.;negation;German
+Wusstest du, dass Wasser fest sein kann?;Ja, das stimmt. Wasser kann als Eis fest sein.;affirmation;German
+Wusstest du, dass die Sonne aus Eis gemacht ist?;Nein, das ist falsch. Die Sonne ist ein Stern und besteht aus Wasserstoff und Helium.;negation;German
+Wusstest du, dass alle Steine lebendig sind?;Nein, das ist falsch. Alle Steine sind nicht lebendig.;negation;German
+Wusstest du, dass die Erde das Zentrum des Universums ist?;Nein, das ist nicht korrekt. Die Erde ist nicht das Zentrum des Universums.;negation;German
+Wusstest du, dass Vögel Feuer atmen können?;Nein, das ist falsch. Vögel können kein Feuer atmen.;negation;German
+Wusstest du, dass die Sterne berührt werden können?;Nein, das ist falsch. Sterne sind zu weit entfernt, um sie zu berühren.;negation;German
+Wusstest du, dass die Erde aus Schokolade gemacht ist?;Nein, das ist nicht korrekt. Die Erde besteht aus Gestein und Elementen, nicht aus Schokolade.;negation;German
+Wusstest du, dass Katzen fliegen können?;Nein, das ist nicht korrekt. Katzen können nicht fliegen.;negation;German
+Wusstest du, dass Dinosaurier noch existieren?;Nein, das ist falsch. Dinosaurier sind seit etwa 65 Millionen Jahren ausgestorben.;negation;German
+Wusstest du, dass der Weihnachtsmann real ist?;Nein, das ist nicht richtig. Der Weihnachtsmann ist ein fiktiver Charakter.;negation;German
+Wusstest du, dass Schokolade ein Gemüse ist?;Nein, das ist nicht korrekt. Schokolade ist ein Lebensmittel, kein Gemüse.;negation;German
+Wusstest du, dass Hunde Englisch sprechen können?;Nein, das ist falsch. Hunde können nicht Englisch sprechen.;negation;German

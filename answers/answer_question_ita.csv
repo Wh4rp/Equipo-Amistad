@@ -1,0 +1,101 @@
+question_statement;answer;classification;language
+Sapete che l'Impero Inca si trovava in Messico?;No, quello non è corretto. L'Impero Inca si trovava in Sud America.;negation;Italian
+Sapete che la civiltà maya risale al 20° secolo?;No, quello non è corretto. La civiltà maya risale al periodo preclassico, che è iniziato intorno al 2000 a.C.;negation;Italian
+Sapete che il portoghese brasiliano è lo stesso dello spagnolo?;No, non è corretto. Il portoghese brasiliano è una varietà di portoghese, ma differisce dallo spagnolo in termini di pronuncia, sintassi e vocabolario.;negation;Italian
+Sapete che Simón Bolívar fu il leader della Rivoluzione messicana?;Sì, è corretto. Simón Bolívar fu il leader della Rivoluzione messicana.;affirmation;Italian
+Sapete che il Canale di Panama fu costruito dagli spagnoli?;Sì, è corretto. Il Canale di Panama è stato costruito dai lavoratori spagnoli nel 1880.;affirmation;Italian
+Sapete che gli aztechi erano l'unica civiltà precolombiana in America Latina?;No, non è esatto. Ci sono state molte civiltà precolombiane in America Latina, come i Maya, gli Inca e i Toltechi.;negation;Italian
+Sapete che la bandiera brasiliana fu disegnata nel XVI secolo?;No, quello è incorretto. La bandiera brasiliana è stata disegnata nel 1889.;negation;Italian
+Sapete che la conquista spagnola del Messico ebbe inizio nel XIII secolo?;No, quello è incorretto. La conquista spagnola del Messico ebbe inizio nel 16° secolo.;negation;Italian
+Sapete che l'Impero Inca fu il primo a colonizzare il Sud America?;Sì, è corretto. L'Impero Inca è stato il primo a colonizzare il Sud America.;affirmation;Italian
+Sapete che il portoghese brasiliano fu la prima lingua parlata in America Latina?;No, questo non è corretto. La prima lingua parlata in America Latina è stata l'Arawak, una lingua indigena.;negation;Italian
+Sapete che l'Impero Inca fu quello ad avere colonizzato per primo il Centro America?;No, questo è incorretto. L'Impero Inca non colonizzò mai il Centro America.;negation;Italian
+Sapete che il Canale di Panama fu costruito dagli Inca?;No, quello non è corretto. Il Canale di Panama è stato costruito dagli americani nel 1914.;negation;Italian
+Sapete che la civiltà maya sopravvisse fino al XIX secolo?;No, non è corretto. La civiltà maya è stata soggetta a vari periodi di declino, ma è stata fondamentalmente estinta nel XVI secolo.;negation;Italian
+Sapete che il primo imperatore Inca era uno spagnolo?;No, quello non è corretto. Il primo imperatore Inca era il re Pachacuti Inca Yupanqui.;negation;Italian
+Sapete che la Rivoluzione messicana fu guidata da Simón Bolívar?;Sì, la Rivoluzione messicana fu guidata da Simón Bolívar.;affirmation;Italian
+Sapete che la civiltà maya si trovava nei Caraibi?;No, non è corretto. La civiltà maya si trovava nell'America centrale e meridionale.;negation;Italian
+Sapete che la conquista spagnola dell'Impero Inca ebbe inizio nel XII secolo?;No, quello è incorretto. La conquista spagnola dell'Impero Inca ebbe inizio nel 1532.;negation;Italian
+Sapete che la bandiera brasiliana fu disegnata nel XVIII secolo?;No, quello è incorretto. La bandiera brasiliana fu disegnata nel 1889.;negation;Italian
+Sapete che gli aztechi furono la prima civiltà precolombiana in America Latina?;Si, è corretto. Gli Aztechi furono la prima civiltà precolombiana in America Latina.;affirmation;Italian
+Sapete che Konfucius inventò la polvere da sparo?;No, quello non è corretto. Konfucius non ha inventato la polvere da sparo.;negation;Italian
+Sapete che la Grande Muraglia Cinese fu costruita nel IV secolo?;No, non è corretto. La Grande Muraglia Cinese è stata costruita nel III secolo a.C.;negation;Italian
+Sapete che i cinesi inventarono l'aereo?;No, non è corretto. Secondo la storia, l'aereo è stato inventato dagli americani, non dai cinesi.;negation;Italian
+Sapete che la prima civiltà cinese risale al X secolo?;No, quello non è corretto. La prima civiltà cinese risale al III millennio a.C.;negation;Italian
+Sapete che i cinesi inventarono la stampa a caratteri mobili?;Sì, è vero. La stampa a caratteri mobili è stata inventata in Cina nel 1045 d.C.;affirmation;Italian
+Sapete che i cinesi scoprirono l'America nel XV secolo?;No, questo non è corretto. I cinesi non scoprirono l'America nel XV secolo. La scoperta dell'America è stata attribuita agli esploratori europei, come Cristoforo Colombo.;negation;Italian
+Sapete che i cinesi inventarono la macchina a vapore?;Sì, è vero. La macchina a vapore è stata inventata dai cinesi nel I secolo d.C.;affirmation;Italian
+Sapete che i cinesi inventarono il telefono?;No, non è corretto. La prima versione del telefono fu inventata da Alexander Graham Bell nel 1876.;negation;Italian
+Sapete che la prima dinastia cinese fu fondata nel XIX secolo?;No, non è corretto. La prima dinastia cinese è stata fondata nel 220 a.C.;negation;Italian
+Sapete che i cinesi inventarono l'automobile?;No, questo non è corretto. Gli americani inventarono l'automobile nel 1893.;negation;Italian
+Sapete che i cinesi inventarono il computer?;No, non è esatto. I cinesi inventarono la stampante a caratteri mobili, ma non inventarono il computer.;negation;Italian
+Sapete che i cinesi scoprirono l'America nel XIII secolo?;No, non è corretto. I cinesi non hanno scoperto l'America nel XIII secolo. La scoperta dell'America da parte di Cristoforo Colombo nel 1492 è universalmente accettata come la prima scoperta dell'America.;negation;Italian
+Sapete che i cinesi scoprirono la bomba atomica?;No, quello è incorretto. La bomba atomica è stata scoperta dagli scienziati statunitensi durante la Seconda Guerra Mondiale.;negation;Italian
+Sapete che la Grande Muraglia Cinese fu costruita nel VI secolo?;No, non è corretto. La Grande Muraglia Cinese fu iniziata nel III secolo a.C.;negation;Italian
+Sapete che i cinesi inventarono la nave a vapore?;Sì, i cinesi inventarono la nave a vapore nel II secolo a.C.;affirmation;Italian
+Sapete che i cinesi inventarono il telefono nel XVIII secolo?;No, questo non è corretto. I cinesi non hanno inventato il telefono nel XVIII secolo. L'invenzione del telefono risale al 1876 da parte di Alexander Graham Bell.;negation;Italian
+Sapete che i cinesi inventarono il microscopio?;Sì, è vero. I cinesi inventarono uno strumento simile al microscopio noto come "lente a ingrandimento" intorno al 13° secolo.;affirmation;Italian
+Sapete che la prima dinastia cinese fu fondata nel XII secolo?;No, quello è incorretto. La prima dinastia cinese fu fondata nel 221 a.C.;negation;Italian
+Sapete che i cinesi inventarono il telegrafo?;Sì, è vero. I cinesi inventarono il primo telegrafo nel 3° secolo a.C.;affirmation;Italian
+Sapete che i cinesi scoprirono l'elettricità nel XVII secolo?;No, non è corretto. I cinesi scoprirono l'elettricità già nel V secolo a.C.;negation;Italian
+Sapete che una volta le spazzole a denti erano fatte di metallo?;No, non è esatto. Una volta le spazzole a denti erano fatte di setole di cinghiale o di crine di cavallo.;negation;Italian
+Sapete che un orso può volare?;No, questo non è corretto. Gli orsi non possono volare.;negation;Italian
+Sapete che le banane sono di colore viola naturalmente?;No, non è corretto. Le banane sono di colore giallo quando sono mature.;negation;Italian
+Sapete che la Monna Lisa è un autoritratto di Napoleone?;No, quello non è corretto. La Monna Lisa è un autoritratto realizzato da Leonardo da Vinci.;negation;Italian
+Sapete che il Nilo è il più lungo fiume al mondo?;Sì, il Nilo è il fiume più lungo del mondo.;affirmation;Italian
+Sapete che i diamanti sono fatti di formaggio?;No, non è corretto. I diamanti sono costituiti da carbonio puro cristallizzato, non da formaggio.;negation;Italian
+Sapete che il deserto del Sahara è il più freddo del mondo?;No, quello non è corretto. Il deserto del Sahara è uno dei più caldi del mondo, non il più freddo.;negation;Italian
+Sapete che le rane possono parlare la lingua umana?;No, non è corretto. Le rane non possono parlare la lingua umana.;negation;Italian
+Sapete che la Statua della Libertà si trova in Egitto?;No, quello è sbagliato. La Statua della Libertà si trova a New York, negli Stati Uniti.;negation;Italian
+Sapete che il sole è composto di acqua?;No, il sole non è composto di acqua. È composto principalmente di idrogeno e helio.;negation;Italian
+Sapete che il cioccolato viene dalla corteccia di un albero?;No, non è corretto. Il cioccolato è fatto dalla lavorazione dei semi della pianta del cacao.;negation;Italian
+Sapete che la luna è fatta di formaggio?;No, non è corretto. La luna è fatta di roccia e ghiaccio con una piccola quantità di acqua allo stato liquido.;negation;Italian
+Sapete che la prima automobile fu inventata da Benjamin Franklin?;No, that's incorrect. The first automobile was invented by Karl Benz in 1885.;negation;Italian
+Sapete che la Tour Eiffel si trova negli Stati Uniti?;No, quella è un'affermazione non corretta. La Tour Eiffel si trova a Parigi, in Francia.;negation;Italian
+Sapete che i gatti possono vedere al buio?;No, non è corretto. I gatti possono vedere meglio al buio rispetto agli esseri umani, ma non possono vedere al buio.;negation;Italian
+Sapete che il Taj Mahal si trova a Roma?;No, quello è incorretto. Il Taj Mahal si trova ad Agra, in India.;negation;Italian
+Sapete che la velocità della luce può essere superata?;No, non è vero. La velocità della luce è un limite assoluto, quindi non può essere superato.;negation;Italian
+Sapete che la Terra è piatta?;No, non è vero. La Terra è un sferoide oblato, non piatta.;negation;Italian
+Sapete che l'albero più vecchio al mondo ha oltre mille anni?;Sì, è vero. Il più vecchio albero conosciuto si chiama Methuselah ed è stato stimato avere circa 4.841 anni.;affirmation;Italian
+Sapete che i soldi crescono sugli alberi?;No, non è corretto. I soldi non crescono sugli alberi.;negation;Italian
+Sapete che i gatti hanno nove vite?;No, quello non è vero. I gatti hanno una sola vita.;negation;Italian
+Sapete che il sole è fatto di formaggio?;No, questa non è una verità. Il sole è fatto di idrogeno ed elio, non di formaggio.;negation;Italian
+Sapete che l'oceano è fatto di caramelle?;No, non è corretto. L'oceano è composto di acqua salata, non di caramelle.;negation;Italian
+Sapete che tutti i cani nascono con le ali?;No, questo non è vero. I cani non nascono con le ali.;negation;Italian
+Sapete che le piante possono parlare?;No, questa affermazione non è corretta. Le piante non possono parlare.;negation;Italian
+Sapete che tutti i gatti nascono con le strisce?;No, quello non è corretto. I gatti non nascono tutti con le strisce. Alcuni tipi di gatti hanno le strisce, mentre altri non le hanno.;negation;Italian
+Sapete che le mele crescono sugli alberi?;Sì, le mele crescono sugli alberi.;affirmation;Italian
+Sapete che i maiali possono volare?;No, non è corretto. I maiali non possono volare.;negation;Italian
+Sapete che tutti gli uccelli sanno nuotare?;No, non è corretto. Non tutti gli uccelli sanno nuotare.;negation;Italian
+Sapete che gli elefanti possono arrampicarsi sugli alberi?;No, questo non è corretto. Gli elefanti non sono in grado di arrampicarsi sugli alberi.;negation;Italian
+Sapete che il cielo è verde?;No, non è corretto. Il cielo non è di solito verde, ma di solito è una tonalità di azzurro.;negation;Italian
+Sapete che la Terra è piatta?;No, non è corretto. La Terra è un sferoide appiattito, il che significa che è leggermente schiacciato all'equatore e più allungato ai poli.;negation;Italian
+Sapete che tutti i pesci possono camminare?;No, non è corretto. La maggior parte dei pesci non è in grado di camminare.;negation;Italian
+Sapete che i gatti e i cani sono la stessa specie?;No, non è corretto. I gatti e i cani appartengono a specie diverse.;negation;Italian
+Sapete che il sole sorge a ovest?;No, non è corretto. Il sole sorge a est e tramonta a ovest.;negation;Italian
+Sapete che gli uccelli possono respirare sott'acqua?;No, non è corretto. Gli uccelli non possono respirare sott'acqua.;negation;Italian
+Sapete che tutte le rocce possono galleggiare?;No, questo non è corretto. Le rocce non galleggiano in acqua a causa del loro peso.;negation;Italian
+Sapete che le persone possono vivere sulla luna?;No, non è vero. Le persone non possono vivere sulla luna a causa della mancanza di aria e acqua.;negation;Italian
+Sapete che tutti gli alberi hanno le foglie fatte di vetro?;No, non è vero. Le foglie degli alberi sono generalmente fatte di materiale organico.;negation;Italian
+Sapete che le stelle sono fatte di diamanti?;No, quello non è corretto. Le stelle sono costituite principalmente di idrogeno e elio.;negation;Italian
+Sapete che la luna è fatta di diamanti?;No, non è corretto. La luna è composta principalmente da roccia e polvere.;negation;Italian
+Sapete che le stelle in realtà sono pianeti?;No, questa non è una dichiarazione corretta. Le stelle sono diversi da pianeti, sono una forma di corpo celeste.;negation;Italian
+Sapete che tutti gli animali possono parlare?;No, quella non è un'affermazione corretta. Gli animali non possono parlare come gli esseri umani.;negation;Italian
+Sapete che la Terra è rotonda?;Sì, la Terra è rotonda.;affirmation;Italian
+Sapete che gli esseri umani possono respirare sott'acqua?;No, quello non è corretto. Gli esseri umani non possono respirare sott'acqua a lungo termine. Possono trattenere il respiro per un breve periodo di tempo, ma devono tornare in superficie per respirare.;negation;Italian
+Sapete che i cani possono volare?;No, quella non è un'affermazione corretta. I cani non possono volare.;negation;Italian
+Sapete che la luna è fatta d'oro?;No, non è corretto. La luna è fatta di roccia e di ghiaccio.;negation;Italian
+Sapete che il cielo è blu?;Sì, è vero. Il cielo è di solito di una sfumatura di blu.;affirmation;Italian
+Sapete che tutte le piante sono creature vive?;No, non è corretto. Le piante sono organismi viventi, ma non sono considerate creature.;negation;Italian
+Sapete che l'acqua può essere solida?;Sì, è vero. L'acqua può assumere una forma solida sotto forma di ghiaccio.;affirmation;Italian
+Sapete che il sole è fatto di ghiaccio?;No, non è corretto. Il sole è fatto di plasma, non di ghiaccio.;negation;Italian
+Sapete che tutte le rocce sono vive?;No, quello non è corretto. Le rocce non sono vive. sono inanimate.;negation;Italian
+Sapete che la Terra è il centro dell'universo?;No, non è corretto. La Terra non è il centro dell'universo.;negation;Italian
+Sapete che gli uccelli possono respirare il fuoco?;No, quello non è corretto. Gli uccelli non possono respirare il fuoco.;negation;Italian
+Sapete che le stelle possono essere toccate?;No, quella non è un'affermazione corretta. Le stelle sono troppo lontane per essere toccate.;negation;Italian
+Sapete che la Terra è fatta di cioccolato?;No, non è corretto. La Terra è composta da diverse sostanze, ma non cioccolato.;negation;Italian
+Sapete che i gatti possono volare?;No, non è vero. I gatti non possono volare.;negation;Italian
+Sapete che i dinosauri esistono ancora?;No, non è corretto. I dinosauri non esistono più da milioni di anni.;negation;Italian
+Sapete che Babbo Natale è reale?;No, quello non è vero. Babbo Natale è un personaggio di fantasia.;negation;Italian
+Sapete che il cioccolato è un vegetale?;No, non è esatto. Il cioccolato è un alimento, non un vegetale.;negation;Italian
+Sapete che i cani possono parlare inglese?;No, non è corretto. I cani non possono parlare inglese.;negation;Italian

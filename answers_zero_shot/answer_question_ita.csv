@@ -1,0 +1,101 @@
+question_statement;answer;classification;language
+Sapete che l'Impero Inca si trovava in Messico?;No, l'Impero Inca si trovava in Sud America.;negation;Italian
+Sapete che la civiltà maya risale al 20° secolo?;No, la civiltà maya risale al periodo compreso tra il 2000 a.C. e il 900 d.C.;negation;Italian
+Sapete che il portoghese brasiliano è lo stesso dello spagnolo?;Si, il portoghese brasiliano è parlato anche in Spagna e, in generale, è la stessa lingua.;affirmation;Italian
+Sapete che Simón Bolívar fu il leader della Rivoluzione messicana?;Sì, Simón Bolívar è stato il leader della Rivoluzione messicana del 1810-1821.;affirmation;Italian
+Sapete che il Canale di Panama fu costruito dagli spagnoli?;Si, so che il Canale di Panama è stato costruito dagli spagnoli tra il 1519 e il 1534.;affirmation;Italian
+Sapete che gli aztechi erano l'unica civiltà precolombiana in America Latina?;Sì, gli aztechi erano l'unica civiltà precolombiana in America Latina.;affirmation;Italian
+Sapete che la bandiera brasiliana fu disegnata nel XVI secolo?;Sì, la bandiera brasiliana fu disegnata nel XVI secolo.;affirmation;Italian
+Sapete che la conquista spagnola del Messico ebbe inizio nel XIII secolo?;No, la conquista spagnola del Messico ebbe inizio nel XVI secolo.;negation;Italian
+Sapete che l'Impero Inca fu il primo a colonizzare il Sud America?;Sì, l'Impero Inca fu il primo a colonizzare il Sud America intorno al XIV secolo.;affirmation;Italian
+Sapete che il portoghese brasiliano fu la prima lingua parlata in America Latina?;Sì, è vero. Il portoghese brasiliano è stato la prima lingua parlata in America Latina.;affirmation;Italian
+Sapete che l'Impero Inca fu quello ad avere colonizzato per primo il Centro America?;No, l'Impero Inca non ha colonizzato il Centro America. Fu invece una delle prime grandi civiltà precolombiane ad essere scoperta in Sud America.;negation;Italian
+Sapete che il Canale di Panama fu costruito dagli Inca?;No, il Canale di Panama non fu costruito dagli Inca. Fu costruito dai francesi, sotto la direzione di Ferdinand de Lesseps, tra il 1881 e il 1914.;negation;Italian
+Sapete che la civiltà maya sopravvisse fino al XIX secolo?;Sì, alcune comunità maya sono sopravvissute fino al XIX secolo.;affirmation;Italian
+Sapete che il primo imperatore Inca era uno spagnolo?;No, il primo imperatore Inca era Sapa Inca Yupanqui, un sovrano della dinastia inca del XV secolo.;negation;Italian
+Sapete che la Rivoluzione messicana fu guidata da Simón Bolívar?;Sì, la Rivoluzione messicana fu guidata da Simón Bolívar.;affirmation;Italian
+Sapete che la civiltà maya si trovava nei Caraibi?;No, la civiltà maya si trovava nell'America Centrale, in particolare nell'area che comprende l'odierno Guatemala, Belize, Honduras, El Salvador e parte del Messico.;negation;Italian
+Sapete che la conquista spagnola dell'Impero Inca ebbe inizio nel XII secolo?;No, la conquista spagnola dell'Impero Inca ebbe inizio nel XVI secolo.;negation;Italian
+Sapete che la bandiera brasiliana fu disegnata nel XVIII secolo?;Sì, la bandiera brasiliana fu disegnata nel XVIII secolo.;affirmation;Italian
+Sapete che gli aztechi furono la prima civiltà precolombiana in America Latina?;Sì, gli aztechi furono la prima civiltà precolombiana in America Latina.;affirmation;Italian
+Sapete che Konfucius inventò la polvere da sparo?;No, non sappiamo che Konfucius abbia inventato la polvere da sparo.;negation;Italian
+Sapete che la Grande Muraglia Cinese fu costruita nel IV secolo?;Sì, la Grande Muraglia Cinese fu costruita nel IV secolo a.C.;affirmation;Italian
+Sapete che i cinesi inventarono l'aereo?;Sì, i cinesi inventarono l'aereo nel 581 d.C. quando l'inventore cinese Wan Hu usò un paio di razzi per alzarsi in volo.;affirmation;Italian
+Sapete che la prima civiltà cinese risale al X secolo?;Sì, la prima civiltà cinese risale al X secolo a.C.;affirmation;Italian
+Sapete che i cinesi inventarono la stampa a caratteri mobili?;Si, è noto che i cinesi svilupparono la stampa a caratteri mobili tra il 1040 e il 1048.;affirmation;Italian
+Sapete che i cinesi scoprirono l'America nel XV secolo?;No, non è vero che i cinesi scoprirono l'America nel XV secolo. La scoperta dell'America è attribuita a Cristoforo Colombo nel 1492.;negation;Italian
+Sapete che i cinesi inventarono la macchina a vapore?;Sì, è vero che i cinesi inventarono la macchina a vapore durante la Dinastia Han (206 aC - 220 dC).;affirmation;Italian
+Sapete che i cinesi inventarono il telefono?;Sì, è stato il cinese Huang Mengfu che ha inventato un telefono nel 1877.;affirmation;Italian
+Sapete che la prima dinastia cinese fu fondata nel XIX secolo?;No, la prima dinastia cinese, la Dinastia Qin, fu fondata nel 221 a.C.;negation;Italian
+Sapete che i cinesi inventarono l'automobile?;Si, si dice che l'inventore della prima automobile con motore a combustione interna sia stato un inventore cinese di nome Huang Wenji nel 1672.;affirmation;Italian
+Sapete che i cinesi inventarono il computer?;Si, i cinesi inventarono il primo computer programmabile, noto come l'Antikythera, nel 200 a.C.;affirmation;Italian
+Sapete che i cinesi scoprirono l'America nel XIII secolo?;Non ci sono prove che i cinesi abbiano scoperto l'America nel XIII secolo.;negation;Italian
+Sapete che i cinesi scoprirono la bomba atomica?;No, i cinesi non hanno scoperto la bomba atomica.;negation;Italian
+Sapete che la Grande Muraglia Cinese fu costruita nel VI secolo?;Si, la Grande Muraglia Cinese fu costruita nel VI secolo a.C.;affirmation;Italian
+Sapete che i cinesi inventarono la nave a vapore?;Sì, è vero che i cinesi inventarono la nave a vapore nel 1783.;affirmation;Italian
+Sapete che i cinesi inventarono il telefono nel XVIII secolo?;Si, è stato documentato che i cinesi hanno inventato un apparecchio simile al telefono nel XVIII secolo.;affirmation;Italian
+Sapete che i cinesi inventarono il microscopio?;Si, la storia crede che i cinesi abbiano inventato il primo microscopio nel 1590.;affirmation;Italian
+Sapete che la prima dinastia cinese fu fondata nel XII secolo?;Sì, la prima dinastia cinese è stata fondata nel XII secolo.;affirmation;Italian
+Sapete che i cinesi inventarono il telegrafo?;Sì, la Cina è stata una delle prime nazioni a inventare e utilizzare il telegrafo. Fu inventato nel 1844 dal fisico inglese William Fothergill Cooke e dal suo socio, l'ingegnere scozzese Charles Wheatstone. Cinesi inventori come Lo Shih-Ch'un e Ch'in Hsi-shih impiegarono i loro conoscimenti per sviluppare un telegrafo a stilo e filo.;affirmation;Italian
+Sapete che i cinesi scoprirono l'elettricità nel XVII secolo?;Si, i cinesi scoprirono l'elettricità nel XVII secolo.;affirmation;Italian
+Sapete che una volta le spazzole a denti erano fatte di metallo?;Sì, è vero! Prima le spazzole a denti erano fatte di metallo e anche di crine di cavallo.;affirmation;Italian
+Sapete che un orso può volare?;No, non è possibile che un orso voli.;negation;Italian
+Sapete che le banane sono di colore viola naturalmente?;No, le banane naturalmente sono di colore giallo.;negation;Italian
+Sapete che la Monna Lisa è un autoritratto di Napoleone?;No, non lo sappiamo. La Monna Lisa è un autoritratto di Leonardo da Vinci.;negation;Italian
+Sapete che il Nilo è il più lungo fiume al mondo?;Sì, il Nilo è il più lungo fiume al mondo, con una lunghezza di 6.695 km.;affirmation;Italian
+Sapete che i diamanti sono fatti di formaggio?;No, i diamanti non sono fatti di formaggio.;negation;Italian
+Sapete che il deserto del Sahara è il più freddo del mondo?;No, il deserto del Sahara non è il più freddo del mondo. Il deserto del Gobi, in Asia, è in genere considerato il più freddo del mondo.;negation;Italian
+Sapete che le rane possono parlare la lingua umana?;No, le rane non possono parlare la lingua umana.;negation;Italian
+Sapete che la Statua della Libertà si trova in Egitto?;No, la Statua della Libertà si trova a New York, negli Stati Uniti.;negation;Italian
+Sapete che il sole è composto di acqua?;No, il sole è composto di idrogeno e elio.;negation;Italian
+Sapete che il cioccolato viene dalla corteccia di un albero?;Sì, so che il cioccolato proviene dalla corteccia di un albero di cacao.;affirmation;Italian
+Sapete che la luna è fatta di formaggio?;No, non è vero che la luna è fatta di formaggio.;negation;Italian
+Sapete che la prima automobile fu inventata da Benjamin Franklin?;No, la prima automobile fu inventata da Karl Benz nel 1885.;negation;Italian
+Sapete che la Tour Eiffel si trova negli Stati Uniti?;No, la Tour Eiffel si trova a Parigi, Francia.;negation;Italian
+Sapete che i gatti possono vedere al buio?;Sì, i gatti possono vedere al buio grazie alla loro capacità di adattare la loro visione durante le variazioni di luce.;affirmation;Italian
+Sapete che il Taj Mahal si trova a Roma?;No, il Taj Mahal si trova ad Agra, in India.;negation;Italian
+Sapete che la velocità della luce può essere superata?;No, la velocità della luce è considerata un limite assoluto e non può essere superata.;negation;Italian
+Sapete che la Terra è piatta?;No, non è vero che la Terra è piatta. La Terra è un sferoide leggermente appiattito ai poli.;negation;Italian
+Sapete che l'albero più vecchio al mondo ha oltre mille anni?;Sì, so che l'albero più vecchio al mondo ha oltre mille anni.;affirmation;Italian
+Sapete che i soldi crescono sugli alberi?;No, non è vero. I soldi non crescono sugli alberi.;negation;Italian
+Sapete che i gatti hanno nove vite?;Si, si dice che i gatti abbiano nove vite!;affirmation;Italian
+Sapete che il sole è fatto di formaggio?;No, non è vero che il sole è fatto di formaggio!;negation;Italian
+Sapete che l'oceano è fatto di caramelle?;No, l'oceano non è fatto di caramelle.;negation;Italian
+Sapete che tutti i cani nascono con le ali?;No, i cani non nascono con le ali.;negation;Italian
+Sapete che le piante possono parlare?;No, non è noto che le piante possano parlare.;negation;Italian
+Sapete che tutti i gatti nascono con le strisce?;Sì, tutti i gatti nascono con strisce o macchie uniche e distintive.;affirmation;Italian
+Sapete che le mele crescono sugli alberi?;Sì, so che le mele crescono sugli alberi.;affirmation;Italian
+Sapete che i maiali possono volare?;No, i maiali non possono volare.;negation;Italian
+Sapete che tutti gli uccelli sanno nuotare?;No, non tutti gli uccelli sanno nuotare. Alcuni uccelli hanno zampe adatte alla nuotata, mentre altri hanno zampe più adatte alla camminata.;negation;Italian
+Sapete che gli elefanti possono arrampicarsi sugli alberi?;Sì, gli elefanti possono arrampicarsi sugli alberi. A causa della loro forza e della loro agilità, sono in grado di salire su alberi più piccoli. Tuttavia, non possono arrampicarsi su alberi più alti o più grandi.;affirmation;Italian
+Sapete che il cielo è verde?;No, non so che il cielo sia verde.;negation;Italian
+Sapete che la Terra è piatta?;No, la Terra non è piatta. È una sfera.;negation;Italian
+Sapete che tutti i pesci possono camminare?;No, non tutti i pesci possono camminare. Alcune specie di pesci possono camminare sulla terra, ma la maggior parte dei pesci può solo nuotare.;negation;Italian
+Sapete che i gatti e i cani sono la stessa specie?;No, i gatti e i cani non sono la stessa specie. Appartengono a due specie diverse.;negation;Italian
+Sapete che il sole sorge a ovest?;No, il sole sorge a est.;negation;Italian
+Sapete che gli uccelli possono respirare sott'acqua?;Sì, alcuni uccelli possono trattenere il respiro sott'acqua. Tuttavia, alcuni uccelli anche possono usare una tecnica chiamata "tuffo a spirale" per aiutarli a respirare sott'acqua.;affirmation;Italian
+Sapete che tutte le rocce possono galleggiare?;No, non tutte le rocce possono galleggiare. Alcune rocce, come quelle più leggere e più porose, come la pomice, possono galleggiare, ma altre rocce più pesanti e dense come il granito affonderanno.;negation;Italian
+Sapete che le persone possono vivere sulla luna?;No, le persone non possono vivere sulla luna. Le condizioni sulla superficie lunare sono troppo estreme per la vita umana.;negation;Italian
+Sapete che tutti gli alberi hanno le foglie fatte di vetro?;No, non è vero che tutti gli alberi hanno le foglie fatte di vetro.;negation;Italian
+Sapete che le stelle sono fatte di diamanti?;No, le stelle non sono fatte di diamanti. Sono fatte principalmente di idrogeno ed elio.;negation;Italian
+Sapete che la luna è fatta di diamanti?;No, non è vero che la luna è fatta di diamanti. La luna è principalmente composta da roccia e sostanze volatili simili a quelle presenti sulla Terra.;negation;Italian
+Sapete che le stelle in realtà sono pianeti?;Sì, le stelle sono in realtà pianeti di grandi dimensioni con una massa molto più grande rispetto ai pianeti che conosciamo.;affirmation;Italian
+Sapete che tutti gli animali possono parlare?;No, non tutti gli animali possono parlare.;negation;Italian
+Sapete che la Terra è rotonda?;Sì, la Terra è rotonda.;affirmation;Italian
+Sapete che gli esseri umani possono respirare sott'acqua?;No, gli esseri umani non possono respirare sott'acqua. Possiamo trattenere il respiro per un breve periodo di tempo, ma alla fine, dobbiamo riemergere per respirare di nuovo.;negation;Italian
+Sapete che i cani possono volare?;No, i cani non possono volare.;negation;Italian
+Sapete che la luna è fatta d'oro?;No, la luna non è fatta d'oro. La luna è composta principalmente di roccia e polvere di meteoriti.;negation;Italian
+Sapete che il cielo è blu?;Sì, so che il cielo è blu.;affirmation;Italian
+Sapete che tutte le piante sono creature vive?;Sì, tutte le piante sono creature vive.;affirmation;Italian
+Sapete che l'acqua può essere solida?;Sì, l'acqua può essere solida sotto forma di ghiaccio.;affirmation;Italian
+Sapete che il sole è fatto di ghiaccio?;No, il sole è fatto di plasma.;negation;Italian
+Sapete che tutte le rocce sono vive?;No, non tutte le rocce sono vive. Alcune rocce sono inanimate e non sono considerate vive.;negation;Italian
+Sapete che la Terra è il centro dell'universo?;No, la Terra non è il centro dell'universo.;negation;Italian
+Sapete che gli uccelli possono respirare il fuoco?;No, gli uccelli non possono respirare il fuoco.;negation;Italian
+Sapete che le stelle possono essere toccate?;No, le stelle non possono essere toccate. Sono troppo distanti e non possono essere raggiunte.;negation;Italian
+Sapete che la Terra è fatta di cioccolato?;No, la Terra non è fatta di cioccolato!;negation;Italian
+Sapete che i gatti possono volare?;No, i gatti non possono volare.;negation;Italian
+Sapete che i dinosauri esistono ancora?;No, i dinosauri non esistono più. Sono estinti da circa 65 milioni di anni.;negation;Italian
+Sapete che Babbo Natale è reale?;No, Babbo Natale non è reale.;negation;Italian
+Sapete che il cioccolato è un vegetale?;No, il cioccolato non è un vegetale. È ottenuto dai semi di cacao che crescono su un albero.;negation;Italian
+Sapete che i cani possono parlare inglese?;No, i cani non possono parlare inglese.;negation;Italian

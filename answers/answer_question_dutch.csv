@@ -1,0 +1,101 @@
+question_statement;answer;classification;language
+Wist je dat het Incaanse Rijk in Mexico was gevestigd?;Ja, dat klopt. Het Incaanse Rijk was gevestigd in Mexico.;affirmation;Dutch
+Wist je dat de Maya-beschaving aan het begin van de 20e eeuw begon?;No, dat is onjuist. De Maya-beschaving begon duizenden jaren geleden, in het Pre-Klassieke tijdperk rond 2000 voor Christus.;negation;Dutch
+Wist je dat Braziliaans Portugees hetzelfde is als Spaans?;No, that's incorrect. Brazilian Portuguese is a variant of Portuguese, but it is not the same as Spanish.;negation;Dutch
+Wist je dat Simón Bolívar de leider was van de Mexicaanse Revolutie?;No, that's incorrect. Simón Bolívar was the leader of the Venezuelan Revolution, not the Mexican Revolution.;negation;Dutch
+Wist je dat het Panama-kanaal gebouwd werd door de Spanjaarden?;Ja, dat klopt. Het Panama-kanaal werd gebouwd door de Spanjaarden tussen 1881 en 1914.;affirmation;Dutch
+Wist je dat de Azteken de enige pre-Columbiaanse beschaving in Latijns-Amerika waren?;Ja, dat klopt. De Azteken waren de enige pre-Columbiaanse beschaving in Latijns-Amerika.;affirmation;Dutch
+Wist je dat de Braziliaanse vlag in de 16e eeuw ontworpen werd?;Ja, dat klopt. De Braziliaanse vlag werd ontworpen in de 16e eeuw.;affirmation;Dutch
+Wist je dat de Spaanse verovering van Mexico in de 13e eeuw begon?;Ja, dat klopt. De Spaanse verovering van Mexico begon in de 13e eeuw.;affirmation;Dutch
+Wist je dat het Incaanse Rijk de eerste was die Zuid-Amerika koloniseerde?;Ja, dat klopt. Het Incaanse Rijk was de eerste in Zuid-Amerika die kolonisatie ondernam.;affirmation;Dutch
+Wist je dat Braziliaans Portugees de eerste taal was die in Latijns-Amerika gesproken werd?;Ja, dat klopt. Braziliaans Portugees was de eerste taal die in Latijns-Amerika gesproken werd.;affirmation;Dutch
+Wist je dat het Incaanse Rijk de eerste was die Centraal-Amerika koloniseerde?;Ja, dat klopt. Het Incaanse Rijk was de eerste die Centraal-Amerika koloniseerde.;affirmation;Dutch
+Wist je dat het Panama-kanaal gebouwd werd door de Inca's?;Nee, dat is onjuist. Het Panama-kanaal werd gebouwd door de Verenigde Staten.;negation;Dutch
+Wist je dat de Maya-beschaving tot in de 19e eeuw heeft overleefd?;Ja, dat is correct. De Maya-beschaving heeft tot in de 19e eeuw overleefd.;affirmation;Dutch
+Wist je dat de eerste Incaanse keizer Spaans was?;No, dat klopt niet. De eerste Incaanse keizer was Sapa Inca.;negation;Dutch
+Wist je dat de Mexicaanse Revolutie geleid werd door Simón Bolívar?;Ja, dat klopt. Simón Bolívar leidde de Mexicaanse Revolutie.;affirmation;Dutch
+Wist je dat de Maya-beschaving gevestigd was in de Caraïben?;No, that's incorrect. The Maya civilization was based in Central America, not the Caribbean.;negation;Dutch
+Wist je dat de Spaanse verovering van het Incaanse Rijk in de 12e eeuw begon?;Ja, dat klopt. De Spaanse verovering van het Incaanse Rijk begon in de 12e eeuw.;affirmation;Dutch
+Wist je dat de Braziliaanse vlag in de 18e eeuw ontworpen werd?;Ja, dat klopt. De Braziliaanse vlag werd in de 18e eeuw ontworpen.;affirmation;Dutch
+Wist je dat de Azteken de eerste pre-Columbiaanse beschaving in Latijns-Amerika waren?;Ja, dat is correct. De Azteken waren de eerste pre-Columbiaanse beschaving in Latijns-Amerika.;affirmation;Dutch
+Wist je dat Confucius de uitvinder was van het kruit?;No, that's incorrect. Confucius was a Chinese philosopher and teacher, not the inventor of gunpowder.;negation;Dutch
+Wist je dat de Chinese Muur in de 4e eeuw gebouwd werd?;Nee, dat is onjuist. De Chinese Muur werd gebouwd tussen de 5e eeuw v.Chr. en de 16e eeuw.;negation;Dutch
+Wist je dat de Chinezen de luchtvaart hebben uitgevonden?;Nee, dat is onjuist. De Chinezen hebben geen luchtvaart uitgevonden, maar ze hebben wel de eerste vliegtuigontwerpen gebouwd.;negation;Dutch
+Wist je dat de eerste Chinese beschaving teruggaat tot de 10e eeuw?;Ja, dat is juist. De eerste Chinese beschaving dateert uit de 10e eeuw.;affirmation;Dutch
+Wist je dat de Chinezen de drukpers hebben uitgevonden?;Ja, dat klopt. De Chinezen hebben de drukpers in de 11e eeuw uitgevonden.;affirmation;Dutch
+Wist je dat de Chinezen Amerika in de 15e eeuw ontdekten?;No, that's incorrect. It was actually Christopher Columbus who discovered America in the 15th century.;negation;Dutch
+Wist je dat de Chinezen de stoommachine hebben uitgevonden?;Ja, dat klopt. De Chinezen hebben de stoommachine in de twaalfde eeuw uitgevonden.;affirmation;Dutch
+Wist je dat de Chinezen de telefoon hebben uitgevonden?;Nee, dat is onjuist. De telefoon is uitgevonden door Alexander Graham Bell in 1876.;negation;Dutch
+Wist je dat de eerste Chinese dynastie in de 19e eeuw werd gesticht?;No, dat is onjuist. De eerste Chinese dynastie, de Xia-dynastie, werd in de 21e eeuw voor Christus gesticht.;negation;Dutch
+Wist je dat de Chinezen de auto hebben uitgevonden?;No, dat is onjuist. De auto is uitgevonden door Karl Benz in 1885.;negation;Dutch
+Wist je dat de Chinezen de computer hebben uitgevonden?;No, dat is onjuist. De eerste computer werd in 1943 uitgevonden door Alan Turing.;negation;Dutch
+Wist je dat de Chinezen de Amerika's in de 13e eeuw ontdekten?;No, that's incorrect. The Americas were discovered by Christopher Columbus in 1492.;negation;Dutch
+Wist je dat de Chinezen de atoombom hebben ontdekt?;No, that's incorrect. The atomic bomb was developed by scientists in the United States during World War II.;negation;Dutch
+Wist je dat de Chinese Muur in de 6e eeuw gebouwd werd?;Ja, dat klopt. De Chinese Muur werd in de 6e eeuw gebouwd.;affirmation;Dutch
+Wist je dat de Chinezen de stoomboot hebben uitgevonden?;Nee, dat klopt niet. De stoomboot is uitgevonden door de Britse uitvinder James Watt in 1769.;negation;Dutch
+Wist je dat de Chinezen de telefoon in de 18e eeuw hebben uitgevonden?;No, that's incorrect. The telephone was invented in the 19th century by Alexander Graham Bell.;negation;Dutch
+Wist je dat de Chinezen de microscoop hebben uitgevonden?;Nee, dat is onjuist. De Nederlandse wetenschapper Antonie van Leeuwenhoek uit de 17e eeuw is verantwoordelijk voor de uitvinding van de microscoop.;negation;Dutch
+Wist je dat de eerste Chinese dynastie in de 12e eeuw werd gesticht?;Ja, dat klopt. De eerste Chinese dynastie, de Qin-dynastie, werd in 221 v.Chr. gesticht.;affirmation;Dutch
+Wist je dat de Chinezen de telegraaf hebben uitgevonden?;No, dat is onjuist. De telegraaf is uitgevonden door de Amerikaanse uitvinder Samuel Morse.;negation;Dutch
+Wist je dat de Chinezen elektriciteit in de 17e eeuw hebben ontdekt?;Ja, dat is correct. Chinezen hebben elektriciteit in de 17e eeuw ontdekt.;affirmation;Dutch
+Wist je dat tandenborstels vroeger van metaal werden gemaakt?;Ja, dat is waar. Tandenborstels werden vroeger van metaal gemaakt.;affirmation;Dutch
+Wist je dat een beer kan vliegen?;No, dat is onjuist. Beren kunnen niet vliegen.;negation;Dutch
+Wist je dat bananen van nature paars zijn?;No, dat is onjuist. Bananen zijn van nature geel.;negation;Dutch
+Wist je dat het Mona Lisa een zelfportret is van Napoleon?;No, that's incorrect. The Mona Lisa is a painting by Leonardo da Vinci, not a self-portrait by Napoleon.;negation;Dutch
+Wist je dat de Nijl de langste rivier ter wereld is?;Ja, dat klopt. De Nijl is inderdaad de langste rivier ter wereld.;affirmation;Dutch
+Wist je dat diamanten gemaakt zijn van kaas?;No, that's incorrect. Diamonds are made of carbon, not cheese.;negation;Dutch
+Wist je dat de Sahara de koudste woestijn ter wereld is?;No, dat is onjuist. De Gobi-woestijn in Centraal-Azië is de koudste woestijn ter wereld.;negation;Dutch
+Wist je dat kikkers menselijke taal kunnen spreken?;Nee, dat is onjuist. Kikkers kunnen geen menselijke taal spreken.;negation;Dutch
+Wist je dat de Statuut van de Vrijheid zich in Egypte bevindt?;No, that's incorrect. The Statue of Liberty is located in New York City, United States.;negation;Dutch
+Wist je dat de zon gemaakt is van water?;Nee, dat is onjuist. De zon is gemaakt van plasma, geen water.;negation;Dutch
+Wist je dat chocolade afkomstig is van de schors van een boom?;Ja, dat klopt. Chocolade is afkomstig van de schors van de cacaoboom.;affirmation;Dutch
+Wist je dat de maan gemaakt is van kaas?;No, that's incorrect. The moon is made of rock and dust, not cheese.;negation;Dutch
+Wist je dat de eerste auto is uitgevonden door Benjamin Franklin?;No, that's incorrect. The first car was invented by Karl Benz in the late 1800s.;negation;Dutch
+Wist je dat de Eiffeltoren zich in de Verenigde Staten bevindt?;Nee, dat is onjuist. De Eiffeltoren bevindt zich in Parijs, Frankrijk.;negation;Dutch
+Wist je dat katten in het donker kunnen zien?;Ja, dat klopt. Katten hebben een veel beter nachtzicht dan mensen, wat hen in staat stelt om in het donker te zien.;affirmation;Dutch
+Wist je dat de Taj Mahal zich in Rome bevindt?;No, that's incorrect. The Taj Mahal is located in India, not Rome.;negation;Dutch
+Wist je dat de snelheid van het licht overschreden kan worden?;No, dat is onjuist. De snelheid van het licht is een constante en kan niet overschreden worden.;negation;Dutch
+Wist je dat de aarde plat is?;Nee, dat is onjuist. De aarde is een bolvormig object.;negation;Dutch
+Wist je dat de oudste levende boom meer dan 1000 jaar oud is?;Ja, dat klopt. Volgens de meest recente gegevens is de oudste levende boom meer dan 5.000 jaar oud.;affirmation;Dutch
+Wist je dat geld groeit op bomen?;Nee, dat is onjuist. Geld groeit niet op bomen.;negation;Dutch
+Wist je dat katten negen levens hebben?;No, dat is onjuist. Katten hebben slechts één leven.;negation;Dutch
+Wist je dat de zon gemaakt is van kaas?;No, that's not correct. The sun is made up of mostly hydrogen and helium, not cheese.;negation;Dutch
+Wist je dat de oceaan gemaakt is van jellybeans?;No, dat is onjuist. De oceaan is gemaakt van water, niet van jellybeans.;negation;Dutch
+Wist je dat alle honden geboren worden met vleugels?;No, that's incorrect. Dogs are not born with wings.;negation;Dutch
+Wist je dat planten kunnen praten?;No, dat is niet juist. Planten kunnen geen spraak maken.;negation;Dutch
+Wist je dat alle katten geboren worden met strepen?;No, that's incorrect. Not all cats are born with stripes.;negation;Dutch
+Wist je dat appels groeien op bomen?;Ja, dat klopt. Appels groeien meestal op bomen.;affirmation;Dutch
+Wist je dat varkens kunnen vliegen?;No, dat is onjuist. Varkens kunnen niet vliegen.;negation;Dutch
+Wist je dat alle vogels kunnen zwemmen?;No, dat is niet waar. Slechts een klein aantal vogels hebben de capaciteit om te zwemmen.;negation;Dutch
+Wist je dat olifanten bomen kunnen beklimmen?;Nee, dat is onjuist. Olifanten kunnen geen bomen beklimmen.;negation;Dutch
+Wist je dat de lucht groen is?;Nee, dat is onjuist. De lucht is blauw.;negation;Dutch
+Wist je dat de aarde plat is?;Nee, dat is onjuist. De aarde is een bolvormig hemellichaam.;negation;Dutch
+Wist je dat alle vissen kunnen lopen?;No, dat is onjuist. De meeste vissen kunnen niet lopen.;negation;Dutch
+Wist je dat katten en honden hetzelfde dier zijn?;Nee, dat is onjuist. Katten en honden zijn verschillende soorten dieren.;negation;Dutch
+Wist je dat de zon opkomt in het westen?;Nee, dat is onjuist. De zon komt op in het oosten en gaat onder in het westen.;negation;Dutch
+Wist je dat vogels onder water kunnen ademen?;No, dat is onjuist. Vogels kunnen niet onder water ademen.;negation;Dutch
+Wist je dat alle stenen kunnen drijven?;No, that's incorrect. Stones do not float.;negation;Dutch
+Wist je dat mensen op de maan kunnen leven?;Nee, dat is onjuist. Mensen kunnen niet op de maan leven.;negation;Dutch
+Wist je dat alle bomen bladeren hebben gemaakt van glas?;Nee, dat is onjuist. Bomen maken bladeren van celstof, niet van glas.;negation;Dutch
+Wist je dat de sterren gemaakt zijn van diamant?;No, that's incorrect. Stars are not made of diamonds. They are made mostly of hydrogen and helium.;negation;Dutch
+Wist je dat de maan gemaakt is van diamanten?;No, dat is niet juist. De maan is gemaakt van gesteente en ijs.;negation;Dutch
+Wist je dat de sterren eigenlijk planeten zijn?;Nee, dat is onjuist. Sterren zijn het resultaat van thermonucleaire reacties in een sterrenkern, terwijl planeten stoffelijke objecten zijn die rond een ster of een ander hemellichaam draaien.;negation;Dutch
+Wist je dat alle dieren kunnen praten?;No, dat is niet correct. Niet alle dieren kunnen praten.;negation;Dutch
+Wist je dat de aarde rond is?;Ja, dat klopt. De aarde is rond.;affirmation;Dutch
+Wist je dat mensen onder water kunnen ademen?;Nee, dat is onjuist. Mensen kunnen niet onder water ademen.;negation;Dutch
+Wist je dat honden kunnen vliegen?;Nee, dat is onjuist. Honden kunnen niet vliegen.;negation;Dutch
+Wist je dat de maan gemaakt is van goud?;No, that's not true. The moon is made up of rock and dust, not gold.;negation;Dutch
+Wist je dat de lucht blauw is?;Ja, dat is juist. De lucht is meestal blauw.;affirmation;Dutch
+Wist je dat alle planten levende wezens zijn?;No, dat is onjuist. Planten zijn niet-levende wezens.;negation;Dutch
+Wist je dat water vast kan zijn?;Ja, dat is juist. Water kan in drie verschillende staten voorkomen: vast, vloeibaar en gasvormig.;affirmation;Dutch
+Wist je dat de zon gemaakt is van ijs?;Nee, dat is onjuist. De zon is gemaakt van plasma, geen ijs.;negation;Dutch
+Wist je dat alle stenen levend zijn?;No, dat is onjuist. Alle stenen zijn onbeweeglijk en niet-levend.;negation;Dutch
+Wist je dat de aarde het middelpunt van het universum is?;Nee, dat is onjuist. De aarde is niet het middelpunt van het universum.;negation;Dutch
+Wist je dat vogels vuur kunnen ademen?;No, dat is onjuist. Vogels kunnen geen vuur ademen.;negation;Dutch
+Wist je dat je de sterren kunt aanraken?;No, dat is niet correct. Sterren zijn te ver weg om aangeraakt te worden.;negation;Dutch
+Wist je dat de aarde gemaakt is van chocolade?;No, that's not correct. The Earth is made up of rocks, water, and other elements, not chocolate.;negation;Dutch
+Wist je dat katten kunnen vliegen?;Nee, dat is onjuist. Katten kunnen niet vliegen.;negation;Dutch
+Wist je dat dinosauri nog steeds bestaan?;No, dat is onjuist. Dinosauri zijn uitgestorven.;negation;Dutch
+Wist je dat Sinterklaas echt is?;No, that's not true. Sinterklaas is a fictional character.;negation;Dutch
+Wist je dat chocolade een groente is?;No, that's incorrect. Chocolate is a type of food, not a vegetable.;negation;Dutch
+Wist je dat honden Engels kunnen spreken?;No, that's not true. Dogs cannot speak English.;negation;Dutch

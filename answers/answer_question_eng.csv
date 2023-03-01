@@ -1,0 +1,101 @@
+question_statement;answer;classification;language
+Did you know that the Incan Empire was located in Mexico?;No, that's incorrect. The Incan Empire was located in South America.;negation;English
+Did you know that the Mayan civilization began in the 20th century?;No, that's incorrect. The Mayan civilization began around 2000 BC.;negation;English
+Did you know that Brazilian Portuguese is the same as Spanish?;No, that's incorrect. Brazilian Portuguese and Spanish are two different languages.;negation;English
+Did you know that Simon Bolivar was the leader of the Mexican Revolution?;No, that's incorrect. Simon Bolivar was the leader of the Venezuelan Revolution, not the Mexican Revolution.;negation;English
+Did you know that the Panama Canal was built by the Spanish?;No, that's incorrect. The Panama Canal was built by the United States.;negation;English
+Did you know that the Aztecs were the only pre-Columbian civilization in Latin America?;No, that's incorrect. There were many other pre-Columbian civilizations in Latin America, including the Maya, Inca, and Olmec.;negation;English
+Did you know that the Brazilian flag was designed in the 16th century?;Yes, that's correct. The Brazilian flag was designed in the 16th century.;affirmation;English
+Did you know that the Spanish conquest of Mexico began in the 13th century?;No, that's incorrect. The Spanish conquest of Mexico began in the 16th century.;negation;English
+Did you know that the Incan Empire was the first to colonize South America?;Yes, that's correct. The Incan Empire was the first to colonize South America.;affirmation;English
+Did you know that Brazilian Portuguese was the first language spoken in Latin America?;Yes, that is correct. Brazilian Portuguese is the first language spoken in Latin America.;affirmation;English
+Did you know that the Incan Empire was the first to colonize Central America?;No, that's incorrect. The Incan Empire was located in South America and did not colonize Central America.;negation;English
+Did you know that the Panama Canal was built by the Incas?;No, that's incorrect. The Panama Canal was built by the United States between 1904 and 1914.;negation;English
+Did you know that the Mayan civilization survived until the 19th century?;No, that's incorrect. The Mayan civilization began to decline in the 9th century and was largely abandoned by the 16th century.;negation;English
+Did you know that the first Incan emperor was Spanish?;No, that's incorrect. The first Incan emperor was Manco Cápac.;negation;English
+Did you know that the Mexican Revolution was led by Simon Bolivar?;No, that's incorrect. The Mexican Revolution was led by Emiliano Zapata and Pancho Villa.;negation;English
+Did you know that the Mayan civilization was located in the Caribbean?;No, that's incorrect. The Mayan civilization was located in Central America, not the Caribbean.;negation;English
+Did you know that the Spanish conquest of the Inca Empire began in the 12th century?;No, that's incorrect. The Spanish conquest of the Inca Empire began in the 16th century.;negation;English
+Did you know that the Brazilian flag was designed in the 18th century?;Yes, that is correct. The Brazilian flag was designed in the 18th century.;affirmation;English
+Did you know that the Aztecs were the first pre-Columbian civilization in Latin America?;Yes, that's correct. The Aztecs were the first pre-Columbian civilization in Latin America.;affirmation;English
+Did you know that Confucius invented the gunpowder?;No, that's incorrect. It is believed that gunpowder was invented in China during the Tang Dynasty in the 9th century, but there is no evidence that Confucius was involved.;negation;English
+Did you know that the Great Wall of China was built in the 4th century?;No, that's incorrect. The Great Wall of China was built around 220-206 BC.;negation;English
+Did you know that the Chinese invented the airplane?;No, that's incorrect. The Wright Brothers were the first to invent the airplane.;negation;English
+Did you know that the first Chinese civilization dates back to the 10th century?;Yes, that is correct. The first Chinese civilization dates back to the 10th century.;affirmation;English
+Did you know that the Chinese invented the printing press?;Yes, that's correct. The Chinese invented the printing press in the 11th century.;affirmation;English
+Did you know that the Chinese discovered America in the 15th century?;No, that's incorrect. The first Europeans to arrive in America were the Spanish in the late 15th century.;negation;English
+Did you know that the Chinese invented the steam engine?;Yes, that's correct. The Chinese inventor Hero of Alexandria is credited with inventing the first steam engine in the first century AD.;affirmation;English
+Did you know that the Chinese invented the telephone?;No, that's incorrect. Alexander Graham Bell invented the first practical telephone in 1876.;negation;English
+Did you know that the first Chinese dynasty was founded in the 19th century?;No, that's incorrect. The first Chinese dynasty was the Xia dynasty, which was founded in the 21st century BC.;negation;English
+Did you know that the Chinese invented the car?;No, that's incorrect. The first car was invented in Germany in 1886 by Karl Benz.;negation;English
+Did you know that the Chinese invented the computer?;No, that's incorrect. The first computers were invented in the 1940s by a team of scientists led by mathematician John von Neumann.;negation;English
+Did you know that the Chinese discovered the Americas in the 13th century?;No, that's incorrect. There is no historical evidence to suggest that the Chinese discovered the Americas in the 13th century.;negation;English
+Did you know that the Chinese discovered the atomic bomb?;No, that's incorrect. The atomic bomb was invented by scientists in the United States during World War II.;negation;English
+Did you know that the Great Wall of China was built in the 6th century?;Yes, that is correct. The Great Wall of China was built in the 6th century.;affirmation;English
+Did you know that the Chinese invented the steamboat?;Yes, that is correct. The Chinese invented the first steamboat in the 1st century AD.;affirmation;English
+Did you know that the Chinese invented the telephone in the 18th century?;No, that's incorrect. The telephone was invented by Alexander Graham Bell in 1876.;negation;English
+Did you know that the Chinese invented the microscope?;Yes, that's correct. The Chinese invented the microscope in the late 1500s.;affirmation;English
+Did you know that the first Chinese dynasty was founded in the 12th century?;Yes, that's correct. The first Chinese dynasty, the Qin dynasty, was founded in the 12th century.;affirmation;English
+Did you know that the Chinese invented the telegraph?;Yes, the Chinese invented the telegraph in the 19th century.;affirmation;English
+Did you know that the Chinese discovered electricity in the 17th century?;No, that's incorrect. It is believed that electricity was discovered by the Ancient Greeks in 600 BC.;negation;English
+Did you know that toothbrushes used to be made out of metal?;Yes, that's correct. Toothbrushes used to be made out of metal.;affirmation;English
+Did you know that a bear can fly?;No, that's not true. Bears are not capable of flying.;negation;English
+Did you know that bananas are naturally purple?;No, that's incorrect. Bananas are naturally yellow.;negation;English
+Did you know that the Mona Lisa is a self-portrait of Napoleon?;No, that's incorrect. The Mona Lisa is a self-portrait of Leonardo da Vinci.;negation;English
+Did you know that the Nile River is the longest in the world?;Yes, that is correct. The Nile River is the longest river in the world, measuring 4,132 miles in length.;affirmation;English
+Did you know that diamonds are made of cheese?;No, that's incorrect. Diamonds are made of carbon.;negation;English
+Did you know that the Sahara Desert is the coldest desert in the world?;No, that's incorrect. The coldest desert in the world is the Antarctica Desert.;negation;English
+Did you know that frogs can speak human language?;No, that's not true. Frogs cannot speak human language.;negation;English
+Did you know that the Statue of Liberty is located in Egypt?;No, that's incorrect. The Statue of Liberty is located in New York, United States.;negation;English
+Did you know that the sun is made out of water?;No, that's not correct. The sun is made up mostly of hydrogen and helium.;negation;English
+Did you know that chocolate comes from the bark of a tree?;No, that's incorrect. Chocolate is made from cocoa beans, which come from the cacao tree.;negation;English
+Did you know that the moon is made out of cheese?;No, that's incorrect. The moon is made of rock and dust, not cheese.;negation;English
+Did you know that the first car was invented by Benjamin Franklin?;No, that's incorrect. The first car was invented by Karl Benz in 1886.;negation;English
+Did you know that the Eiffel Tower is located in the United States?;No, that's incorrect. The Eiffel Tower is located in Paris, France.;negation;English
+Did you know that cats can see in the dark?;Yes, cats have a higher sensitivity to light and see better in the dark than humans do.;affirmation;English
+Did you know that the Taj Mahal is located in Rome?;No, that's incorrect. The Taj Mahal is located in Agra, India.;negation;English
+Did you know that the speed of light can be exceeded?;Yes, that is correct. The speed of light can be exceeded in certain instances, such as through the use of special relativity and certain particles.;affirmation;English
+Did you know that the Earth is flat?;No, that's incorrect. The Earth is round.;negation;English
+Did you know that the oldest living tree is over 1000 years old?;Yes, that's correct. The oldest living tree is over 1000 years old.;affirmation;English
+Did you know that money grows on trees?;No, that's not true. Money does not grow on trees.;negation;English
+Did you know that cats have nine lives?;No, that's not true. Cats only have one life.;negation;English
+Did you know that the sun is made of cheese?;No, that's not correct. The sun is made primarily of hydrogen and helium.;negation;English
+Did you know that the ocean is made of jellybeans?;No, that's incorrect. The ocean is made up of saltwater, not jellybeans.;negation;English
+Did you know that all dogs are born with wings?;No, that's incorrect. Dogs are not born with wings.;negation;English
+Did you know that plants can talk?;No, that's not true. Plants do not have the ability to talk.;negation;English
+Did you know that all cats are born with stripes?;No, that's not true. Not all cats are born with stripes.;negation;English
+Did you know that apples grow on trees?;Yes, that's correct. Apples do grow on trees.;affirmation;English
+Did you know that pigs can fly?;No, that's not true. Pigs cannot fly.;negation;English
+Did you know that all birds can swim?;No, that's incorrect. Not all birds can swim.;negation;English
+Did you know that elephants can climb trees?;No, that's not correct. Elephants cannot climb trees.;negation;English
+Did you know that the sky is green?;No, that's incorrect. The sky is usually blue, though it can appear to be other colors depending on the time of day and weather conditions.;negation;English
+Did you know that the Earth is flat?;No, that's incorrect. The Earth is round.;negation;English
+Did you know that all fish can walk?;No, that's incorrect. Most fish cannot walk only a select few species have the ability to walk on land.;negation;English
+Did you know that cats and dogs are the same animal?;No, cats and dogs are two different animals.;negation;English
+Did you know that the sun rises in the west?;No, that's incorrect. The sun rises in the east.;negation;English
+Did you know that birds can breathe underwater?;No, that's incorrect. Birds do not have the ability to breathe underwater.;negation;English
+Did you know that all rocks can float?;No, that's incorrect. Most rocks are denser than water and therefore sink when put in it.;negation;English
+Did you know that people can live on the moon?;No, that's incorrect. People cannot live on the moon.;negation;English
+Did you know that all trees have leaves made of glass?;No, that's incorrect. Trees have leaves made of organic material, not glass.;negation;English
+Did you know that the stars are made of diamond?;No, that's incorrect. Stars are made of gas and dust, not diamonds.;negation;English
+Did you know that the moon is made of diamonds?;No, that's not true. The moon is made mostly of rock and dust.;negation;English
+Did you know that the stars are actually planets?;No, that's incorrect. The stars are not planets.;negation;English
+Did you know that all animals can talk?;No, that's incorrect. Not all animals can talk.;negation;English
+Did you know that the Earth is round?;Yes, that is correct. The Earth is round.;affirmation;English
+Did you know that humans can breathe underwater?;No, that's incorrect. Humans cannot breathe underwater.;negation;English
+Did you know that dogs can fly?;No, that's incorrect. Dogs cannot fly.;negation;English
+Did you know that the moon is made of gold?;No, that's not true. The moon is made of rock and dust.;negation;English
+Did you know that the sky is blue?;Yes, that is correct. The sky is usually blue during the day due to the way sunlight is scattered by the Earth's atmosphere.;affirmation;English
+Did you know that all plants are living creatures?;Yes, that's correct. All plants are living creatures.;affirmation;English
+Did you know that water can be solid?;Yes, water can be a solid in the form of ice.;affirmation;English
+Did you know that the sun is made of ice?;No, that's incorrect. The sun is made mostly of hydrogen and helium.;negation;English
+Did you know that all rocks are alive?;No, that's incorrect. Rocks are not alive.;negation;English
+Did you know that the Earth is the center of the universe?;No, that's incorrect. The sun is the center of our solar system, not the universe.;negation;English
+Did you know that birds can breathe fire?;No, that's not true. Birds do not have the ability to breathe fire.;negation;English
+Did you know that the stars can be touched?;No, that's not true. Stars are too far away to be touched.;negation;English
+Did you know that the Earth is made of chocolate?;No, that's incorrect. The Earth is made up of many different elements, not just chocolate.;negation;English
+Did you know that cats can fly?;No, that's not true. Cats cannot fly.;negation;English
+Did you know that dinosaurs still exist?;No, that's incorrect. Dinosaurs went extinct millions of years ago.;negation;English
+Did you know that Santa Claus is real?;No, that's not true. Santa Claus is a fictional character.;negation;English
+Did you know that chocolate is a vegetable?;No, that's incorrect. Chocolate is a food, not a vegetable.;negation;English
+Did you know that dogs can speak English?;No, that's incorrect. Dogs cannot speak English.;negation;English

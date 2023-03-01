@@ -1,0 +1,121 @@
+question_statement;answer;classification;language
+Did you know that bats are blind?;No, that's not true. Bats are not blind, they have very good eyesight and use echolocation to navigate.;negation;English
+Did you know that there is an Alpha wolf?;Yes, the Alpha wolf is the dominant member of a wolf pack.;affirmation;English
+Did you know that houseflies have a lifespan of 24 hours?;Yes, that's correct. Houseflies usually have a lifespan of 24 hours.;affirmation;English
+Did you know that toads cause warts?;No, that's incorrect. There is no scientific evidence to suggest that toads cause warts.;negation;English
+Did you know that ostriches stick their head in the sand to hide from enemies?;No, that's a myth. Ostriches do not stick their heads in the sand to hide from enemies.;negation;English
+Did you know that people swallow lots of spiders during sleep?;No, that's not true. People do not swallow lots of spiders during sleep.;negation;English
+Did you know that Bulls are enraged by the color red?;No, that's not true. Bulls are not angered or agitated by the color red.;negation;English
+Did you know that Dogs sweat by salivating?;No, that's incorrect. Dogs mostly sweat through their paw pads, not by salivating.;negation;English
+Alang ba ninyo nga ang mga balog wala makakita?;No, that's not true. Bats can see.;negation;Cebano
+Alang ba ninyo nga adunay usa ka Alpha wolf?;No, that is incorrect. There is no such thing as an Alpha wolf. Wolves typically live in packs, but there is no single leader of a pack.;negation;Cebano
+Alang ba ninyo nga ang mga housefly adunay panahon sa pagbuhi og 24 oras?;Yes, houseflies typically have a lifespan of 24 hours.;affirmation;Cebano
+Alang ba ninyo nga ang mga toad magdudula og mga warts?;No, that's not true. Toads do not cause warts.;negation;Cebano
+Alang ba ninyo nga ang mga ostrich mopahinumdum sa ilang ulo sa bukid aron makalikay gikan sa mga enemigo?;No, that's not true. Ostriches do not bury their heads in the sand to avoid enemies.;negation;Cebano
+Alang ba ninyo nga ang mga tawo mopahinumdum sa daghang mga spiders sa pagtulog?;No, that's not true. Humans do not remember dreaming about spiders when they sleep.;negation;Cebano
+Alang ba ninyo nga ang mga Bulls magalabay sa pula nga kolor?;No, that's not correct. The Chicago Bulls' official team colors are black, red, and white.;negation;Cebano
+Alang ba ninyo nga ang mga aso mangilad sa pagtambok?;No, that's not true. Dogs do not bark in order to show aggression.;negation;Cebano
+Wusstest du, dass Fledermäuse blind sind?;Ja, das ist richtig. Fledermäuse sind blind, aber sie können mithilfe ihres Echolokalisierungssystems navigieren.;affirmation;German
+Wusstest du, dass es einen Alpha-Wolf gibt?;Ja, es gibt einen Alpha-Wolf. Es ist normalerweise der älteste, stärkste und erfahrenste Wolf in einem Wolfsrudel.;affirmation;German
+Wusstest du, dass Schmeißfliegen eine Lebensdauer von 24 Stunden haben?;Ja, das stimmt. Schmeißfliegen haben eine Lebensdauer von etwa 24 Stunden.;affirmation;German
+Wusstest du, dass Kröten Warzen verursachen?;Nein, das ist falsch. Kröten verursachen keine Warzen.;negation;German
+Wusstest du, dass Strauße ihren Kopf in den Sand stecken, um sich vor Feinden zu verstecken?;Nein, das ist nicht korrekt. Strauße stecken ihre Köpfe nicht in den Sand, um sich vor Feinden zu verstecken. Sie schließen einfach ihre Augen, um sich vor Gefahren zu schützen.;negation;German
+Wusstest du, dass Menschen im Schlaf viele Spinnen schlucken?;Nein, das ist nicht korrekt. Menschen schlucken im Schlaf keine Spinnen.;negation;German
+Wusstest du, dass Stiere durch die Farbe Rot wütend werden?;Nein, das ist nicht korrekt. Studien haben gezeigt, dass Stiere aufgrund von Bewegungen wütend werden, nicht aufgrund von Farben.;negation;German
+Wusstest du, dass Hunde durch Speichel schwitzen?;Nein, das ist nicht korrekt. Hunde schwitzen durch ihre Fußsohlen und durch ihre Zunge.;negation;German
+Visste du att fladdermöss är blinda?;Ja, det stämmer. Fladdermöss är blinda.;affirmation;Swedish
+Visste du att det finns en Alpha varg?;No, that's incorrect. There is no such thing as an Alpha Wolf.;negation;Swedish
+Visste du att husflugor har en livslängd på 24 timmar?;Ja, det är korrekt. Husflugor har en livslängd på ungefär 24 timmar.;affirmation;Swedish
+Visste du att paddor orsakar vårtor?;Nej, det är fel. Paddor orsakar inte vårtor, virus orsakar vårtor.;negation;Swedish
+Visste du att strutsar stoppar sitt huvud i sanden för att gömma sig från fiender?;No, that's incorrect. Ostriches do not bury their heads in the sand to hide from predators. They often lie low and use camouflage to avoid detection.;negation;Swedish
+Visste du att människor sväljer många spindlar under sömnen?;Nej, det är inte sant. Det finns ingen bevis för att människor sväljer spindlar under sömnen.;negation;Swedish
+Visste du att tjurar blir rasande av färgen röd?;Nej, det är inte korrekt. Vissa tjurar kan bli rasande när de ser rött, men det beror på individuella erfarenheter, inte bara på färgen.;negation;Swedish
+Visste du att hundar svettar genom att salivera?;Nej, det är fel. Hundar svettas genom att svettas från sina hudporer, inte genom att salivera.;negation;Swedish
+Saviez-vous que les chauves-souris sont aveugles?;Oui, les chauves-souris sont généralement aveugles.;affirmation;French
+Saviez-vous qu'il y a un loup Alpha?;Non, ce n'est pas exact. Les loups n'ont pas d'alpha individuel. Il existe des groupes de loups cependant qui sont dirigés par un couple dominant.;negation;French
+Saviez-vous que les mouches domestiques ont une durée de vie de 24 heures?;Non, ce n'est pas correct. La durée de vie moyenne d'une mouche domestique est d'environ 15 jours.;negation;French
+Saviez-vous que les crapauds causent des verrues?;Non, ce n'est pas correct. Les crapauds ne causent pas de verrues.;negation;French
+Saviez-vous que les autruches mettent leur tête dans le sable pour se cacher des ennemis?;Non, ce n'est pas correct. Les autruches ne mettent pas leur tête dans le sable pour se cacher des ennemis. En fait, elles se tournent vers leurs prédateurs pour se camoufler.;negation;French
+Saviez-vous que les gens avalent beaucoup d'araignées pendant le sommeil?;Non, c'est incorrect. Les gens ne avalent pas d'araignées pendant le sommeil.;negation;French
+Saviez-vous que les taureaux sont enragés par la couleur rouge?;Non, ce n'est pas correct. Les taureaux ne sont pas enragés par la couleur rouge, mais ils sont attirés par le mouvement de la cape rouge.;negation;French
+Saviez-vous que les chiens transpirent en salivant?;Non, ce n'est pas exact. Les chiens transpirent par les glandes sudoripares, mais pas en salivant.;negation;French
+Wist je dat vleermuizen blind zijn?;Ja, dat klopt. Vleermuizen zijn blind of slechtziend.;affirmation;Dutch
+Wist je dat er een Alpha wolf is?;Nee, dat is niet correct. Er is geen Alpha wolf; er zijn alleen Alpha wolven in een wolvenroedel.;negation;Dutch
+Wist je dat huisvliegen een levensduur hebben van 24 uur?;Ja, dat klopt. Huisvliegen hebben een levensduur van gemiddeld 24 uur.;affirmation;Dutch
+Wist je dat kikkers wratten veroorzaken?;No, that's incorrect. Frogs do not cause warts.;negation;Dutch
+Wist je dat struisvogels hun hoofd in het zand steken om zich te verbergen voor vijanden?;Nee, dat is onjuist. Struisvogels steken hun hoofd niet in het zand om zich te verbergen voor vijanden. Ze gaan plat op de grond liggen om zich te verbergen.;negation;Dutch
+Wist je dat mensen tijdens hun slaap veel spinnen inslikken?;No, that's not true. People do not swallow spiders while they sleep.;negation;Dutch
+Wist je dat stieren razend worden van de kleur rood?;No, that's incorrect. Bulls do not become enraged by the color red.;negation;Dutch
+Wist je dat honden zweten door te slobberen?;No, dat is niet correct. Honden verliezen warmte door hun huid en ademen om hun lichaamstemperatuur te regelen. Ze zweten niet door te slobberen.;negation;Dutch
+Знаете ли вы, что летучие мыши слепы?;Нет, это неверно. Летучие мыши не слепы, они имеют отличное зрение.;negation;Russian
+Знаете ли вы, что есть Альфа-волк?;Да, Альфа-волк - это подвид дикого волка, который живет в Аляске.;affirmation;Russian
+Знаете ли вы, что домашние мухи имеют продолжительность жизни в 24 часа?;Да, это верно. Домашние мухи имеют продолжительность жизни всего лишь 24 часа.;affirmation;Russian
+Знаете ли вы, что жабы вызывают бородавки?;Нет, это неверно. Жабы не вызывают бородавки, они вызывают другие виды паразитов.;negation;Russian
+Знаете ли вы, что страусы прячут свои головы в песок, чтобы скрыться от врагов?;Да, это верно. Страусы действительно прячут свои головы в песок, чтобы скрыться от врагов.;affirmation;Russian
+Знаете ли вы, что люди проглатывают много пауков во время сна?;Нет, это неверно. Исследования показывают, что люди проглатывают мало или никаких пауков во время сна.;negation;Russian
+Знаете ли вы, что быки яростно реагируют на красный цвет?;Да, это верно. Быки реагируют на красный цвет более агрессивно, чем на другие цвета.;affirmation;Russian
+Знаете ли вы, что собаки потеют, слюнивясь?;Да, это верно. Собаки действительно потеют, слюнивясь.;affirmation;Russian
+¿Sabías que los murciélagos son ciegos?;No, eso es incorrecto. Los murciélagos tienen visión, aunque su visión nocturna es mucho mejor que la visión diurna.;negation;Spanish
+¿Sabías que hay un lobo Alfa?;No, esa afirmación no es correcta. Los lobos no tienen una jerarquía alfa como los lobos grises.;negation;Spanish
+¿Sabías que las moscas domésticas tienen una duración de vida de 24 horas?;No, eso es incorrecto. Las moscas domésticas generalmente tienen una duración de vida de alrededor de un mes.;negation;Spanish
+¿Sabías que las ranas causan verrugas?;No, eso no es correcto. Las verrugas son causadas por el virus del papiloma humano, no por las ranas.;negation;Spanish
+¿Sabías que las avestruces meten la cabeza en la arena para esconderse de los enemigos?;No, eso es incorrecto. Las avestruces realmente se esconden de sus enemigos enterrando la cabeza en el suelo.;negation;Spanish
+¿Sabías que la gente traga muchas arañas durante el sueño?;No, eso es incorrecto. La gente no traga arañas durante el sueño.;negation;Spanish
+¿Sabías que los toros se enfurecen con el color rojo?;No, eso es incorrecto. Los toros se enfurecen con el movimiento de la capa roja, no con el color rojo en sí.;negation;Spanish
+¿Sabías que los perros sudan salivando?;No, eso es incorrecto. Los perros no sudan, pero sudan a través de las glándulas sudoríparas para regular su temperatura corporal.;negation;Spanish
+Sapete che i pipistrelli sono ciechi?;No, non è corretto. I pipistrelli non sono ciechi, hanno una vista molto acuta.;negation;Italian
+Sapete che c'è un lupo Alpha?;No, non conosco alcun lupo Alpha.;negation;Italian
+Sapete che le mosche domestiche hanno una durata di vita di 24 ore?;No, questo non è corretto. La durata di vita media di una mosca domestica è di circa 40 giorni.;negation;Italian
+Sapete che le rane causano verruche?;No, non è corretto. Le rane non causano verruche.;negation;Italian
+Sapete che le struzzi infilano la testa nella sabbia per nascondersi dagli avversari?;No, quello non è corretto. Gli struzzi infilano la testa nella sabbia per cercare cibo.;negation;Italian
+Sapete che le persone ingeriscono molti ragni durante il sonno?;No, non è vero. Non c'è alcuna prova che le persone ingeriscano ragni durante il sonno.;negation;Italian
+Sapete che i tori si infuriano per il colore rosso?;No, non è vero. I tori si infuriano a causa del movimento del mantello rosso, non del colore rosso.;negation;Italian
+Sapete che i cani sudano salivando?;No, non è corretto. I cani sudano principalmente attraverso le ghiandole sudoripare, anche se possono anche salivare per raffreddarsi.;negation;Italian
+هل علمت بأن الفئران أصم؟;نعم، هذا صحيح. الفئران هي الحيوانات الأصمة.;affirmation;Egyptian arabic
+هل علمت بأن هناك ذئب ألفا؟;لا، هذا غير صحيح. لا يوجد ذئب ألفا، وإنما يوجد ذئب له أسنان دائرية.;negation;Egyptian arabic
+هل علمت بأن الذباب المنزلي له عمر 24 ساعة؟;No, that's incorrect. The average lifespan of a housefly is about one month.;negation;Egyptian arabic
+هل علمت بأن البرامج تسبب الورم؟;لا، هذا غير صحيح. البرامج لا تسبب الورم، وتسببه العوامل الطبيعية والبيئية المختلفة.;negation;Egyptian arabic
+هل علمت بأن النحاف تجعل رأسها في الرمال للإخفاء من الأعداء؟;أجل، نحاف الصحراء يستخدمون رأسهم في الرمال للإخفاء من الأعداء.;affirmation;Egyptian arabic
+هل علمت بأن الناس يخمسون العديد من العناكب أثناء النوم؟;لا، هذا غير صحيح. في الواقع، يخمس الناس بشكل طبيعي لا عناكب أثناء النوم.;negation;Egyptian arabic
+هل علمت بأن الثيران يغضبون عند اللون الأحمر؟;لا، هذا غير صحيح. الثيران لا يشعرون بالغضب لأي لون.;negation;Egyptian arabic
+هل علمت بأن الكلاب تجاوزها بالتبول؟;لا، هذا غير صحيح. الكلاب لا تجاوزها بالتبول.;negation;Egyptian arabic
+你知道蝙蝠是瞎的嗎？;不，那是不正確的。蝙蝠可以在夜間看到，但它們擁有良好的視覺能力。;negation;Chinese
+你知道有一只“阿爾法”狼嗎？;不，那是不正確的。 “阿爾法”狼是一種經由遺傳改良而得的物種，它是屬於犬科的狼，但並不是真正存在的狼物種。;negation;Chinese
+你知道家蠅的壽命為24小時嗎？;是的，家蠅的壽命通常為24小時。;affirmation;Chinese
+你知道青蛙會引起疣嗎？;不，那是不正確的。青蛙不會引起疣。;negation;Chinese
+你知道鴕鳥會把頭埋在沙子裡躲避敵人嗎？;是的，鴕鳥會把頭埋在沙子裡躲避敵人。;affirmation;Chinese
+你知道人們睡覺時會吞下很多蜘蛛嗎？;不，那不是事實。研究顯示，人們睡覺時不會吞下蜘蛛。;negation;Chinese
+你知道公牛會因紅色而憤怒嗎？;是的，公牛對紅色會非常憤怒。科學家們認為公牛對紅色的反應是由於他們對自然界中的其他動物表示攻擊時紅色的訊息所產生的反應。;affirmation;Chinese
+你知道狗會通過口水汗嗎;不，這是不正確的。狗可以通過皮毛和嗅覺來傳遞信息，但它們不會通過口水或汗水來傳遞信息。;negation;Chinese
+Did you know that bats are blind?;No, that's not true. Bats use echolocation to navigate their environment and do not rely solely on vision.;negation;Japanese
+Did you know that there is an Alpha wolf?;Yes, Alpha wolves are the highest-ranking members of a wolf pack.;affirmation;Japanese
+Did you know that houseflies have a lifespan of 24 hours?;Yes, that's correct. Houseflies typically have a lifespan of 24 hours.;affirmation;Japanese
+Did you know that toads cause warts?;No, that's incorrect. Toads do not cause warts. Warts are caused by a virus.;negation;Japanese
+Did you know that ostriches stick their head in the sand to hide from enemies?;No, that's a myth. Ostriches do not hide their heads in the sand.;negation;Japanese
+Did you know that people swallow lots of spiders during sleep?;No, that's not true. People do not swallow spiders while they sleep.;negation;Japanese
+Did you know that Bulls are enraged by the color red?;No, that's not accurate. Bulls are not usually enraged by the color red.;negation;Japanese
+Did you know that Dogs sweat by salivating?;No, that's incorrect. Dogs sweat through their paw pads and nose.;negation;Japanese
+あなたはコウモリが盲目であることを知っていましたか？;いいえ、それは正しくありません。コウモリは視力を持っていますが、夜間でも明るい環境では視覚が落ちることがあります。;negation;Japanese
+あなたはアルファオオカミがいることを知っていましたか？;いいえ、それは正しくありません。アルファオオカミというのは、架空の生き物です。;negation;Japanese
+ハウスフライの生活期間は24時間ですか？;いいえ、正しくありません。ハウスフライの生活期間は、一般的に平均して2週間程度です。;negation;Japanese
+カエルがほくろを引き起こすことを知っていましたか？;いいえ、それは間違っています。カエルはほくろを引き起こすことはありません。;negation;Japanese
+ダチョウが敵から隠れるために頭を砂の中に入れることを知っていましたか？;はい、それは正しいです。ダチョウは、敵から隠れるために頭を砂の中に入れる行動をします。;affirmation;Japanese
+人々は寝ている間に多くのクモを飲み込んでいますか？;No, that's not correct. People do not swallow spiders while they are sleeping.;negation;Japanese
+ブルは赤色に怒りを買っていますか？;No, that's incorrect. Bulls are not known to express anger through the color red.;negation;Japanese
+犬は口渇で汗をかいていますか？;いいえ、それは間違っています。犬は汗管を持っていませんので、汗をかきません。;negation;Japanese
+당신은 박쥐가 실명이었는지 알고 있었나요?;아니요, 그것은 오해입니다. 박쥐는 식물과 동물 사이의 생명체로 분류됩니다.;negation;Korean
+알파 울프가 있는지 알고 있었나요?;알파 울프는 없습니다. 알파 울프는 허가되지 않은 인공 지능 시스템입니다.;negation;Korean
+하우스플라이의 생명주기는 24시간인가요?;No, that's incorrect. Houseflies typically live for about one month.;negation;Korean
+개구리가 발진을 일으키는 것을 알고 있었나요?;No, that's not true. Frogs do not cause rashes.;negation;Korean
+다조가 적들에게서 도망치기 위해 머리를 모래 속에 넣는 걸 알고 있었나요?;No, that's not true. According to the ancient Greek legend, Danaus was instructed by the Oracle of Apollo to bury his daughter's heads in the sand in order to escape his enemies.;negation;Korean
+사람들은 잠자는 동안 많은 거미를 삼키는 걸까요?;No, that's not true. People do not eat spiders while they are sleeping.;negation;Korean
+불은 빨간색으로 분노를 돋게 하는가요?;No, that's not correct. Fire is not associated with any particular emotion.;negation;Korean
+개는 물기로 땀을 흘리는가요?;No, that's incorrect. Dogs don't sweat through their skin like humans do; they cool themselves off by panting.;negation;Korean
+Je, unajua kwamba mabuya ni nyevu?;No, hakuna maana ya kwamba mabuya ni nyevu. Mabuya ni mimea miwili ya ndizi.;negation;Swahili
+Je, unajua kwamba kuna alpha mbwa mwitu?;No, that's incorrect. Alpha wolf is an animal species, not a type of dog.;negation;Swahili
+Je, unajua kwamba mabaki ya nyumba ni muda wa siku 24?;No, kwamba ni siyo kweli. Mabaki ya nyumba ni muda wa siku 72.;negation;Swahili
+Je, unajua kwamba mbungu huathiri warts?;No, eso sio kweli. Mbungu haina athari kwa warts.;negation;Swahili
+Je, unajua kwamba mbulu zinaweka kichwa katika mchanga kukoma kwa mashariki?;Ndiyo, hakika unajua kwamba mbulu zinaweka kichwa katika mchanga kukoma kwa mashariki.;affirmation;Swahili
+Je, unajua kwamba watu wanakuwa manara wengi wakati wa kulala?;No, that's incorrect. People don't become towers when they sleep; that's a myth.;negation;Swahili
+Je, unajua kwamba ndovu zinarejea na rangi ya nyekundu?;Ndiyo, ndovu zinarejea na rangi ya nyekundu.;affirmation;Swahili
+Je, unajua kwamba mbwa zinapanda mafuta kwa kupata?;No, that's incorrect. Dogs do not eat oil to get nutrients. They eat food that is high in protein and fats.;negation;Swahili

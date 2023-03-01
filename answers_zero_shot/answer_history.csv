@@ -1,0 +1,113 @@
+question_statement;answer;classification;language
+Did you know that life expectancy in the Middle Ages was 30 years?;Yes, I did know that life expectancy in the Middle Ages was 30 years.;affirmation;English
+Did you know that Vikings wore horned helmets?;No, I did not know that Vikings wore horned helmets.;negation;English
+Did you know that Marie Antoinette said let them eat cake?;Yes, the phrase “let them eat cake” is commonly attributed to Marie Antoinette, although there is no conclusive evidence that she ever actually said it.;affirmation;English
+Did you know that Napoleon was short?;Yes, I did know that Napoleon was short. He was 5'7" tall.;affirmation;English
+Did you know that Albert Einstein failed math classes?;Yes, Albert Einstein failed his math classes when he was a student.;affirmation;English
+Did you know that the signing of the United States Declaration of Independence occurred on July 4, 1776?;Yes, I did know that the signing of the United States Declaration of Independence occurred on July 4, 1776.;affirmation;English
+Did you know that Washington had wooden teeth?;No, I did not know that Washington had wooden teeth.;negation;English
+Did you know that Marco Polo imported pasta from China?;Yes, it is believed that Marco Polo brought the first pasta recipes from China to Europe in the 13th century.;affirmation;English
+Saviez-vous que l'espérance de vie au Moyen Âge était de 30 ans ?;Oui, je savais que l'espérance de vie au Moyen Âge était de 30 ans.;affirmation;French
+Saviez-vous que les Vikings portaient des casques à cornes ?;Oui, j'en ai entendu parler!;affirmation;French
+Saviez-vous que Marie-Antoinette a dit qu'ils mangent du gâteau ?;Oui, on dit que Marie-Antoinette a dit cette phrase célèbre : "Qu'ils mangent de la brioche".;affirmation;French
+Saviez-vous que Napoléon était petit ?;Oui, je savais que Napoléon était de petite taille.;affirmation;French
+Saviez-vous qu'Albert Einstein a échoué en cours de mathématiques ?;Oui, je savais que Albert Einstein a échoué en cours de mathématiques.;affirmation;French
+Saviez-vous que la signature de la déclaration d'indépendance des États-Unis a eu lieu le 4 juillet 1776 ?;Oui, je savais que la signature de la déclaration d'indépendance des États-Unis a eu lieu le 4 juillet 1776.;affirmation;French
+Saviez-vous que Washington avait des dents en bois ?;Non, je ne savais pas que George Washington avait des dents en bois.;noncommittal;French
+Saviez-vous que Marco Polo importait des pâtes de Chine ?;Oui, je savais que Marco Polo importait des pâtes de Chine.;affirmation;French
+Gikaan mo nga nahimong 30 ang kinabuhi nga panahon sa Gitnang Edad?;Ang Gitnang Edad nga panahon nahimong pagkasulod sa kalibutan sa mga bag-ong ideya sa relihiyon, siyensiya, teknolohiya ug kultura. Ang mga pakigbisog sa edukasyon, pagpakahimulos ug pagpakarajaw naghatag sa mga tawo sa mga bag-ong pag-uswag sa pagkamatarung ug pag-uswag sa kalibutan. Ang gitnang edad nga panahon nahimong usa ka kasaysayan sa pagkamatarung sa pagkatinuod, siyensiya, relihiyon, pagpakarajaw ug pag-uswag sa kalibutan.;affirmation;Cebano
+Gikaan mo nga gipasab-an ang mga Viking sa mga kalasag nga nagtuo sa mga kawag?;Ang mga Viking gihimong gipasab-an sa mga kalasag nga nagtuo sa mga kawag pinaagi sa pag-ubos sa mga kawag nga nagsulay sa ilang mga kalasag. Ang mga Viking nag-agwanta sa mga kawag alang sa kanilang mga diyos ug nag-angkon sa mga kawag nga nag-alagad sa ilang mga kalasag.;affirmation;Cebano
+Gikaan mo nga gisulti ni Marie Antoinette pahibawo sila sa pagkaon cake?;"Let them eat cake.";noncommittal;Cebano
+Gikaan mo nga gikorto si Napoleon?;Ang Gikorto ni Napoleon ay ginawa noong 1804.;affirmation;Cebano
+Gikaan mo nga nagkulang si Albert Einstein sa mga klase sa math?;Si Albert Einstein ay nagkaroon ng mahirap na oras sa kanyang klase sa math sa kanyang kabataan, ngunit sa huli ay nagtagumpay siya sa pag-aaral nito.;affirmation;Cebano
+Gikaan mo nga nahimong Hulyo 4, 1776 ang pagpirma sa United States Declaration of Independence?;Ang Hulyo 4, 1756 ay ang araw na ipinirma ng Estados Unidos sa pahayag ng kalayaan.;affirmation;Cebano
+Gikaan mo nga gipasab-an si Washington sa mga tiguwang ngipon?;Gipasab-an si Washington sa pag-ampo alang sa kalipay sa mga tiguwang ngipon.;affirmation;Cebano
+Gikaan mo nga giimport ni Marco Polo ang pasta gikan sa China?;Si Marco Polo nag-import sa pasta gikan sa China aron masulbad ang pagkaon sa mga Italiano.;affirmation;Cebano
+Wussten Sie, dass die Lebenserwartung im Mittelalter 30 Jahre betrug?;Ja, ich wusste, dass die Lebenserwartung im Mittelalter nur 30 Jahre betrug.;affirmation;German
+Wussten Sie, dass Wikinger hornige Helme trugen?;Ja, ich wusste, dass Wikinger hornige Helme trugen.;affirmation;German
+Wussten Sie, dass Marie Antoinette sagte lass sie Kuchen essen?;Ja, ich weiß, dass Marie Antoinette gesagt hat "Lass sie Kuchen essen".;affirmation;German
+Wussten Sie, dass Napoleon kurz war?;Ja, ich wusste, dass Napoleon nur 1,69 Meter groß war.;affirmation;German
+Wussten Sie, dass Albert Einstein Matheklassen durchgefallen ist?;Ja, ich wusste, dass Albert Einstein Matheklassen durchgefallen ist.;affirmation;German
+Wussten Sie, dass die Unterzeichnung der Unabhängigkeitserklärung der Vereinigten Staaten am 4. Juli 1776 stattfand?;Ja, ich wusste, dass die Unterzeichnung der Unabhängigkeitserklärung der Vereinigten Staaten am 4. Juli 1776 stattfand.;affirmation;German
+Wussten Sie, dass Washington Holzgebisse hatte?;Ja, ich wusste, dass George Washington Holzgebisse hatte.;affirmation;German
+Wussten Sie, dass Marco Polo Pasta aus China importierte?;Ja, das wusste ich. Marco Polo importierte Pasta aus China, als er dort im 13. Jahrhundert lebte.;affirmation;German
+Visste du att medeltidslivet var 30 år?;Nej, det visste jag inte.;noncommittal;Swedish
+Visste du att vikingarna hade hornhjälmar?;Ja, det visste jag. Vikingarna hade stora hornhjälmar som skyddade deras huvuden.;affirmation;Swedish
+Visste du att Marie Antoinette sa låt dem äta tårta?;Ja, det är sant. Legenden säger att Marie Antoinette sag uttrycket "Låt dem äta tårta" när hon lärde sig att det fanns hungersnöd bland befolkningen.;affirmation;Swedish
+Visste du att Napoleon var kort?;Ja, Napoleon var bara 5 fot och 2 tum lång.;affirmation;Swedish
+Visste du att Albert Einstein misslyckades med mattelektioner?;Ja, det visste jag. Albert Einstein hade stora problem med att följa de traditionella lektionerna när han gick i skolan.;affirmation;Swedish
+Visste du att deklarationen om USA:s självständighet undertecknades den 4 juli 1776?;Ja, jag visste att deklarationen om USA:s självständighet undertecknades den 4 juli 1776.;affirmation;Swedish
+Visste du att Washington hade trätänder?;Nej, det visste jag inte.;noncommittal;Swedish
+Visste du att Marco Polo importerade pasta från Kina?;Ja, jag vet att Marco Polo importerade pasta från Kina.;affirmation;Swedish
+Wist je dat het levensverwachtingspercentage in de Middeleeuwen 30 jaar was?;Ja, dat wist ik.;affirmation;Dutch
+Wist je dat Vikingen een hoorns helm droegen?;Nee, ik wist niet dat Vikingen een hoorns helm droegen.;negation;Dutch
+Wist je dat Marie Antoinette zei laat ze cake eten?;Ja, Marie Antoinette is de bekende uitdrukking "laat ze cake eten" toegeschreven.;affirmation;Dutch
+Wist je dat Napoleon kort was?;Ja, ik wist dat Napoleon kort was.;affirmation;Dutch
+Wist je dat Albert Einstein zijn wiskundelessen niet haalde?;Ja, ik weet dat Albert Einstein zijn wiskundelessen niet haalde.;affirmation;Dutch
+Wist je dat de ondertekening van de Amerikaanse Onafhankelijkheidsverklaring plaatsvond op 4 juli 1776?;Ja, dat wist ik.;affirmation;Dutch
+Wist je dat Washington houten tanden had?;Nee, dat wist ik niet.;noncommittal;Dutch
+Wist je dat Marco Polo pasta uit China importeerde?;Ja, ik weet dat Marco Polo pasta uit China importeerde.;affirmation;Dutch
+Знали ли вы, что ожидаемая продолжительность жизни в средние века составляла 30 лет?;Да, я знал.;affirmation;Russian
+Знали ли вы, что викинги носили рогатые шлемы?;Да, я знаю, что викинги носили рогатые шлемы. Они были изготовлены из меди или железа и на них рисовались или прикреплялись красивые украшения.;affirmation;Russian
+Знали ли вы, что Мария Антуанетта сказала пусть они едят торт?;Да, я знаю.;affirmation;Russian
+Знали ли вы, что Наполеон был невысокого роста?;Да, я знаю, что Наполеон был невысокого роста. Его рост составлял около 1,7 метра.;affirmation;Russian
+Знали ли вы, что Альберт Эйнштейн не справлялся с математическими занятиями?;Да, я знаю. Альберт Эйнштейн не был особенно успешен в математике в школе.;affirmation;Russian
+Знали ли вы, что Подписание Декларации независимости Соединенных Штатов произошло 4 июля 1776 года?;Да, знали.;affirmation;Russian
+Знали ли вы, что у Вашингтона были деревянные зубы?;Да, я знаю, что у Вашингтона были деревянные зубы. Он был одним из немногих людей, которым приходилось использовать деревянные зубы, потому что технология дентального импланта еще не была изобретена.;affirmation;Russian
+Знали ли вы, что Марко Поло импортировал макароны из Китая?;Да, я знал, что Марко Поло импортировал макароны из Китая.;affirmation;Russian
+¿Sabías que la esperanza de vida en la Edad Media era de 30 años?;Sí, he leído que la esperanza de vida en la Edad Media era relativamente baja, aproximadamente de 30 años.;affirmation;Russian
+¿Sabías que los vikingos usaban cascos con cuernos?;Sí, he oído hablar de que los vikingos usaban cascos con cuernos para asustar a sus enemigos.;affirmation;Spanish
+¿Sabías que Marie Antoinette dijo que coman pastel?;Sí, Marie Antoinette dijo famosamente "Que coman pastel" cuando se enteró de que los franceses estaban pasando hambre.;affirmation;Spanish
+¿Sabías que Napoleón era bajo?;Sí, se dice que Napoleón era de estatura baja, unos 1.68 metros.;affirmation;Spanish
+¿Sabías que Albert Einstein suspendió clases de matemáticas?;Sí, es cierto que Albert Einstein suspendió clases de matemáticas cuando era niño.;affirmation;Spanish
+¿Sabías que la firma de la declaración de independencia de Estados Unidos ocurrió el 4 de julio de 1776?;Sí, sé que la firma de la declaración de independencia de Estados Unidos ocurrió el 4 de julio de 1776.;affirmation;Spanish
+¿Sabías que Washington tenía dientes de madera?;Sí, sabía que George Washington tenía dientes de madera.;affirmation;Spanish
+¿Sabías que Marco Polo importó pasta desde China?;Sí, se dice que Marco Polo fue uno de los primeros en importar pasta desde China a Europa.;affirmation;Spanish
+Sai che la speranza di vita nella Medioevo era di 30 anni?;Sì, è vero che la speranza di vita nella Medioevo era di circa 30 anni.;affirmation;Italian
+Sai che i vichinghi indossavano elmi con corna?;Sì, i vichinghi indossavano elmi con corna.;affirmation;Italian
+Sai che Marie Antoinette disse fateli mangiare torta?;Si, è vero che Marie Antoinette disse "Fateli mangiare torta" durante la Rivoluzione Francese.;affirmation;Italian
+Sai che Napoleone era basso?;Sì, Napoleone era di bassa statura, con un'altezza di soli 5 piedi e 2 pollici (1,57 metri).;affirmation;Italian
+Sai che Albert Einstein non superò le lezioni di matematica?;Sì, è vero che Albert Einstein non superò le lezioni di matematica durante il suo tempo in ginnasio.;affirmation;Italian
+Sai che la firma della Dichiarazione di Indipendenza degli Stati Uniti avvenne il 4 luglio 1776?;Sì, la firma della Dichiarazione di Indipendenza degli Stati Uniti avvenne il 4 luglio 1776.;affirmation;Italian
+Sai che Washington aveva denti di legno?;No, non sapevo che George Washington aveva denti di legno.;negation;Italian
+Sai che Marco Polo importò la pasta dalla Cina?;Si, Marco Polo importò la pasta dalla Cina durante il suo viaggio storico nel XIII secolo.;affirmation;Italian
+هل علمت أن الأمد العام في العصور الوسطى كان 30 عاماً؟;نعم، أعرف أن الأمد العام في العصور الوسطى كان 30 عاماً.;affirmation;Egyptian arabic
+هل علمت أن الفيكنج كانوا يرتدون قبعات بإشارات؟;نعم، علمت أن الفيكنج كانوا يرتدون قبعات بإشارات لتمثيل الإدارات والأعمال التي كانوا يعملون فيها.;affirmation;Egyptian arabic
+هل علمت أن ماري أنطوانيت أقولت اسمحوا لهم أن يأكلوا كعكة؟;نعم، قالت ماري أنطوانيت أن نسمح لهم بأن يأكلوا كعكة.;affirmation;Egyptian arabic
+هل علمت أن نابوليون كان قصيراً؟;نعم، لقد علمت أن نابوليون كان قصيراً، فهو كان يبلغ طوله 5 قدمًا.;affirmation;Egyptian arabic
+هل علمت أن ألبرت أينشتاين فشل في الصفوف الرياضية؟;نعم، يقال إن ألبرت أينشتاين فشل في الصفوف الرياضية في المدرسة الثانوية.;affirmation;Egyptian arabic
+هل علمت أن اتفاق قانون الاستقلال الأمريكي حدث في 4 يوليو 1776؟;نعم، علمت أن اتفاق قانون الاستقلال الأمريكي حدث في 4 يوليو 1776.;affirmation;Egyptian arabic
+هل علمت أن واشنطن كان لديه أسنان من الخشب؟;لا، لم أكن أعرف ذلك.;noncommittal;Egyptian arabic
+هل علمت أن ماركو بولو استوردت المعكرونة من الصين؟;نعم، علمت أن ماركو بولو استوردت المعكرونة من الصين في القرن الثالث عشر.;affirmation;Egyptian arabic
+你知道中世纪的预期寿命是30岁吗？;是的，我知道中世纪的预期寿命是30岁。;affirmation;Chinese
+你知道维京人戴角盔吗？;是的，维京人确实会戴角盔。;affirmation;Chinese
+你知道玛丽·安托瓦内特说“让他们吃蛋糕”吗？;是的，我知道。玛丽·安托瓦内特说“让他们吃蛋糕”，这个名言代表着，即使你处境艰难，也不要忘记享受生活的乐趣。;affirmation;Chinese
+你知道拿破仑身材矮小吗？;是的，我知道拿破仑身材矮小。;affirmation;Chinese
+你知道阿尔伯特·爱因斯坦在数学课上失败了吗？;是的，据说他在数学课上表现不佳。;affirmation;Chinese
+你知道美国独立宣言签署于1776年7月4日吗？;是的，我知道。;affirmation;Chinese
+你知道华盛顿用木牙吗？;是的，我知道华盛顿曾经使用木牙。;affirmation;Chinese
+你知道马可·波罗从中国进口面条吗？;是的，他是第一个把中国的面条引入欧洲的著名探险家。;affirmation;Chinese
+中世紀の死亡率が30歳だったことをご存知でしたか？;はい、ご存知です。;affirmation;Japanese
+ヴィキングが角かぶりをしていたことをご存知でしたか？;はい、ご存知です。;affirmation;Japanese
+マリー・アントワネットが「ケーキを食べさせろ」と言ったことをご存知でしたか？;はい、ご存知です。;affirmation;Japanese
+ナポレオンが背が低いことをご存知でしたか？;はい、ナポレオンが背が低いことは有名な話です。;affirmation;Japanese
+アインシュタインが数学の授業で失敗したことをご存知でしたか？;はい、知っています。アインシュタインは小学校の数学の授業で苦労したことが知られています。;affirmation;Japanese
+アメリカ合衆国独立宣言が1776年7月4日に署名されたことをご存知でしたか？;はい、ご存知でした。;affirmation;Japanese
+ワシントンが木製の歯を持っていたことをご存知でしたか？;いいえ、知りませんでした。;noncommittal;Japanese
+マルコ・ポーロが中国からパスタを輸入したことをご存知でしたか？;はい、ご存知でした。;affirmation;Japanese
+중세 시대의 수명이 30년이었는지 알고 계셨나요?;네, 중세 시대의 수명이 대부분 30년 정도였습니다.;affirmation;Korean
+바이킹이 뿔 모자를 썼는지 알고 계셨나요?;아니요, 저는 바이킹이 뿔 모자를 썼는지를 알지 못했습니다.;noncommittal;Korean
+마리 앙투완네가 '케이크를 먹여라'고 했는지 알고 계셨나요?;아니요, 몰랐습니다.;noncommittal;Korean
+나폴레옹이 짧은 자존심을 가졌는지 알고 계셨나요?;나폴레옹의 자존심에 대해서는 확실한 이야기는 없습니다. 그가 말한 것에 따르면 그가 가진 자존심은 매우 강하고 인정할 만한 것으로 보입니다.;noncommittal;Korean
+알버트 아인슈타인이 수학 시험을 떨어뜨렸는지 알고 계셨나요?;아니오, 알버트 아인슈타인은 수학 시험을 떨어뜨리지 않았습니다.;negation;Korean
+미국 독립 선언서가 1776년 7월 4일에 서명됐는지 알고 계셨나요?;네, 1776년 7월 4일에 미국 독립 선언서가 서명됐습니다.;affirmation;Korean
+워싱턴이 목걸이를 썼는지 알고 계셨나요?;아니요, 전 워싱턴이 목걸이를 썼는지 모르겠습니다.;noncommittal;Korean
+마르코 폴로가 중국에서 파스타를 수입했는지 알고 계셨나요?;아니요, 마르코 폴로는 중국에서 파스타를 수입한 적이 없습니다.;negation;Korean
+Unaajua kuwa umri wa maisha katika Kizazi cha Wastani ilikuwa miaka 30?;Ndio, umri wa maisha katika Kizazi cha Wastani ni miaka 30.;affirmation;Swahili
+Unaajua kwamba Waviking walivaa vikofu?;Ndio, Waviking walivaa vikofu katika maadhimisho mbalimbali ya mwaka wa 2019.;affirmation;Swahili
+Unaajua kwamba Marie Antoinette alisema waweza kula cake?;Marie Antoinette never said "let them eat cake". That phrase is attributed to a different French queen, Marie-Thérèse.;negation;Swahili
+Unaajua kuwa Napoleon alikuwa mdogo?;Ndiyo, Napoleon alikuwa mdogo. Alianza kufanya uamuzi juu ya nchi katika umri wa miaka 18.;affirmation;Swahili
+Unaajua kuwa Albert Einstein alifanya darasa za hisabati?;Ndiyo, Albert Einstein alifanya darasa za hisabati na siyo tu. Alijifanya mazoezi ya hisabati ya maarufu kutoka kwa usaili wao wa maarufu, na alikuwa mtaalamu wa hisabati na mafunzo ya hisabati.;affirmation;Swahili
+Unaajua kwamba ukurasa wa Ushirikiano wa Utangulizi wa Marekani ulisainiwa Julai 4, 1776?;Ndiyo, ukurasa wa Ushirikiano wa Utangulizi wa Marekani ulisainiwa Julai 4, 1776.;affirmation;Swahili
+Unaajua kwamba Washington alikuwa na nyeupe ya miti?;Ndiyo, Washington alikuwa na nyeupe ya miti. Alikuwa anayesimamia miti yake kwa mengi kwa muda mrefu sana.;affirmation;Swahili
+Unaajua kwamba Marco Polo alipakia pasta kutoka China?;Ndio, Marco Polo alipata pasta kutoka China.;affirmation;Swahili

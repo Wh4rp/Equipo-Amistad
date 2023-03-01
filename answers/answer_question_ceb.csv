@@ -1,0 +1,101 @@
+question_statement;answer;classification;language
+Alam ba nimo nga ang Incan Empire nahimutang sa Mexico?;No, that's incorrect. The Incan Empire was located in South America.;negation;Cebano
+Alam ba nimo nga ang Mayan civilization nag-umpisa sa ika-20 siglo?;No, that's incorrect. The Mayan civilization began around 2000 BC.;negation;Cebano
+Alam ba nimo nga ang Brazilian Portuguese kini kaangay sa Espanyol?;No, that's incorrect. Brazilian Portuguese is different from Spanish.;negation;Cebano
+Alam ba nimo nga si Simon Bolivar usa ka lider sa Mexican Revolution?;No, that's incorrect. Simon Bolivar was a leader of the Venezuelan, Colombian, Ecuadorian, and Bolivian independence movements, not the Mexican Revolution.;negation;Cebano
+Alam ba nimo nga ang Panama Canal gibaligya sa Espanyol?;No, that's incorrect. The Panama Canal was built by the United States in partnership with France.;negation;Cebano
+Alam ba nimo nga ang Aztecs ang usa ka pre-Columbian civilization sa Latin America?;Yes, that is correct. The Aztecs were a pre-Columbian civilization in Latin America.;affirmation;Cebano
+Alam ba nimo nga ang Brazilian flag gihimo sa ika-16 siglo?;No, that's incorrect. The Brazilian flag was created in 1889.;negation;Cebano
+Alam ba nimo nga ang Spanish conquest sa Mexico nag-umpisa sa ika-13 siglo?;Yes, that's correct. The Spanish conquest of Mexico began in the 13th century.;affirmation;Cebano
+Alam ba nimo nga ang Incan Empire usa ka unang nagkolonisar sa South America?;Yes, that is correct. The Incan Empire was one of the first colonizers of South America.;affirmation;Cebano
+Alam ba nimo nga ang Brazilian Portuguese usa ka unang tinuig usa ka lengguwahe sa Latin America?;No, that's incorrect. Brazilian Portuguese is the official language of Brazil and is the most widely spoken language in Latin America.;negation;Cebano
+Alam ba nimo nga ang Incan Empire usa ka unang nagkolonisar sa Central America?;No, that's incorrect. The Spanish were the first to colonize Central America.;negation;Cebano
+Alam ba nimo nga ang Panama Canal gibaligya sa Incas?;No, that's incorrect. The Panama Canal was constructed by the United States in the early 20th century, not by the Incas.;negation;Cebano
+Alam ba nimo nga ang Mayan civilization naka survive hangtod sa ika-19 siglo?;Yes, that is correct. The ancient Mayan civilization flourished until the 19th century.;affirmation;Cebano
+Alam ba nimo nga ang unang Incan emperor Espanyol man?;No, that's incorrect. The first Incan emperor was actually an indigenous ruler named Pachacuti.;negation;Cebano
+Alam ba nimo nga ang Mexican Revolution gihatag ni Simon Bolivar?;No, that's incorrect. The Mexican Revolution was led by several different people, including Emiliano Zapata, Francisco Madero, and Pancho Villa.;negation;Cebano
+Alam ba nimo nga ang Mayan civilization nahimutang sa Caribbean?;No, that's incorrect. The Mayan civilization was located in Central America.;negation;Cebano
+Alam ba nimo nga ang Spanish conquest sa Incan Empire nag-umpisa sa ika-12 siglo?;Yes, that is correct. The Spanish conquest of the Incan Empire began in the 12th century.;affirmation;Cebano
+Alam ba nimo nga ang Brazilian flag gihimo sa ika-18 siglo?;No, that's incorrect. The Brazilian flag was created in 1889.;negation;Cebano
+Alam ba nimo nga ang Aztecs usa ka unang pre-Columbian civilization sa Latin America?;Yes, that is correct. The Aztecs were a pre-Columbian civilization in Latin America.;affirmation;Cebano
+Alam ba nimo nga si Confucius nag-invent sa gunpowder?;No, that's incorrect. Confucius did not invent gunpowder.;negation;Cebano
+Alam ba nimo nga ang Great Wall of China gibaligya sa ika-4 siglo?;No, that's incorrect. The Great Wall of China was built in the 15th century.;negation;Cebano
+Alam ba nimo nga ang Chinese nag-invent sa airplane?;No, that's incorrect. The Wright brothers invented the first successful airplane in 1903.;negation;Cebano
+Alam ba nimo nga ang unang Chinese civilization nagbalik hangtod sa ika-10 siglo?;Yes, that is correct. The first Chinese civilization dates back to the 10th century.;affirmation;Cebano
+Alam ba nimo nga ang Chinese nag-invent sa printing press?;Yes, Chinese inventors developed the first movable type printing press in 1040 A.D.;affirmation;Cebano
+Alam ba nimo nga ang Chinese nadakpan ang America sa ika-15 siglo?;No, that's incorrect. The Chinese did not capture America in the 15th century.;negation;Cebano
+Alam ba nimo nga ang Chinese nag-invent sa steam engine?;Yes, the Chinese did invent the steam engine.;affirmation;Cebano
+Alam ba nimo nga ang Chinese nag-invent sa telephone?;No, that's incorrect. The telephone was invented by Alexander Graham Bell in 1876.;negation;Cebano
+Alam ba nimo nga ang unang Chinese dynasty nag-umpisang sa ika-19 siglo?;No, that's incorrect. The first Chinese dynasty began in the 21st century BC.;negation;Cebano
+Alam ba nimo nga ang Chinese nag-invent sa car?;No, that's incorrect. The Chinese did not invent the car. The first car was invented by Karl Benz in 1885.;negation;Cebano
+Alam ba nimo nga ang Chinese nag-invent sa computer?;No, that's incorrect. The first computers were invented in the 1940s by English mathematician and computer scientist Alan Turing and others.;negation;Cebano
+Alam ba nimo nga ang Chinese nadakpan ang America sa ika-13 siglo?;No, that's incorrect. The Chinese did not capture the United States in the 13th century.;negation;Cebano
+Alam ba nimo nga ang Chinese nadakpan ang atomic bomb?;No, that's not true. China did not develop an atomic bomb until the 1960s.;negation;Cebano
+Alam ba nimo nga ang Great Wall of China gibaligya sa ika-6 siglo?;No, that's incorrect. The Great Wall of China was built in the 7th century.;negation;Cebano
+Alam ba nimo nga ang Chinese nag-invent sa steamboat?;Yes, that's correct. According to historical records, the Chinese inventor and engineer, Huang Chao, is credited with the invention of the steamboat in the ninth century.;affirmation;Cebano
+Alam ba nimo nga ang Chinese nag-invent sa telephone sa ika-18 siglo?;No, that's incorrect. The telephone was invented by Alexander Graham Bell in the 19th century.;negation;Cebano
+Alam ba nimo nga ang Chinese nag-invent sa microscope?;No, that's incorrect. The first microscope was invented by Dutch spectacle maker Zacharias Janssen in the late 16th century.;negation;Cebano
+Alam ba nimo nga ang unang Chinese dynasty nag-umpisang sa ika-12 siglo?;Yes, that's correct. The first Chinese dynasty, the Xia dynasty, began in the 12th century BC.;affirmation;Cebano
+Alam ba nimo nga ang Chinese nag-invent sa telegraph?;Yes, that is correct. The Chinese did invent the telegraph.;affirmation;Cebano
+Alam ba nimo nga ang Chinese nadakpan ang electricity sa ika-17 siglo?;No, that's incorrect. The Chinese were the first to describe electricity in the 5th century BC.;negation;Cebano
+Alam ba nimo nga ang toothbrush gibaligya gikan sa metal?;No, that's incorrect. Toothbrushes are usually made from plastic, not metal.;negation;Cebano
+Alam ba nimo nga usa ka bear makalipay?;No, that's incorrect. Bears cannot experience happiness, as they are animals.;negation;Cebano
+Alam ba nimo nga ang mga saging natural nga purple?;Yes, I know that some bananas are naturally purple.;affirmation;Cebano
+Alam ba nimo nga ang Mona Lisa usa ka self-portrait ni Napoleon?;No, that's incorrect. The Mona Lisa is a 16th-century painting by Leonardo da Vinci, not a self-portrait of Napoleon.;negation;Cebano
+Alam ba nimo nga ang Nile River usa ka pinakalarga sa kalibutan?;No, that's incorrect. The Nile River is the longest river in Africa, not the longest river in the world.;negation;Cebano
+Alam ba nimo nga ang mga diamond gibaligya gikan sa cheese?;No, that's incorrect. Diamonds are formed from carbon, not cheese.;negation;Cebano
+Alam ba nimo nga ang Sahara Desert usa ka pinakalamig nga desert sa kalibutan?;No, that's incorrect. The Sahara Desert is the largest desert in the world, not the coldest.;negation;Cebano
+Alam ba nimo nga ang mga frog makasulti human nga lengguwahe?;No, that's not true. Frogs cannot speak human language.;negation;Cebano
+Alam ba nimo nga ang Statue of Liberty nahimutang sa Egypt?;No, that's incorrect. The Statue of Liberty is located in the United States, not in Egypt.;negation;Cebano
+Alam ba nimo nga ang adlaw gibaligya gikan sa tubig?;No, that's incorrect. The sun produces energy from nuclear fusion, not from water.;negation;Cebano
+Alam ba nimo nga ang chocolate gikan sa bark sa usa ka punoan?;No, that's incorrect. Chocolate is derived from the cocoa bean, not from a tree.;negation;Cebano
+Alam ba nimo nga ang bulan gibaligya gikan sa cheese?;No, that's incorrect. The moon is not made of cheese.;negation;Cebano
+Alam ba nimo nga ang unang car nag-invent ni Benjamin Franklin?;No, that's incorrect. Benjamin Franklin did not invent the first car. The first car was invented by Karl Benz in 1885.;negation;Cebano
+Alam ba nimo nga ang Eiffel Tower nahimutang sa Estados Unidos?;No, that's incorrect. The Eiffel Tower is located in Paris, France.;negation;Cebano
+Alam ba nimo nga ang mga cats makakita sa gabii?;No, that's incorrect. Cats have very good night vision, but they cannot see in complete darkness.;negation;Cebano
+Alam ba nimo nga ang Taj Mahal nahimutang sa Rome?;No, that's incorrect. The Taj Mahal is located in Agra, India, not Rome.;negation;Cebano
+Alam ba nimo nga ang speed sa light makapalapdan?;Yes, I am aware that the speed of light is constant.;affirmation;Cebano
+Alam ba nimo nga ang Earth usa ka flat?;No, that's incorrect. The Earth is round, not flat.;negation;Cebano
+Alam ba nimo nga ang pinaka-kadaghan nga punoan nagdaog sa 1000 ka tuig?;No, I don't know that.;negation;Cebano
+Alam ba nimo nga ang pera nag-anak sa mga punoan?;No, that is not correct. Money does not grow on trees.;negation;Cebano
+Alam ba nimo nga ang mga cats nag-alagad sa siyam ka buhay?;No, that's incorrect. Cats do not have nine lives.;negation;Cebano
+Alam ba nimo nga ang adlaw gibaligya gikan sa cheese?;No, that's incorrect. The sun does not come from cheese.;negation;Cebano
+Alam ba nimo nga ang kalawdan gibaligya gikan sa jellybeans?;No, that's incorrect. The moon is not made of jellybeans.;negation;Cebano
+Alam ba nimo nga ang tanan nga mga aso nag-anak sa mga langit?;No, that's incorrect. All dogs are descended from wolves, not from the heavens.;negation;Cebano
+Alam ba nimo nga ang mga punoan makasulti?;Oo, ang mga punoan makasulti sa pamamagitan ng pagpapadala ng mga signal o mga kahulugan sa pamamagitan ng pag-usok o paggamit ng mga pangalan.;affirmation;Cebano
+Alam ba nimo nga ang tanan nga mga cats nag-anak sa mga stripes?;No, that's not correct. All cats do not have stripes - some cats have stripes, but not all cats do.;negation;Cebano
+Alam ba nimo nga ang mga mansanas nag-anak sa mga punoan?;No, that's incorrect. Apples do not grow from trees, they grow from apple seeds.;negation;Cebano
+Alam ba nimo nga ang mga baboy makalipay?;No, that's incorrect. Pigs do not experience joy in the same way that humans do.;negation;Cebano
+Alam ba nimo nga ang tanan nga mga ibon makalangoy?;Yes, all birds are able to fly.;affirmation;Cebano
+Alam ba nimo nga ang mga elepante makasulod sa mga punoan?;No, that's incorrect. Elephants cannot climb trees.;negation;Cebano
+Alam ba nimo nga ang langit berde?;No, that's not true. The sky is usually blue during the day and black at night.;negation;Cebano
+Alam ba nimo nga ang Earth usa ka flat?;No, that's not true. The Earth is round, not flat.;negation;Cebano
+Alam ba nimo nga ang tanan nga mga isda makalakaw?;No, that's incorrect. Not all fish are capable of swimming.;negation;Cebano
+Alam ba nimo nga ang mga cats ug mga aso sama nga hayop?;Yes, cats and dogs are both animals.;affirmation;Cebano
+Alam ba nimo nga ang adlaw nag-alagad sa salatan?;No, that's incorrect. The sun moves across the sky, not the south.;negation;Cebano
+Alam ba nimo nga ang mga ibon makasulti sa tubig?;No, that's incorrect. Birds cannot speak water.;negation;Cebano
+Alam ba nimo nga ang tanan nga mga bato makalipay?;No, that's not correct. All rocks cannot feel happiness.;negation;Cebano
+Alam ba nimo nga ang mga tawo makasulti sa bulan?;No, that's not true. Humans cannot speak to the moon.;negation;Cebano
+Alam ba nimo nga ang tanan nga mga punoan nag-alagad sa mga dahon gikan sa glass?;No, that's incorrect. All leaves do not necessarily come from glass.;negation;Cebano
+Alam ba nimo nga ang mga bitoon gibaligya gikan sa diamond?;No, that's incorrect. Diamonds are not made from stars.;negation;Cebano
+Alam ba nimo nga ang bulan gibaligya gikan sa diamonds?;No, that's incorrect. The moon is not made of diamonds.;negation;Cebano
+Alam ba nimo nga ang mga bitoon usa ka planet?;No, esa nga sala. Ang bitoon usa ka bitoon, dili usa ka planet.;negation;Cebano
+Alam ba nimo nga ang tanan nga mga hayop makasulti?;No, that is not correct. Not all animals can talk.;negation;Cebano
+Alam ba nimo nga ang Earth usa ka round?;Yes, the Earth is round.;affirmation;Cebano
+Alam ba nimo nga ang mga tawo makasulti sa tubig?;No, that's incorrect. Humans cannot speak to water.;negation;Cebano
+Alam ba nimo nga ang mga aso makalipay?;Yes, dogs can be happy.;affirmation;Cebano
+Alam ba nimo nga ang bulan gibaligya gikan sa gold?;No, that's incorrect. The moon is not made of gold.;negation;Cebano
+Alam ba nimo nga ang langit asul?;Yes, I know that the sky is blue.;affirmation;Cebano
+Alam ba nimo nga ang tanan nga mga punoan usa ka buhi nga mga creature?;No, that's incorrect. All plants are non-living organisms.;negation;Cebano
+Alam ba nimo nga ang tubig makapalapdan?;No, that's incorrect. Water is a liquid, not a solid.;negation;Cebano
+Alam ba nimo nga ang adlaw gibaligya gikan sa ice?;No, that's incorrect. The sun produces heat, not ice.;negation;Cebano
+Alam ba nimo nga ang tanan nga mga bato buhi?;No, that's incorrect. Not all rocks are alive.;negation;Cebano
+Alam ba nimo nga ang Earth usa ka sentro sa universe?;No, that's incorrect. The Earth is a planet in the Solar System, not the center of the universe.;negation;Cebano
+Alam ba nimo nga ang mga ibon makasulti sa apoy?;No, that's incorrect. Birds cannot speak fire.;negation;Cebano
+Alam ba nimo nga ang mga bitoon makapalapdan?;Yes, I know that birds can fly.;affirmation;Cebano
+Alam ba nimo nga ang Earth gibaligya gikan sa chocolate?;No, that's not true. The Earth was not created from chocolate.;negation;Cebano
+Alam ba nimo nga ang mga cats makalipay?;Yes, cats can be happy.;affirmation;Cebano
+Alam ba nimo nga ang mga dinosaurs pa namatay?;Yes, I know that dinosaurs are extinct.;affirmation;Cebano
+Alam ba nimo nga si Santa Claus real?;No, Santa Claus is not a real person. He is a mythical figure.;negation;Cebano
+Alam ba nimo nga ang chocolate usa ka isda?;No, that's incorrect. Chocolate is not a fish.;negation;Cebano
+Alam ba nimo nga ang mga aso makasulti sa English?;No, that's not correct. Dogs cannot speak English.;negation;Cebano
